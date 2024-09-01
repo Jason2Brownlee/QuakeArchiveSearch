@@ -1,0 +1,10 @@
+# git ignore
+
+# ignore mac files
+.DS_Store
+# ignore temp downloads
+data/wayback_downloads
+# ignore the whole index
+data/quake_website.db
+
+

@@ -1,0 +1,193 @@
+# list of websites to download from archive.org and crawl for links
+
+# TODO: increase filter from 2000 to 2010
+# this is critical as a ton of content is filtered out
+# will require re-downloading each sites list of pages from archive (hack the code)
+
+
+# Quakeholio / Scary's News / ShugaShack / ShackNews
+rockisland.com/~phook/scary
+canweb.net/~smiles
+gamesmania.com/quakehole
+quakehole.com
+scary.vrgames.net
+
+# cdrom.com
+cdrom.com/pub/idgames2
+ftp.cdrom.com/pub/quake
+ftp.cdrom.com/pub/idgames2
+ftp.cdrom.com/.1/idgames2
+ftp.cdrom.com/.2/idgames2
+ftp.cdrom.com/.3/idgames2
+ftp.cdrom.com/.4/idgames2
+ftp.cdrom.com/.5/idgames2
+
+# Dennis Noordsij Quake News
+web.inter.NL.net/users/L.J.Noordsij
+
+# Shake N' Quake
+canvasnet.com/quake
+ftp.canvasnet.com
+
+# YoonioR's Quakepage
+pk.edu.pl/~pmj/quake
+riad.usk.pk.edu.pl/~pmj/quake
+ftp.pk.edu.pl/pub/games/id/quaketoys
+ftp.task.gda.pl/pub/games/id/quaketoys
+
+# redwood
+http.tamu.edu:8000/~stm9233
+aggiequake.tamu.edu
+redwood.gatsbyhouse.com
+redwood.stomped.com
+# stomped.com
+qwcentral.stomped.com
+
+# 3wavectf
+quake.threewave.com
+threewave.planetquake.com
+planetquake.com/quakex/threewave
+
+# blues news
+panix.com/~sheaslip
+
+# aftershock
+nuqneH.org/aftershock
+
+# eliminator bot
+iinet.com.au/~cam
+# frogbot
+telefragged.com/metro
+# zeus bot
+trailerpark.com/phase1/nelno
+planetquake.com/zeus
+# oak bot
+web.ukonline.co.uk/neil.henderson
+web.ukonline.co.uk/johnc
+oakbots.co.uk
+telefragged.com/oak
+# RichMark
+pw2.netcom.com/~kroeker
+
+# quake mecca
+quakemecca.simplenet.com
+
+# other ftp (done)
+# ftp.telepac.pt/pub/idgames2
+# ftp.sunet.se/pub2/pc/games/idgames2
+# ftp.sunet.se/pub/pc/games/idgames2
+# ftp.sunet.se/idgames2
+
+# other news
+mdqnet.net
+botepidemic.com
+planetquake.com/qca
+reality.sgi.com/rae
+reality.sgi.com/rae_aw
+quake.errorabove.com
+quake.crimea.ua
+imaxx.net/~dakota
+quake.zone.ru
+quakefiles.com
+quakeworld.net
+
+# mac mods
+macquakeinfinity.com
+numb.macquakeinfinity.com
+railgun.macquakeinfinity.com
+skillz.macquakeinfinity.com
+ftp.macquakeinfinity.com
+numb.quakeintosh.com
+quakeintosh.com
+
+# parboil
+parboil.mailru.com
+parboil.newmail.ru
+parboil.quakeworld.ru
+
+# other bots
+dmsoul.mailru.com
+dmsoul.newmail.ru
+iinet.net.au/~den
+quake.tronet.troitsk.ru
+quakebot.net
+planetquake.com/minion
+planetquake.com/botshop
+planetquake.com/botarea51
+planetquake.com/mikebot
+planetquake.com/jvox
+egroups.com/files/friktf
+groups.yahoo.com/group/friktf
+rmbwenw.nl/botarea51
+
+# client bots/cheats
+quakecheats.b0x.com
+users.bigpond.com/clanslug
+
+mindspring.com/~win32ch
+mindspring.com/~darkskye
+mindspring.com/~orionx
+mindspring.com/~jamesloe
+mindspring.com/~forceclan
+mindspring.com/~felker
+
+# all geocitities, often a good source of things
+geocities.com/cheatatquake
+geocities.com/collegepark/2458
+geocities.com/fragtown
+geocities.com/maleficus666
+geocities.com/mlbl
+geocities.com/oldquaker
+geocities.com/pilxtc
+geocities.com/quakestorage
+geocities.com/siliconvalley/heights/2819
+geocities.com/siliconvalley/heights/7043
+geocities.com/siliconvalley/heights/7812
+geocities.com/siliconvalley/lakes/8316
+geocities.com/siliconvalley/park/3251
+geocities.com/siliconvalley/park/3278
+geocities.com/siliconvalley/park/3738
+geocities.com/siliconvalley/park/5623
+geocities.com/siliconvalley/sector/7514
+geocities.com/siliconvalley/vista/1052
+geocities.com/timessqare/arcade/6028
+geocities.com/timessquare/8599
+geocities.com/timessquare/alley/5214
+geocities.com/timessquare/arcade/1975
+geocities.com/timessquare/arcade/6461
+geocities.com/timessquare/arcade/9567
+geocities.com/timessquare/arena/2818
+geocities.com/timessquare/battlefield/2313
+geocities.com/timessquare/battlefield/9325
+geocities.com/timessquare/dungeon/1271
+geocities.com/timessquare/dungeon/3965
+geocities.com/timessquare/fortress/7565
+geocities.com/timessquare/hangar/8961
+geocities.com/timessquare/lair/1074
+geocities.com/timessquare/ring/3150
+geocities.com/~quakecollege
+
+geocities.ws/cheatatquake
+geocities.ws/maleficus666
+geocities.ws/mlbl
+geocities.ws/oldquaker
+geocities.ws/pilxtc
+
+# TODO: additional sites
+forums.inside3d.com
+inside3d.com
+
+
+# TODO - these big sites
+# bluesnews.com
+# shugashack.com
+# hipnotic.com
+# ritual.com
+# sunsite.org.uk/packages/idgames2
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake
+# sunsite.doc.ic.ac.uk/packages/idgames2
+# nctuccca.edu.tw/PC/games/QUAKE
+# kinglink.com
+# botboard.telefragged.com
+# captured.com
