@@ -9,7 +9,7 @@ import json
 import sqlite3
 
 # config
-quake_websites_file = '../data/quake_websites_archived.txt'
+quake_websites_file = '../data/quake_websites_crawl.txt'
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
 year_cutoff = 2000
