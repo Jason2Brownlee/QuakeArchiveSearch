@@ -26,13 +26,13 @@ This project aims to serve as a vital resource for the Quake community, enabling
 
 While the Internet Archive's Wayback Machine is an invaluable resource for accessing archived web content, it has limitations when it comes to discovering and accessing Quake-related files across multiple websites:
 
-1. Limited Cross-Site Search: The Wayback Machine only allows searching within one website at a time. Our Quake Archive Search enables users to **search across all archived websites simultaneously**, greatly expanding the scope of discoverable content.
+1. **Limited Cross-Site Search**: The Wayback Machine only allows searching within one website at a time. Our Quake Archive Search enables users to **search across all archived websites simultaneously**, greatly expanding the scope of discoverable content.
 
-2. No Archive Crawling: The Wayback Machine doesn't crawl the content of archived webpages. This means that files and URLs listed within archived pages remain hidden unless manually inspected. Our tool **actively crawls and indexes the content of archived webpages**, uncovering a wealth of previously inaccessible Quake file URLs.
+2. **No Archive Crawling**: The Wayback Machine doesn't crawl the content of archived webpages. This means that files and URLs listed within archived pages remain hidden unless manually inspected. Our tool **actively crawls and indexes the content of archived webpages**, uncovering a wealth of previously inaccessible Quake file URLs.
 
-3. Quake-Specific Focus: Unlike the general-purpose Wayback Machine, our tool is **tailored specifically for the archived Quake webpages**. It understands the context of Quake file types, hosting patterns, and community-specific resources.
+3. **Quake-Specific Focus**: Unlike the general-purpose Wayback Machine, our tool is **tailored specifically for the archived Quake webpages**. It understands the context of Quake file types, hosting patterns, and community-specific resources.
 
-4. Aggregation and Standardization: We collect URLs from various sources, standardize their format, and remove duplicates, providing a clean, unified database of Quake file locations.
+4. **Aggregation and Standardization**: We collect URLs from various sources, standardize their format, and remove duplicates, providing a clean, unified database of Quake file locations.
 
 By addressing these specific issues, the Quake Archive Search project complements the Wayback Machine, offering a more powerful and targeted solution for preserving and accessing the rich history of Quake content.
 
@@ -97,3 +97,6 @@ Increase the cutoff year for the archive retrieval as needed (e.g. from 2000 to 
 * Add URLs discovered from a crawl of current Quake websites.
 * Add URLs discovered from a crawl of quake USENET archives.
 * Add URLs discovered from a crawl of quake mailing list archives.
+* Add Makefile and make targets for main tasks for the project.
+* Port the database to postgres/mysql/etc.
+* Host website publicly somewhere.
