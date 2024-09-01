@@ -38,13 +38,13 @@ By addressing these specific issues, the Quake Archive Search project complement
 
 ## Usage
 
-## Create the database
+### Create the database
 
 1. Create the database schema by running `src/database_create.py`.
 
 This will result in a database file `data/quake_website.db`.
 
-### Add archived URLs from known Quake websites
+### Add all archived URLs for known Quake websites
 
 This will retrieve all URLs archived by the wayback machine for a specified list of Quake websites.
 
@@ -63,7 +63,7 @@ For example:
 * `data/quake_bot_websites.txt` all websites mentioned in all .txt and all .zip files in the quake bot archive bin directory.
 * `data/quake_official_websites.txt` all websites mentioned in all .txt and all .zip files in the quake official archive bin directory.
 
-### Add crawled URLs from archived Quake websites
+### Add crawled URLs for archived Quake websites
 
 1. Define a list of Quake websites to download and crawl in `data/quake_websites_crawl.txt`
 2. Run the crawl script in `src/process_archived_crawl.py`
@@ -90,3 +90,10 @@ Increase the cutoff year for the archive retrieval as needed (e.g. from 2000 to 
 * Output all quake websites (added via lists) with `src/quake_websites_list.py`
 * Report all quake file urls for wishlist files not in wishlist urls via `src/wishlist_url_checker.py`
 
+## TODO
+
+* Add URLs discovered from a crawl of Quake CDs on archive.org (magazines, compilations, tools, etc.).
+* Add URLs discovered from a crawl of Quake CD files (may require a download first).
+* Add URLs discovered from a crawl of current Quake websites.
+* Add URLs discovered from a crawl of quake USENET archives.
+* Add URLs discovered from a crawl of quake mailing list archives.
