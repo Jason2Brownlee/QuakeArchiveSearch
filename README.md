@@ -7,52 +7,31 @@ This project provides a searchable index of all known Quake file URLs.
 
 ## Problem
 
-Quake archiving involves locating and hosting all released files.
-
-This might be focused on a theme (e.g. all releases of all quake bots in the [quake bot archive](https://github.com/Jason2Brownlee/QuakeBotArchive)).
-
-This might be focused on a single mod (e.g. all releases of 3wavectf in the [three wave ctf archive](https://github.com/Jason2Brownlee/ThreeWaveCTF))
-
-Quake file archiving involves two activities:
-
-1. Discovering what files were released.
-	a. Searching URL lists in the wayback machine for individual quake websites.
-	b. Google searches
-	c. Searches of USENET archives.
-	d. Searches of file lists for individual quake CDs (magazines, complications, etc.)
-	e. Manually reading news posts on historical quake webpages.
-	f. Manually reading download pages for quake mod webpages.
-	g. Manually reading USENET posts.
-	h. etc.
-2. Acquiring a copy of all known files
-	a. Download from archive.org
-	b. Downloading from the internet.
-	c. Downloading from another archive.
-
-
-Discovering what files exist is time consuming.
-
-It typically involves manually reading and manually searching old quake news posts for mention of the quake mod under study and discovering mention and URL links to the mod.
-
-Once a filename release convention for the mod is established, we can search on google, usenet, and url archives in the wayback machine for specific websites.
+The Quake community has produced a vast amount of content over the years, including mods, maps, texture packs, and other files. However, as time passes, many of these files become difficult to locate due to broken links, defunct websites, and scattered hosting locations. This situation makes it challenging for Quake enthusiasts to discover, access, and preserve this valuable content.
 
 ## Solution
 
-What is needed is an index of all known Quake file URLs.
+The Quake Archive Search project addresses this issue by providing a comprehensive database and search tool for Quake 1 file URLs. Key features include:
 
-This will help in two ways:
+- A centralized index of known Quake file URLs
+- Powerful search capabilities, including wildcard support
+- Integration with the Internet Archive's Wayback Machine for accessing archived versions of files
+- Tools for creating and updating the file archive from various sources
+- A user-friendly web interface built with Flask
+- Python scripts for programmatic access to the database
 
-1. Help to locate all versions of a mod using wildcards.
-2. List all location where the file was known to have been hosted.
+This project aims to serve as a vital resource for the Quake community, enabling easier discovery and preservation of Quake-related content.
 
-For example, if we know that frogbot releases were released like `frogbot007.zip`, then we can search all known URLs with a wildcard search like `frogbot00*.zip`. This will expose releases like `frogbot005.zip` and `frogbot003.zip` but perhaps less widly known releases like `frogbot011a.zip` and `frogbot012b.zip`.
+## Why Not Just Use the Wayback Machine?
 
-Once we know what files to acquire, we need to know real URLs for where these files were hosted historically. This is so we can check if they were archived in the wayback machine and acquire them.
+While the Internet Archive's Wayback Machine is an invaluable resource for accessing archived web content, it has limitations when it comes to discovering and accessing Quake-related files across multiple websites:
 
-Other places to look for the preservation of the URLs includes:
+1. Limited Cross-Site Search: The Wayback Machine only allows searching within one website at a time. Our Quake Archive Search enables users to **search across all archived websites simultaneously**, greatly expanding the scope of discoverable content.
 
-* Game magazine CDs and distinct FTP archives, both already searchable by [discmaster](http://discmaster.textfiles.com/search).
-* BBS CD archives, already searchable by [textfiles](https://textfiles.com/)
-* Google is less reliable as a file search engine, but sometimes will discover a result.
+2. No Archive Crawling: The Wayback Machine doesn't crawl the content of archived webpages. This means that files and URLs listed within archived pages remain hidden unless manually inspected. Our tool **actively crawls and indexes the content of archived webpages**, uncovering a wealth of previously inaccessible Quake file URLs.
 
+3. Quake-Specific Focus: Unlike the general-purpose Wayback Machine, our tool is **tailored specifically for the archived Quake webpages**. It understands the context of Quake file types, hosting patterns, and community-specific resources.
 
+4. Aggregation and Standardization: We collect URLs from various sources, standardize their format, and remove duplicates, providing a clean, unified database of Quake file locations.
+
+By addressing these specific issues, the Quake Archive Search project complements the Wayback Machine, offering a more powerful and targeted solution for preserving and accessing the rich history of Quake content.
