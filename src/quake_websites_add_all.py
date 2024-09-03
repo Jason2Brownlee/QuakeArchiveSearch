@@ -4,10 +4,10 @@ import sys
 
 DATABASE = '../data/quake_website.db'
 
-# URL_FILE = '../data/quake_websites.txt'
+URL_FILE = '../data/quake_websites.txt'
 # URL_FILE = '../data/quake_bot_websites.txt'
 # URL_FILE = '../data/quake_bot_research_websites2.txt'
-URL_FILE = '../data/quake_official_websites.txt'
+# URL_FILE = '../data/quake_official_websites.txt'
 
 
 def standardize_url(url):

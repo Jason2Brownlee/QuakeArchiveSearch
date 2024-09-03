@@ -5,11 +5,11 @@ import sqlite3
 DATABASE = '../data/quake_website.db'
 
 # Paths to the wishlist files
-# url_wishlist_path = '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt'
-# filename_wishlist_path = '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt'
+url_wishlist_path = '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt'
+filename_wishlist_path = '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt'
 
-url_wishlist_path = '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt'
-filename_wishlist_path = '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt'
+# url_wishlist_path = '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt'
+# filename_wishlist_path = '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt'
 
 
 def read_text_file(file_path):

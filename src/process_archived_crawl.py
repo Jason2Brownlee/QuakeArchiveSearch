@@ -273,7 +273,10 @@ def process_quake_website():
             os.makedirs(website_temp_dir)
 
         # Fetch and process the Wayback Machine URLs for this specific website
-        wayback_entries = fetch_wayback_urls(quake_website_url, year_cutoff, website_temp_dir)
+        try:
+            wayback_entries = fetch_wayback_urls(quake_website_url, year_cutoff, website_temp_dir)
+        except:
+            continue;
 
         for entry in wayback_entries:
             timestamp, original_url, mimetype, statuscode = entry

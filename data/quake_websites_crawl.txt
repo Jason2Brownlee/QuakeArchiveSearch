@@ -88,7 +88,6 @@ quake.errorabove.com
 quake.crimea.ua
 imaxx.net/~dakota
 quake.zone.ru
-quakefiles.com
 quakeworld.net
 
 # mac mods
@@ -173,21 +172,21 @@ geocities.ws/mlbl
 geocities.ws/oldquaker
 geocities.ws/pilxtc
 
-# TODO: additional sites
 forums.inside3d.com
 inside3d.com
 
 
-# TODO - these big sites
-# bluesnews.com
-# shugashack.com
-# hipnotic.com
-# ritual.com
-# sunsite.org.uk/packages/idgames2
-# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake
-# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake
-# sunsite.doc.ic.ac.uk/packages/idgames2
-# nctuccca.edu.tw/PC/games/QUAKE
-# kinglink.com
-# botboard.telefragged.com
-# captured.com
+# bigger sites
+bluesnews.com
+shugashack.com
+hipnotic.com
+ritual.com
+sunsite.org.uk/packages/idgames2
+sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake
+sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake
+sunsite.doc.ic.ac.uk/packages/idgames2
+nctuccca.edu.tw/PC/games/QUAKE
+kinglink.com
+botboard.telefragged.com
+captured.com
+quakefiles.com

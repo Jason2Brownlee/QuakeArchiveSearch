@@ -1373,4 +1373,8 @@ ftp.quakecafe.com
 silcon.com/~krampstr
 ace.cs.ohiou.edu/~adistler
 
+vintageapplemac.com
+mc68000.org
+dnaco.net/~beavis
+porkrind.org
 
