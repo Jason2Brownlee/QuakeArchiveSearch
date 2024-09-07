@@ -22,26 +22,21 @@ ftp.cdrom.com/.3/idgames2
 ftp.cdrom.com/.4/idgames2
 ftp.cdrom.com/.5/idgames2
 
-# Dennis Noordsij Quake News
-web.inter.NL.net/users/L.J.Noordsij
+
 
 # Shake N' Quake
 canvasnet.com/quake
 ftp.canvasnet.com
 
-# YoonioR's Quakepage
-pk.edu.pl/~pmj/quake
-riad.usk.pk.edu.pl/~pmj/quake
-ftp.pk.edu.pl/pub/games/id/quaketoys
-ftp.task.gda.pl/pub/games/id/quaketoys
+
 
 # redwood
 http.tamu.edu:8000/~stm9233
 aggiequake.tamu.edu
 redwood.gatsbyhouse.com
 redwood.stomped.com
-# stomped.com
 qwcentral.stomped.com
+
 
 # 3wavectf
 quake.threewave.com
@@ -72,12 +67,6 @@ pw2.netcom.com/~kroeker
 # quake mecca
 quakemecca.simplenet.com
 
-# other ftp (done)
-# ftp.telepac.pt/pub/idgames2
-# ftp.sunet.se/pub2/pc/games/idgames2
-# ftp.sunet.se/pub/pc/games/idgames2
-# ftp.sunet.se/idgames2
-
 # other news
 mdqnet.net
 botepidemic.com
@@ -89,46 +78,22 @@ quake.crimea.ua
 imaxx.net/~dakota
 quake.zone.ru
 quakeworld.net
+allgames.com/quake
 
-# mac mods
-macquakeinfinity.com
-numb.macquakeinfinity.com
-railgun.macquakeinfinity.com
-skillz.macquakeinfinity.com
-ftp.macquakeinfinity.com
-numb.quakeintosh.com
-quakeintosh.com
-
-# parboil
-parboil.mailru.com
-parboil.newmail.ru
-parboil.quakeworld.ru
 
 # other bots
-dmsoul.mailru.com
-dmsoul.newmail.ru
-iinet.net.au/~den
-quake.tronet.troitsk.ru
 quakebot.net
 planetquake.com/minion
 planetquake.com/botshop
 planetquake.com/botarea51
 planetquake.com/mikebot
 planetquake.com/jvox
-egroups.com/files/friktf
-groups.yahoo.com/group/friktf
-rmbwenw.nl/botarea51
+planetquake.com/ramshackle
 
 # client bots/cheats
 quakecheats.b0x.com
 users.bigpond.com/clanslug
-
-mindspring.com/~win32ch
-mindspring.com/~darkskye
-mindspring.com/~orionx
-mindspring.com/~jamesloe
-mindspring.com/~forceclan
-mindspring.com/~felker
+botsquake.fortunecity.ws
 
 # all geocitities, often a good source of things
 geocities.com/cheatatquake
@@ -165,6 +130,7 @@ geocities.com/timessquare/hangar/8961
 geocities.com/timessquare/lair/1074
 geocities.com/timessquare/ring/3150
 geocities.com/~quakecollege
+geocities.com/TimesSquare/Castle/6391
 
 geocities.ws/cheatatquake
 geocities.ws/maleficus666
@@ -175,18 +141,18 @@ geocities.ws/pilxtc
 forums.inside3d.com
 inside3d.com
 
+# other
+impulse1.com
+home.t-online.de/home/026051408
+home.t-online.de/home/0551705030
+home.t-online.de/home/mag.enta
+home.t-online.de/home/blue.xevious
 
-# bigger sites
-bluesnews.com
-shugashack.com
-hipnotic.com
-ritual.com
-sunsite.org.uk/packages/idgames2
-sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake
-sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake
-sunsite.doc.ic.ac.uk/packages/idgames2
-nctuccca.edu.tw/PC/games/QUAKE
-kinglink.com
-botboard.telefragged.com
-captured.com
-quakefiles.com
+
+# other ftp (done)
+ftp.telepac.pt/pub/idgames2
+ftp.sunet.se/pub2/pc/games/idgames2
+ftp.sunet.se/pub/pc/games/idgames2
+ftp.sunet.se/idgames2
+
+

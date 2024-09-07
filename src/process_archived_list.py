@@ -5,6 +5,7 @@ import time
 
 DATABASE = '../data/quake_website.db'
 SLEEP_TIME = 10
+REQUEST_TIMEOUT = 30  # 30 seconds
 
 def standardize_url(url):
     """
@@ -43,7 +44,7 @@ def fetch_wayback_urls(url):
     # CDX API endpoint for querying archived URLs
     cdx_url = f"http://web.archive.org/cdx/search/cdx?url={url}*&output=json&fl=original&collapse=urlkey"
 
-    response = requests.get(cdx_url)
+    response = requests.get(cdx_url, timeout=(REQUEST_TIMEOUT,REQUEST_TIMEOUT))
     response.raise_for_status()  # Raise an exception for HTTP errors
 
     data = response.json()

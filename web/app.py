@@ -47,10 +47,10 @@ def index():
 
             # Build the SQL query based on the search type
             if search_type == "contains":
-                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 200"
+                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 500"
                 params = ('%' + sql_search_query + '%',)
             elif search_type == "ends_with":
-                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 200"
+                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 500"
                 params = ('%' + sql_search_query,)
 
             # Execute the query

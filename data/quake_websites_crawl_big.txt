@@ -1,0 +1,42 @@
+# big websites that are slow to process
+
+# limit to 1997 or 1998 to reduce downloads...
+
+
+# ftp
+# sunsite.org.uk/packages/idgames2
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake
+# sunsite.doc.ic.ac.uk/packages/idgames2
+# nctuccca.edu.tw/PC/games/QUAKE
+
+# news
+
+bluesnews.com
+stomped.com
+planetquake.com
+hipnotic.com
+ritual.com
+
+telefragged.com
+frag.com
+botboard.telefragged.com
+besmella-quake.com
+fragzone.se
+
+shugashack.com
+
+
+kinglink.com
+captured.com
+quakefiles.com
+meccaworld.com
+slipgatecentral.com
+
+
+
+# massive
+gameaholic.com/idgames
+fileaholic.com/idgames.d/quake
+
+

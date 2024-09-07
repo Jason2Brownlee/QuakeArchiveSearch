@@ -79,6 +79,10 @@ def standardize_url(url):
     path = unquote(path)
     path = quote(path, safe='/')
 
+# HACK
+    # remove path
+    # path = ''
+
     # Rebuild the URL with the scheme and the normalized path
     standardized_url = urlunparse((scheme, netloc, path, '', '', ''))
 
@@ -167,13 +171,16 @@ def scan_directory(dirs):
                 filepath = os.path.join(root, filename)
                 file_urls = set()
 
-                if filename.endswith('.txt'):
-                    # print(f"Processing text file: {filepath}")
-                    file_urls = process_text_file(filepath)
+# HACK, just open everything
+                file_urls = process_text_file(filepath)
 
-                elif filename.endswith('.zip'):
-                    # print(f"Processing zip file: {filepath}")
-                    file_urls = process_zip_file(filepath)
+                # if filename.endswith('.txt'):
+                #     # print(f"Processing text file: {filepath}")
+                #     file_urls = process_text_file(filepath)
+
+                # elif filename.endswith('.zip'):
+                #     # print(f"Processing zip file: {filepath}")
+                #     file_urls = process_zip_file(filepath)
 
                 # TODO support .tar.gz and .gz and .rpm
 
@@ -182,6 +189,9 @@ def scan_directory(dirs):
                 for url in file_urls:
                     try:
                         clean_url = standardize_url(url)
+# HACK, report raw URLs
+                        # clean_url = url
+
                         if clean_url:
                             clean_urls.add(clean_url)
                     except:
@@ -201,23 +211,23 @@ def scan_directory(dirs):
 if __name__ == "__main__":
 
     # quake bots
-    dirs = ['/Users/jasonb/Development/Quake/QuakeBotArchive/bin/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/eliminator/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frikbot/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frogbot/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mikebot/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mystery/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/omicron/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/other/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/reaper/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/richmark/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/stoogebot/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/tedbot/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/terminator/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/research/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/research/essays/',
-            '/Users/jasonb/Development/Quake/QuakeBotArchive/dev/'
-            ]
+    # dirs = ['/Users/jasonb/Development/Quake/QuakeBotArchive/bin/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/eliminator/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frikbot/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frogbot/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mikebot/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mystery/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/omicron/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/other/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/reaper/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/richmark/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/stoogebot/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/tedbot/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/terminator/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/research/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/research/essays/',
+    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/dev/'
+    #         ]
 
     # official
     # dirs = ['/Users/jasonb/Development/Quake/QuakeOfficialArchive/bin/',
@@ -226,6 +236,47 @@ if __name__ == "__main__":
 
     # 3wavectf
     # dirs = ['/Users/jasonb/Development/Quake/ThreeWaveCTF/bin']
+
+    # quakec mailing list
+    # dirs = ['/Users/jasonb/Games/QuakeFiles/QuakeCMailingList']
+
+    # newsgroups (to 1997)
+    # quakec
+    dirs = ['/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n00/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n01/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n02/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n03/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n04/',
+
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n00/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n01/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n02/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n03/',
+
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n00/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n01/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n02/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n03/',
+
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n00/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n01/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n02/',
+
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n00/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n01/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n02/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n03/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n04/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n05/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n06/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n07/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n08/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n09/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n10/',
+            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n11/',
+    ]
+
+
 
 
 

@@ -1,0 +1,81 @@
+# websites where we want to crawl all of the history, e.g. to the 2020s
+
+# Dennis Noordsij Quake News
+web.inter.NL.net/users/L.J.Noordsij
+
+geocities.com/TimesSquare/Dungeon/1271
+proaxis.com/~rowell
+
+# parboil
+parboil.mailru.com
+parboil.newmail.ru
+parboil.quakeworld.ru
+
+# YoonioR's Quakepage
+pk.edu.pl/~pmj/quake
+riad.usk.pk.edu.pl/~pmj/quake
+ftp.pk.edu.pl/pub/games/id/quaketoys
+ftp.task.gda.pl/pub/games/id/quaketoys
+
+# drivers
+gona.mactar.hu
+
+# other bots
+dmsoul.mailru.com
+dmsoul.newmail.ru
+egroups.com/files/friktf
+groups.yahoo.com/group/friktf
+rmbwenw.nl/botarea51
+# ucalgary.ca/~mbwarren
+web.singnet.com.sg/~mhidayat
+ens.fr/~cridlig
+ccn.cs.dal.ca/~ae142
+www-graphics.stanford.edu/~quake
+iinet.net.au/~den
+quake.tronet.troitsk.ru
+# mdqnet.net
+members.xoom.com/mtm07
+pw2.netcom.com/~kroeker
+users.bigpond.com/clanslug
+quake.crimea.ua
+quake.tronet.troitsk.ru
+# botepidemic.com
+botepidemic.com/fmods
+
+# randar
+randars.com
+members.cox.net/randar
+home.earthlink.net/~gbppap
+users.qwest.net/~mimpchnk
+users.uswest.net/~mimpchnk
+ionet.net/~mimpchnk
+
+
+# mac mods
+# macquakeinfinity.com
+numb.macquakeinfinity.com
+railgun.macquakeinfinity.com
+skillz.macquakeinfinity.com
+ftp.macquakeinfinity.com
+numb.quakeintosh.com
+# quakeintosh.com
+
+mindspring.com/~win32ch
+mindspring.com/~darkskye
+mindspring.com/~orionx
+mindspring.com/~jamesloe
+mindspring.com/~forceclan
+mindspring.com/~felker
+
+win32ch.home.mindspring.com
+darkskye.home.mindspring.com
+orionx.home.mindspring.com
+jamesloe.home.mindspring.com
+forceclan.home.mindspring.com
+felker.home.mindspring.com
+
+westga.edu/~stu7440
+
+methosq.com
+
+

@@ -9,13 +9,10 @@ import json
 import sqlite3
 
 # config
-# quake_websites_file = '../data/quake_websites_crawl_all.txt'
-# quake_websites_file = '../data/quake_websites_crawl.txt'
-quake_websites_file = '../data/quake_websites_crawl_big.txt'
-
+quake_websites_file = '../data/quake_websites_crawl.txt'
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
-year_cutoff = 2000
+year_cutoff = 2020
 delay_seconds = 15
 
 # api locations
@@ -123,8 +120,6 @@ def clean_url(url):
         return None
     if url.startswith('news:'):
         return None
-    if url.startswith('javascript:'):
-        return None
 
     # standardize the result for insertion into the database
     try:
@@ -146,37 +141,9 @@ def rate_limited():
     # Update the last_time after potentially sleeping
     last_download_time = time.time()
 
-def download_and_parse_url(timestamp, original_url, website_temp_dir):
-    # Construct the full Wayback URL
-    wayback_url = f"{WAYBACK_BASE_URL}{timestamp}/{original_url}"
-
-    # Create a unique filename by hashing the full original URL path
-    url_hash = hashlib.md5(original_url.encode('utf-8')).hexdigest()
-    safe_path = original_url.replace("/", "_").replace(":", "_")
-    filename = os.path.join(website_temp_dir, f"{timestamp}_{safe_path}_{url_hash}.html")
-
-    # Check if the file already exists to avoid re-downloading
-    if os.path.exists(filename):
-        # print(f"File already downloaded: {filename}")
-        with open(filename, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        # skip...
-        # return []
-        # NO, because we may miss pages of urls on the restart
-        # just re-insert everything...
-    else:
-        # Rate limit downloads
-        rate_limited()
-        # Download the content
-        response = requests.get(wayback_url)
-        response.raise_for_status()
-        content = response.text
-
-        # Save to a temporary file
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-
+def download_and_parse_url(filename, original_url):
+    with open(filename, 'r', encoding='utf-8') as f:
+        content = f.read()
     # Parse the content to extract URLs
     extracted_urls = extract_urls_from_content(content, original_url)
     return extracted_urls
@@ -233,25 +200,6 @@ def extract_urls_from_content(content, base_url):
 
     return urls
 
-def read_quake_websites(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        websites = [line.strip() for line in f if line.strip()]
-    return websites
-
-
-def batch_insert_urls(extracted_urls):
-    # Connect to the SQLite database
-    conn = sqlite3.connect(DATABASE)
-    cursor = conn.cursor()
-
-    for url in extracted_urls:
-        try:
-            cursor.execute('INSERT OR IGNORE INTO File_URL (file_url) VALUES (?)', (url,))
-        except sqlite3.Error as e:
-            print(f"Failed to insert {url}: {e}")
-    conn.commit()
-    conn.close()
-
 def sanitize_url_for_dirname(url):
     """
     Sanitize the website URL to create a safe directory name.
@@ -259,16 +207,17 @@ def sanitize_url_for_dirname(url):
     """
     return re.sub(r'[^\w\-]', '_', url)
 
+
+
+
 def process_quake_website():
 
-    quake_websites = read_quake_websites(quake_websites_file)
+    quake_websites = ['quakehole.com']
 
     for quake_website_url in quake_websites:
-        # skip comments
-        if quake_website_url.startswith('#'):
-            continue
-
         print(f"Processing website: {quake_website_url}")
+
+        orig_url = f'http://{quake_website_url}'
 
         all_extracted_urls = set()
 
@@ -279,51 +228,18 @@ def process_quake_website():
         url_hash = hashlib.md5(quake_website_url.encode('utf-8')).hexdigest()
         website_temp_dir = os.path.join(temp_dir, f"{sanitized_url}_{url_hash}")
 
-        if not os.path.exists(website_temp_dir):
-            os.makedirs(website_temp_dir)
-
-        # Fetch and process the Wayback Machine URLs for this specific website
-        try:
-            wayback_entries = fetch_wayback_urls(quake_website_url, year_cutoff, website_temp_dir)
-        except:
-            continue;
-
-        for i,entry in enumerate(wayback_entries):
-            timestamp, original_url, mimetype, statuscode = entry
-
-            if not is_text_content(mimetype):
-                # print(f"Skipping non-text content: {original_url} (mimetype: {mimetype})")
-                continue
-
-            # print(f"Processing URL: {original_url} from {timestamp}")
-
-            try:
+        for root, _, files in os.walk(website_temp_dir):
+            for filename in files:
+                # construct the path
+                filepath = os.path.join(root, filename)
                 # get urls
-                extracted_urls = download_and_parse_url(timestamp, original_url, website_temp_dir)
+                extracted_urls = download_and_parse_url(filepath, orig_url)
+                # update set
+                all_extracted_urls.update(extracted_urls)
+        # report all urls
+        for item in sorted(all_extracted_urls):
+            print(f'> {item}')
 
-                if extracted_urls:
-                    # report progress
-                    for item in sorted(extracted_urls):
-                        print(f'> {item}')
-
-                    # update set
-                    all_extracted_urls.update(extracted_urls)
-
-                    # report progress
-                    print(f'{i+1}/{len(wayback_entries)}')
-
-                # insert data more often
-                # if len(all_extracted_urls) >= 100:
-                if (i % 100) == 0:
-                    # Batch insert the URLs after processing the entire website
-                    batch_insert_urls(all_extracted_urls)
-                    all_extracted_urls = set()
-
-            except Exception as e:
-                print(f"Failed to download or parse {original_url}: {e}")
-
-        # Batch insert the URLs after processing the entire website
-        batch_insert_urls(all_extracted_urls)
 
 # entry point
 if __name__ == "__main__":
