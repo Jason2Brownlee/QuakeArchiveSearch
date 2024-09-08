@@ -1,0 +1,107 @@
+# ad hoc websites to crawl
+
+
+# quake bots and files, 2011
+# members.multimania.nl/nqeu
+
+# quake files and bots, 2006-2007
+# quake.errorabove.com
+
+# quake files bots, 1998
+# fragzone.se/quake/files
+
+# files and bots, -2017
+# quake-1.com
+
+# files and bots (1998-1999)
+# quake.org.pl/files
+
+# bots (2003-2005)
+# nygmafiles.essentrix.net
+
+# 2001
+# quaketerminus.freeola.com
+
+# small site (-2001)
+# mdqnet.net
+
+
+# teamfortress
+128.61.65.18/quake
+195.48.234.82/games/quake
+atmnet.btc.gatech.edu
+ccnet.com/~jhurtcjh
+cdrom.com/pub/idgames2/levels/team_fortress
+clanmarauder.com/gandalf
+clanmegadeath.com/fanon
+coolguy.lockandload.com
+crazytonys.com/tfcon98
+dbtech.net/quake
+det5.com/bbq/quake
+det5.com/guild
+det5.com/squad
+dh.warzone.com
+dragonwarz.warzone.com
+druid.if.uj.edu.pl/FUN/tf
+erinyes.com/celabs
+erinyes.com/ented
+erinyes.com/tf
+evildead.com/golbez
+evildead.com/sailorfrag
+flash.net/~groff
+gagames.com/tf2
+gamezone.cts.com
+geocities.com/TimesSquare/Arcade/8222
+geocities.com/TimesSquare/Lair/4561
+gibkeeg.gamezone.cts.com
+home.cdsnet.net/~omega
+home.earthlink.net/~jmorton2112
+home1.gte.net/ogunnach
+ironglove.com
+jimcable.home.mindspring.com/knoll
+# jord.sbc.edu
+jord.sbc.edu/archives
+jord.sbc.edu/dragon
+jord.sbc.edu/files
+keeg.com
+lockandload.com
+lockandload.com/DoS/Zone
+lockandload.com/someone
+lockandload.com/urbanwarfare
+login.icenet.no/~radley
+maggie.runt.net/users/SKreal
+mayhem.ida.net
+minyos.its.rmit.edu.au/~cookj
+mordor.netlink.ch/games/tf
+neurogamer.com/deathtoll
+ns.net/~rborg
+oztf.sa.com.au
+parrett.net/~johnjr
+# planetfortress.com
+planetquake.com/teamfortress
+planetquake.com/tfbot
+planetquake.com/tfguide
+quake.execnet.com/Hostings/Greedy
+quake.execnet.com/Hostings/Lakeside
+radix.net/~bundy
+slipgatecentral.com/Information/Playing/Team_Fortress
+spyder.fortress2.com
+teamfortress.com
+telefragged.com/teamfortress
+tf.ethereal.net
+tf.ethereal.net/overdark
+tfconsole.clanoski.com
+tfdomain.com
+tfnewbies.warzone.com
+tfnewswire.tfdomain.com
+tfring.warzone.com
+warzone.com/battlegrounds
+warzone.com/brisk
+warzone.com/bunker
+warzone.com/someone
+warzone.com/tfcoffeehouse
+warzone.com/tfnewbies
+warzone.com/tfouthouse
+yallara.cs.rmit.edu.au/~cookj
+yk.ca/dmckay
+tfquake.tripod.com

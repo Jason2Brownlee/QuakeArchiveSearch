@@ -11,7 +11,8 @@ import sqlite3
 # config
 # quake_websites_file = '../data/quake_websites_crawl_all.txt'
 # quake_websites_file = '../data/quake_websites_crawl.txt'
-quake_websites_file = '../data/quake_websites_crawl_big.txt'
+# quake_websites_file = '../data/quake_websites_crawl_big.txt'
+quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
 
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
