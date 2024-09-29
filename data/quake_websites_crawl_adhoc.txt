@@ -26,82 +26,655 @@
 # mdqnet.net
 
 
-# teamfortress
-128.61.65.18/quake
-195.48.234.82/games/quake
-atmnet.btc.gatech.edu
-ccnet.com/~jhurtcjh
-cdrom.com/pub/idgames2/levels/team_fortress
-clanmarauder.com/gandalf
-clanmegadeath.com/fanon
-coolguy.lockandload.com
-crazytonys.com/tfcon98
-dbtech.net/quake
-det5.com/bbq/quake
-det5.com/guild
-det5.com/squad
-dh.warzone.com
-dragonwarz.warzone.com
-druid.if.uj.edu.pl/FUN/tf
-erinyes.com/celabs
-erinyes.com/ented
-erinyes.com/tf
-evildead.com/golbez
-evildead.com/sailorfrag
-flash.net/~groff
-gagames.com/tf2
-gamezone.cts.com
-geocities.com/TimesSquare/Arcade/8222
-geocities.com/TimesSquare/Lair/4561
-gibkeeg.gamezone.cts.com
-home.cdsnet.net/~omega
-home.earthlink.net/~jmorton2112
-home1.gte.net/ogunnach
-ironglove.com
-jimcable.home.mindspring.com/knoll
-# jord.sbc.edu
-jord.sbc.edu/archives
-jord.sbc.edu/dragon
-jord.sbc.edu/files
-keeg.com
-lockandload.com
-lockandload.com/DoS/Zone
-lockandload.com/someone
-lockandload.com/urbanwarfare
-login.icenet.no/~radley
-maggie.runt.net/users/SKreal
-mayhem.ida.net
-minyos.its.rmit.edu.au/~cookj
-mordor.netlink.ch/games/tf
-neurogamer.com/deathtoll
-ns.net/~rborg
-oztf.sa.com.au
-parrett.net/~johnjr
-# planetfortress.com
-planetquake.com/teamfortress
-planetquake.com/tfbot
-planetquake.com/tfguide
-quake.execnet.com/Hostings/Greedy
-quake.execnet.com/Hostings/Lakeside
-radix.net/~bundy
-slipgatecentral.com/Information/Playing/Team_Fortress
-spyder.fortress2.com
-teamfortress.com
-telefragged.com/teamfortress
-tf.ethereal.net
-tf.ethereal.net/overdark
-tfconsole.clanoski.com
-tfdomain.com
-tfnewbies.warzone.com
-tfnewswire.tfdomain.com
-tfring.warzone.com
-warzone.com/battlegrounds
-warzone.com/brisk
-warzone.com/bunker
-warzone.com/someone
-warzone.com/tfcoffeehouse
-warzone.com/tfnewbies
-warzone.com/tfouthouse
-yallara.cs.rmit.edu.au/~cookj
-yk.ca/dmckay
-tfquake.tripod.com
+# teamfortress (2005)
+# ------------
+# 128.61.65.18/quake
+# 195.48.234.82/games/quake
+# atmnet.btc.gatech.edu
+# ccnet.com/~jhurtcjh
+# cdrom.com/pub/idgames2/levels/team_fortress
+# clanmarauder.com/gandalf
+# clanmegadeath.com/fanon
+# crazytonys.com/tfcon98
+# dbtech.net/quake
+# det5.com/bbq/quake
+# det5.com/guild
+# det5.com/squad
+# druid.if.uj.edu.pl/FUN/tf
+# erinyes.com/celabs
+# erinyes.com/ented
+# erinyes.com/tf
+# evildead.com/golbez
+# evildead.com/sailorfrag
+# flash.net/~groff
+# gagames.com/tf2
+# gamezone.cts.com
+# geocities.com/TimesSquare/Alley/7655
+# geocities.com/TimesSquare/Arcade/8222
+# geocities.com/TimesSquare/Lair/4561
+# gibkeeg.gamezone.cts.com
+# home.cdsnet.net/~omega
+# home.earthlink.net/~jmorton2112
+# home1.gte.net/ogunnach
+# ironglove.com
+# jimcable.home.mindspring.com/knoll
+
+# jord.sbc.edu/archives
+# jord.sbc.edu/dragon
+# jord.sbc.edu/files
+# keeg.com
+
+# lockandload.com
+# lockandload.com/DoS/Zone
+# lockandload.com/someone
+# lockandload.com/urbanwarfare
+# lockandload.com/tfconsole
+
+# coolguy.lockandload.com
+
+# login.icenet.no/~radley
+# maggie.runt.net/users/SKreal
+# mayhem.ida.net
+# minyos.its.rmit.edu.au/~cookj
+# mordor.netlink.ch/games/tf
+# neurogamer.com/deathtoll
+# ns.net/~rborg
+# oztf.sa.com.au
+# parrett.net/~johnjr
+# planetquake.com/teamfortress
+# planetquake.com/tfbot
+# planetquake.com/tfguide
+# quake.execnet.com/Hostings/Greedy
+# quake.execnet.com/Hostings/Lakeside
+# radix.net/~bundy
+# slipgatecentral.com/Information/Playing/Team_Fortress
+# spyder.fortress2.com
+# teamfortress.com
+# telefragged.com/teamfortress
+# tf.ethereal.net
+# tf.ethereal.net/overdark
+# tfconsole.clanoski.com
+# tfdomain.com
+# tfnewswire.tfdomain.com
+
+# tfnewbies.warzone.com
+# tfring.warzone.com
+# warzone.com/tfnewswire
+# warzone.com/battlegrounds
+# warzone.com/brisk
+# warzone.com/bunker
+# warzone.com/someone
+# warzone.com/tfcoffeehouse
+# warzone.com/tfnewbies
+# warzone.com/tfouthouse
+# warzone.com/tfl
+# dh.warzone.com
+# dragonwarz.warzone.com
+
+# yallara.cs.rmit.edu.au/~cookj
+# yk.ca/dmckay
+# tfquake.tripod.com
+# frontiernet.net/~ralph1
+# pages.map.com/~kellyr
+# www4.dbtech.net/quake
+# alpha.wcoil.com/~mmurray
+# pla-net.net/~spaceman
+# sfo.com/~apoq
+# tjhsst.edu/~jchen
+# teamfort.gamesonline.net.au
+# nex.net.au/~quake
+# erinyes.com
+
+# globalsoft.com.au
+
+# dd.networx.net.au/cgi-bin/pftp.pl?/pub
+
+# ctfbot
+# mercury.interpath.com/~davidson
+# interpath.net/~davidson
+# planetquake.com/ctfbot
+
+# random
+# hunterlink.net.au/games
+# bsp.com.au/systems/clan
+# pnc.com.au/quake
+# mpog.com/nawc
+
+# manually extracted #1
+# akula.com/~iomega
+# alpha.wcoil.com/~mmurray
+# clanmegadeath.com/fanon
+# coolguy.lockandload.com
+# det5.com/guild
+# engineer.tfdomain.com
+# erinyes.com/ented
+# erinyes.com/tf
+# evildead.com/academy
+# follow.net/haven
+# follow.net/tfzone
+# freespace.virgin.net/gavin.rudd/scout
+# gamezone.cts.com
+# geocities.com/SiliconValley/Way/6709
+# home.earthlink.net/~eternal8/zen
+# home1.gte.net/ogunnach
+# jimcable.home.mindspring.com/knoll
+# lockandload.com/sniper
+# lockandload.com/tfconsole
+# lockandload.com/urbanwarfare
+# maggie.runt.net/users/SKreal
+# members.tripod.com/~tfig
+# neurogamer.com/golbez
+# neurogamer.com/slade/tfyp
+# nex.net.au/~quake
+# pages.map.com/~kellyr/quake
+# planetquake.com/teamfortress
+# planetquake.com/tfguide
+# pratt.edu/~ebauer
+# radix.net/~bundy
+# slipgatecentral.com/Information/Playing/Team_Fortress
+# teamfort.gamesonline.net.au
+# teamfortress.com/tfclans
+# tf.ethereal.net
+# tfnewbies.warzone.com
+# tfnewswire.tfdomain.com
+# warzone.com/TFHeaven
+# warzone.com/battlegrounds
+# warzone.com/bunker
+# warzone.com/someone
+# warzone.com/tfcoffeehouse
+# warzone.com/tfouthouse
+# www4.dbtech.net/quake
+
+
+# manually extracted #2
+# 206.9.60.201/~phoenix
+# alpha.wcoil.com/~mmurray
+# athenenet.co.uk/homepages/MDALSOP
+# atmnet.btc.gatech.edu
+# awod.com/gallery/rwav/noonan
+# bhis.com/home/john
+# calvert.com/sfdt
+# cdrom.com/pub/idgames2/levels/team_fortress
+# cetus.net/HeadHunter
+# clanmegadeath.com/fanon
+# clanoski.com/sniperwars
+# connect.net/soc8cer
+# coolguy.lockandload.com
+# cvu.telefragged.com
+# datasync.com/~junebug/helmut
+# druid.if.uj.edu.pl/FUN/tf
+# erinyes.com/ented
+# erinyes.com/tf
+# erinyes.com/tf/info
+# evildead.com/sailorfrag
+# flash.net/~groff
+# gamezone.cts.com
+# geocities.com/Baja/9617
+# geocities.com/SunsetStrip/Lounge/9777
+# geocities.com/TimesSquare/Alley/7655
+# geocities.com/TimesSquare/Castle/5181
+# geocities.com/TimesSquare/Lair/7888
+# gibbed.com/ratty
+# home.earthlink.net/~eternal8
+# home.earthlink.net/~torgovitsky
+# home.internetcds.com/~chupie
+# home1.gte.net/phrost
+# idir.net/~lfb
+# infobahn.com/pages
+# itfl.com/tf-files
+# keeg.com
+# lockandload.com
+# lockandload.com/tfconsole
+# lockandload.com/urbanwarfare
+# maggie.runt.net/users/SKreal
+# muttonbone.com
+# pages.map.com/~kellyr/quake
+# planetquake.com/teamfortress
+# planetquake.com/tfbots
+# planetquake.com/tfguide
+# pratt.edu/~ebauer
+# primenet.com/~hollow
+# radix.net/~bundy
+# sjgames.com/warehouse23
+# slipgatecentral.com
+# stuff1.xingtech.com/quake
+# teamfort.gamesonline.net.au
+# teamfortress.com
+# teamfortress.com/tfclans
+# tf.ethereal.com
+# tf.ethereal.com/projects/entpack
+# tfring.stomped.com
+# tfs.net/~jblaha
+# unidial.com/~venom
+# user.cs.tu-berlin.de/~orogork/tf
+# vrgames.net
+# warzone.com/battlegrounds
+# warzone.com/someone
+# warzone.com/tfl
+# warzone.com/tfnewbies
+# warzone.com/tfnewswire
+# wpi.edu/~eand
+# www4.dbtech.net/quake
+
+
+# manually extracted #3
+# 210.0.2.183
+# aone.net.au/quake
+# atnet.net.au/quake/AuSF
+# backmeup.net.au/~quake
+# bluestar.com.au/ryan/Killzone
+# ca.com.au/~sunnyval/waql
+# canweb.net/~b2
+# # chariot.net.au
+# compsoc.cs.latrobe.edu.au/~shogun
+# cs.mu.oz.au/~trd
+# games.iinet.net.au/quake
+# griffon.com.au/qn
+# home.aone.net.au/askegg
+# magna.com.au/~guvi
+# magna.com.au/~guvi
+# major.lit.tas.edu.au/~connora
+# multiplay.com.au
+# nex.net.au/users/buddykin
+# ocean.com.au/quake
+# omen.com.au/~synic/qua
+# ozemail.com.au/~forager/ozqs
+# ozemail.com.au/~forager/quake
+# ozemail.com.au/~twitcher
+# quake.wantree.com.au
+# quakecentral.com
+# qzone.nf
+# ram.net.au/quake
+# senet.com.au/quake
+# southcom.com.au/~porky
+# tiga.com.au/QUAKE-ON
+# vision.net.au/games2/quake
+# vision.net.au/~chuck/quake
+# vision.net.au/~chuck
+# wantree.com.au/~lrdbyron
+# wantree.com.au/~sdobbs
+# wantree.com.au/~weird
+# webnet.com.au/projects/quake
+# webraven.com.au/games/quake
+# wisdom.psinet.net.au/~stokfam/qdesk
+
+# other
+# vandiemen.net/quake
+
+# manually extracted #4
+# 206.12.10.240/stevefu/QuakeLab
+# canweb.net/~b2
+# griffon.com.au/qn
+# griffon.com.au/~ryan/Quake
+# infi-pos.com/~bush
+# intro.com/~jebs
+# islandnet.com/worldcraft
+# major.lit.tas.edu.au/~connora
+# meena.cc.uregina.ca/~bokitch
+# minyos.its.rmit.edu.au/~cookj
+# nuqneh.org/slipgates
+# ozemail.com.au/~forager
+# planetquake.com/powerball
+# planetquake.com/quakex/threewave
+# planetquake.com/sujoy
+# powerup.com.au/~nats
+# quakecentral.com
+# revco.stomped.com
+# tiga.com.au/QUAKE-ON
+# underramp.com/worldcraft
+# vision.net.au/games/quake
+# wantree.com.au/~russell/DD
+
+# 1997-2000
+# redwood.gatsbyhouse.com
+# 1998-2000
+# redwood.stomped.com
+
+
+# new
+# itfl.com
+# itfl.home.ml.org
+# warzone.com
+
+# after 2001
+# ftp.linuxquake.com
+
+# download pages
+
+# telefragged.com/mirrors/mirror.pl?be/fmods
+# telefragged.com/mirrors/mirror.pl?metro
+# telefragged.com/mirrors/mirror.pl?epidemic
+# telefragged.com/mirrors/mirror.pl?qnm
+# dd.networx.net.au:80/cgi-bin/pftp.pl
+# gameaholic.com/deicide/download.cgi
+# globalsoft.com.au/cgi-bin/pftp.pl
+
+# TODO
+# TODO increase to 2006 to process more
+# asp.planetquake.com/dl/dl.asp?/botshop
+# asp.planetquake.com/dl/dl.asp?/holywars
+# asp.planetquake.com/dl/dl.asp?/requiem
+# bluesnews.com/warning.cgi
+# ftp.fragzone.se/?s=&p=spel/quake
+
+# lots of errors to re-process
+# 3ddownloads.com/showfile.php3
+# 30k files...
+# quakefiles.com/files/download.php
+
+# too many (try 1997 or 1998)
+# newgames.ru
+# quake.demos.su
+
+
+# tf
+# yallara.cs.rmit.edu.au/~cookj
+# geocities.com/Tokyo/6653
+# sign-comsys.com/quake
+# quakeforum.de
+# quake.tstonramp.com
+
+# other
+# web.ukonline.co.uk/Members/neil.henderson
+# regen.powerup.com.au
+# quakemaster.warzone.com
+
+# russian
+# 195.208.175.37/quake
+# 3dfx-ru.com
+# 5ci.lt/users/andrei
+# aha.ru/~denpar
+# aha.ru/~mwc
+# ananas-news.net
+# attack.ru/games/quake
+# black.triton.da.ru
+# board.convey.ru
+# central3d.aha.ru
+# chat.ru/~tiamat
+# corbina.ru/~cdman/quake
+# cursor.web2010.com/gammer
+# dance.ru/KD-clan
+# dataforce.net/~skynet
+# dataforce.net/~skynet
+# df.ru/~archi
+# fortunecity.com/underworld/defender/297
+# frag.com/qshot
+# games.net.ru/CruelNews
+# games.net.ru/madman/quake
+# games.net.ru/quake
+# games.net.ru/quake
+# games.net.ru/quake/qwar
+# geocities.com/Augusta/4907
+# geocities.com/~rebelsam
+# home.axon.ru/~firewolf
+# home.ural.ru/~Quake2
+# i-connect.ru/~georg/quake
+# irk.ru/quake
+# kulichki.com/GamesWorld
+# maxnet.ru/quake
+# members.xoom.com/_GEO_
+# members.xoom.com/dm4clan
+# members.xoom.com/m_quaker
+# morra.demi.spb.ru
+# morra.demi.spb.ru
+# nevapress.spb.ru/games
+# nevapress.spb.ru/games
+# orc.ru/~maddy
+# people.weekend.ru/atlf
+# people.weekend.ru/ldl
+# people.weekend.ru/lon
+# people.weekend.ru/PKG
+# people.weekend.ru/QUAKESERVERS
+# planetquake.com/teamfortress
+# planetquake.com/tfnewswire
+# portal.ru/quake2
+# portal.ru/quake2
+# postman.ru/~kgb
+# qkk.spb.ru
+# quake.ccl.ru
+# quake.convey.ru
+# quake.convey.ru/ftp/pub
+# quake.deep.ru
+# quake.demi.spb.ru
+# quake.df.ru
+# quake.portal.ru
+# quake.ricor.ru
+# quake.ru
+# quake.spb.ru
+# quake.tyumen.ru
+# quake.wplus.net
+rgw.gamesnet.ru
+roma.botik.ru
+rqa.df.ru
+sampo.onego.ru
+someone.tfdomain.com
+spb.runnet.ru/~dim
+ssl.stu.neva.ru/green
+svt.unity.net/games
+tf.html.ru
+victor.quake2.ru
+
+
+# german
+crayola.cse.psu.edu/~drake
+doomgate.cs.buffalo.edu/games/quake
+efd.lth.se/~d95ml/quake
+erie.net/~mrdoom
+fermi.clas.virginia.edu/~fsm3m
+flinet.com/~chaz/quake
+gamers.org/wtf
+gamesmania.com/english/quake
+geocities.com/SiliconValley/Park/3251
+geocities.com/SiliconValley/Park/5890
+hal-pc.org/~jasonv/quake
+home.earthlink.net/~thedoom
+ionet.net/~react
+isle.net/~sqm
+localnet.com/~dsleath
+luminet.net/~drussell/QML
+magicnet.net/~jza/quakeworld
+mcn.net/%7Ebobcat
+mortimer.com/users/pcme
+msen.com/~psteele/quake
+mynx.com/quake
+newworld.com/adrenaline
+pegasus.oz.au/~forager/quake
+pioneer.wnyric.org/cc/brent/quake
+prairienet.org/joshm/qtalk
+primenet.com/~thart
+quake.commonground.net
+rampages.onramp.net/~destruct
+sign-comsys.com/quake
+sisna.com/users/carlitos
+ucet.ufl.edu/~xstelnic
+ucs.usl.edu/~dhm7206
+users.mwci.net/~shadow
+ux2.accesscom.net:3000
+vvm.com/~hfowler
+worldchat.com/public/ahazen
+www-home.calumet.yorku.ca/dcardoso/www
+www1.pitt.edu/%7Ebrianm/quake
+
+# TODO
+# lots of good ftp links here (limit by year, e.g. 97, 98, etc.)?
+# cap at 2001?
+cdrom.com/pub/idgames2
+
+# russian sites
+aha.ru/~fanat
+aha.ru/~mlou
+ats.spb.ru/quake
+enet.ru/win/quake
+freeweb.centro.ru/quake
+gamesdomain.ru/gdreview/zones/reviews/pc/aug96
+magrathea.chance.ru/~tahir
+chance.ru/~tahir
+mpei.ac.ru/homepages/isaev
+dataforce.net/~crazer
+orc.ru/~shumej
+
+# russian sites
+194.85.96.197/green
+5ci.lt/users
+accestonight.com/quakestar
+ananas2.com
+attack.ru/games/quake/fvf
+central3d.aha.ru
+chat.ru/~cpu
+chat.ru/~tiamat
+corbina.ru/~akuzin
+corbina.ru/~rumatha/home
+dial.ortv.ru/rgw
+frag.com/qshot
+gameland.ru
+gamereview.nikel.org
+games.drbit.com.ru
+games.net.ru/CruelNews
+ixbt.stack.net
+ixbt.stack.net/~3dstyle
+jod.da.ru
+maxnet.ru/quake
+morra.demi.spb.ru
+neva.spb.ru/valeno
+nevapress.spb.ru/games
+quake.ccl.ru
+quake.deep.ru
+quake.demi.spb.ru
+quake.demos.su
+quake.ricor.ru
+quake.ru
+quake2.ru
+stv.ee/~oleg
+thegrid.net/ostap
+user.cityline.ru/~kinetix/gemnet
+vmk-mvmk.ksu.ru/~kqc
+
+# russian clans
+194.85.82.39
+aha.ru/~peal
+aha.ru/~slime
+alex.faki-campus.mipt.ru
+attack.ru/games/quake
+cal.someone.net
+cea.ru/~agu
+chat.ru/~cpu
+chat.ru/~qlmd
+chat.ru/~tigra_me
+chimfak.rsu.ru/quake
+clan.da.ru
+clan.x-atom.net
+cmp.phys.msu.su/Recreate/Quake
+ddt.microdin.ru
+ddt.microdin.ru/qwar
+dmitrov.ru/twilight.zone/mb
+evil.da.ru
+geocities.com/Area51/Shadowlands/3509
+geocities.com/SiliconValley/Network/9504
+geocities.com/SunsetStrip/Arena/8476
+geocities.com/TimesSquare/Arena/9019
+geocities.com/TimesSquare/Castle/4599
+geocities.com/TimesSquare/Castle/6885
+gib-clan.com
+heck.inm.ras.ru/PL
+home.axon.ru/~firewolf
+home.ptt.ru/Short
+hsclan.da.ru
+iac.spb.ru/sam
+knell.da.ru
+members.tripod.com/~clanitc
+members.tripod.com/~godla
+ment.da.ru
+mgdtd.ac.ru
+mstu.ml.org/quake
+oct.aha.ru
+omon.da.ru
+orc.ru/~maddy
+people.weekend.ru/PKG
+people.weekend.ru/RQPClan
+people.weekend.ru/brp
+people.weekend.ru/dynamoclan
+people.weekend.ru/mdmaniac
+people.weekend.ru/nbq
+qkk.spb.ru
+quake.cityline.ru
+quake.deep.ru
+quake.df.ru
+quake.mtu.ru/amd
+quake.mtu.ru/dm4
+quake.mtu.ru/mk
+quake.mtu.ru/red
+quake.mtu.ru/rip
+quake.net.ru/rds
+quake.nov.ml.org
+quake.orenburg.ru/sts
+quake.oriflame.nnov.ru
+quake.realty.ru
+quake.spb.ru/skib
+quake.tvcom.ru/clan/nip
+quake.tvcom.ru/clan/sgm
+quake.tyumen.ru
+quake.vtsnet.ru
+quake.wplus.net/PK
+quake.wplus.net/lon
+quake1.da.ru
+quake2.homepage.ru
+racnet.cctpu.edu.ru/quake/default.asp
+rt.mipt.ru/~quake
+sf.df.ru
+space.ru/mif
+swamp.net.ru/win/game
+uclan.da.ru
+udt.bars.da.ru
+ufanet.ru/~bpavel
+win.aha.ru/~fatality
+windoms.sitek.net/~irq
+xclan.tsx.org
+
+# more russian clans
+212.46.4.168
+agu.cjb.net
+alpha-pc.com/club
+atlantic.ru
+battleaxe.ru
+bunker.da.ru
+club.orky.ru
+i-real.spb.ru
+mtf.neolit.ru
+nclub.spb.ru
+netclub.spb.ru
+quake.spb.ru/warhammer
+svt.unity.net/games
+vrc.df.ru
+wintery.net
+
+# more russian clans
+atlantic.ru/game
+bankvoronezh.ru/bbs/games
+ddt.microdin.ru
+dust.da.ru
+ecology.psu.ru/spd
+ecsoft.mephi.ru/quake
+games.kg/quake
+games.volkov.ru
+gold.ru/quake
+ipclub.ru/game/quake
+kosnet.ru/~linda
+lgg.ru/~dungeon
+mol.ru/quake
+quake.ki.ru
+quake.mtu.ru/amd
+quake.nnet.org/sofh
+quake.robotek.ru
+rdy.da.ru
+telefrag.ru
+towerbbs.spb.ru
+trinity.da.ru
+vinnica.ua/quake
+
+# sites
+dragonfire.net/~massacre
+earthlink.net/~warpanda
+megnatech.com/rwsaf
+stalsgaming.com/quake
+time2quake.com/DarkQuakers
+

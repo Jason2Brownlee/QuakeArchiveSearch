@@ -1,0 +1,98 @@
+# exclusions for db checks
+
+# TeamFortressQuakeArchive
+# ========================
+
+# newfiles.zip
+http://cd.textfiles.com/sv/svplatinum/CDR35/NEWFILES.ZIP
+http://cd.textfiles.com/swextrav4/swextrav4-1/bbspcb15/newfiles.zip
+# tf1_2.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/TEXT/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/TEXT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/ham-radio/tnc/tnc3/tf142.txt
+
+# QuakeOfficialArchive
+# ========================
+
+# dm3.zip
+ftp://freeftp.barrysworld.com/pub/publichosted/methosq/dm3.zip
+ftp://ftp.barrysworld.com/pub/users/methos/demos/dm3.zip
+ftp://ftp.cdrom.com/pub/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/dm3.zip
+ftp://ftp1.barrysworld.com/users/methos/demos/dm3.zip
+http://dukeworld.duke4.net/2001-current/maps/a-e/Dm3.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/Dm3.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1999/Maps/dm3.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/1999/Maps/dm3.zip
+http://dukeworld.duke4.net/classic%20dukeworld/maps/a-e/dm3.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/gandhi/demos/dm3.zip
+http://gamers.org/pub/games/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+http://gocompupro.com/cqf/files/dm3.zip
+http://mirrors.syringanetworks.net/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+http://quaketerminus.com/hosted/methosq_demos/demos/dm3.zip
+http://www.cdrom.com/pub/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+http://www.fragzone.se/gandhi/demos/dm3.zip
+http://www.gamers.org/pub/games/duke3d/maps/a-e/dm3.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/gandhi/demos/dm3.zip
+http://www.gamers.org/pub/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+http://www.gamers.org/pub/idgames2/planetquake/gandhi/demos/dm3.zip
+http://www.mdqnet.net/ftp/frikway/dm3.zip
+http://www.methosq.com/demos/dm3.zip
+http://www.methosq.com/downloads/demos/dm3.zip
+http://www.planetquake.com/demolauncher/dm3.zip
+http://www.whiterock.com/kinglink/duke3d/dm3.zip
+http://www2.passagen.se/spel/duke/filer/3dmaps/dm3.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+https://www.quaddicted.com/files/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+https://www.quaddicted.com/files/idgames2/planetquake/gandhi/demos/dm3.zip
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/duke3d/maps/a-e/dm3.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/gandhi/demos/dm3.zip
+https://youfailit.net/pub/idgames/levels/doom2/deathmatch/d-f/dm3.zip
+# qwded104.exe
+http://reality.sgi.com/rae/quake/idfiles/qwded104.exe
+http://reality.sgi.com/rae_aw/quake/idfiles/qwded104.exe
+# steve.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/1997/Maps/Steve.zip
+http://ftp.sunet.se/planetquake/thehuge/steve.zip
+http://ftpmirror1.infania.net/pub/simtelnet/win95/font/steve.zip
+http://people.wiesbaden.netsurf.de/~kikita/zip/steve.zip
+http://www.gamers.org/pub/games/idgames2/demos/contest/skillz/steve.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/thehuge/steve.zip
+http://www.gamers.org/pub/idgames2/planetquake/thehuge/steve.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/thehuge/steve.zip
+http://www.geocities.com/TimesSquare/Lair/4474/recs/steve.zip
+https://www.quaddicted.com/files/idgames2/demos/contest/skillz/steve.zip
+https://www.quaddicted.com/files/idgames2/planetquake/thehuge/steve.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/thehuge/steve.zip
+# SPELLING ERRORS IN URLS e.g. "blue" news
+# Quake-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-1_08_2.sit
+# Quake-3Dfx-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
+# Quake-RAVE-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-RAVE-1_08_2.sit
+
+
+# QuakeBotArchive
+# ========================
+
+# abandon1.zip
+http://crydee.sai.msu.ru/ftproot/pub/comp/os/os2/hobbes/multimedia/wave/wav/abandon1.zip
+# doombot.txt
+http://www.3ddownloads.com/doomworld/mods/doombot.txt
+# elim10.zip
+http://cd.textfiles.com/megarom2/UTILITY/DIR/ELIM10.ZIP
+http://ftp.epix.net/pub/simtelnet/msdos/dirutl/elim10.zip
+# frogbot012.zip
+https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
+# rbot.zip
+http://www.fortunecity.com/underworld/gosub/335/RBot.zip
+http://www.fortunecity.com/underworld/pong/739/files/RBot.zip
+

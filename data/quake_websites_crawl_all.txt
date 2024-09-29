@@ -1,4 +1,5 @@
 # websites where we want to crawl all of the history, e.g. to the 2020s
+# important sites, student sites, etc.
 
 # Dennis Noordsij Quake News
 web.inter.NL.net/users/L.J.Noordsij
@@ -75,7 +76,6 @@ forceclan.home.mindspring.com
 felker.home.mindspring.com
 
 westga.edu/~stu7440
-
+fubar.cstp.umkc.edu/quake
 methosq.com
-
 

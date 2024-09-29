@@ -1,0 +1,10 @@
+http://quake.df.ru/cgi-bin
+http://quake.df.ru:80/cgi-bin
+http://regen.powerup.com.au:80/_chat
+http://www.regen.powerup.com.au:80/_disc1
+http://regen.powerup.com.au:80/_disc1
+http://regen.powerup.com.au:80/_vti_bin
+http://quake.tyumen.ru:80/http-analyze
+http://www.quake.wplus.net/bog/html/champ_logs
+http://www.quake.wplus.net:80/bog/html/champ_logs
+http://www.quake.wplus.net:80/bog/html/guestbook

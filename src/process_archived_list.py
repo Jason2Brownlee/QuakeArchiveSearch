@@ -118,6 +118,8 @@ def main():
     ''', (processing_method_id,))
     unprocessed_websites = cursor.fetchall()
 
+    print(f'Found {len(unprocessed_websites)} unprocessed urls')
+
     # Process each unprocessed website
     for quake_website_id, base_url in unprocessed_websites:
         try:

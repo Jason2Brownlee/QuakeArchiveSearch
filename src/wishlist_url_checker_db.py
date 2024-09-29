@@ -2,7 +2,10 @@
 
 import sqlite3
 
-DATABASE = '../data/quake_website.db'
+# DATABASE = '../data/quake_website.db'
+DATABASE = '../data/quake_website2.db'
+
+EXCLUSIONS = '../data/exclusions.txt'
 
 def read_text_file(file_path):
     """
@@ -11,11 +14,15 @@ def read_text_file(file_path):
     data = set()
     with open(file_path, 'r') as file:
         for line in file:
+            # strip whitespace
             line = line.strip()
+            # skip empty lines
             if not line:
                 continue
+            # skip comments
             if line.startswith('#'):
                 continue
+            # store in set
             data.add(line)
     return data
 
@@ -32,6 +39,8 @@ def main(pairs):
         # Read URLs and filenames from the text files into sets
         url_wishlist = read_text_file(url_wishlist_path)
         filename_wishlist = read_text_file(filename_wishlist_path)
+        # read exclusions file
+        exclusions = read_text_file(EXCLUSIONS)
 
         # Process each filename in the wishlist
         for filename in sorted(filename_wishlist):
@@ -53,7 +62,7 @@ def main(pairs):
             # Check each result if it is not in the URL wishlist
             for row in results:
                 file_url = row[0]
-                if file_url not in url_wishlist:
+                if file_url not in url_wishlist and file_url not in exclusions:
                     matching_urls.add(file_url)
 
             # Display the results
@@ -67,7 +76,8 @@ def main(pairs):
 
 if __name__ == '__main__':
 
-    pairs = [['ThreeWaveCTF',
+    pairs = [
+            ['ThreeWaveCTF',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt'],
             ['TeamFortressQuakeArchive',
@@ -78,6 +88,7 @@ if __name__ == '__main__':
              '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt'],
             ['QuakeBotArchive',
              '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt']]
+             '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt']
+             ]
 
     main(pairs)

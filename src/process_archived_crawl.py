@@ -8,15 +8,23 @@ import hashlib
 import json
 import sqlite3
 
-# config
-# quake_websites_file = '../data/quake_websites_crawl_all.txt'
-# quake_websites_file = '../data/quake_websites_crawl.txt'
-# quake_websites_file = '../data/quake_websites_crawl_big.txt'
-quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
 
+# quake_websites_file = '../data/quake_websites_crawl_all.txt'
+# year_cutoff = 2010
+
+# quake_websites_file = '../data/quake_websites_crawl.txt'
+# year_cutoff = 2010
+
+quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
+year_cutoff = 2000
+
+# quake_websites_file = '../data/quake_websites_crawl_big.txt'
+# year_cutoff = 1997
+
+
+# other config
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
-year_cutoff = 2000
 delay_seconds = 15
 
 # api locations
@@ -26,7 +34,8 @@ WAYBACK_BASE_URL = "http://web.archive.org/web/"
 # global vars
 last_download_time = 0
 
-
+# exclude urls that start with
+exclusions_file = '../data/crawl_exclusions.txt'
 
 # Create the temporary directory if it doesn't exist
 if not os.path.exists(temp_dir):
@@ -84,6 +93,8 @@ def standardize_url(url):
     scheme = parsed_url.scheme or 'http'
     netloc = parsed_url.netloc
     path = parsed_url.path.rstrip('/')  # Normalize trailing slash
+    params = parsed_url.params
+    query = parsed_url.query
 
     # Remove default ports
     if netloc.endswith(':80'):
@@ -96,7 +107,7 @@ def standardize_url(url):
     path = quote(path, safe='/')
 
     # Rebuild the URL with the scheme and the normalized path
-    standardized_url = urlunparse((scheme, netloc, path, '', '', ''))
+    standardized_url = urlunparse((scheme, netloc, path, params, query, ''))
 
     return standardized_url
 
@@ -209,6 +220,7 @@ def extract_urls_from_content(content, base_url):
         soup = BeautifulSoup(content, 'html.parser')
         for link in soup.find_all('a', href=True):
             href = link['href']
+
             # remove archive.org prefix if present
             href = remove_archive_prefix(href)
 
@@ -219,7 +231,9 @@ def extract_urls_from_content(content, base_url):
                 continue
 
             full_url = urljoin(base_url, href)
+
             cleaned_url = clean_url(full_url)
+
             if cleaned_url:
                 urls.add(cleaned_url)
     except Exception as e:
@@ -260,9 +274,28 @@ def sanitize_url_for_dirname(url):
     """
     return re.sub(r'[^\w\-]', '_', url)
 
+# do not download and crawl these urls
+def is_excluded(url, exclusions):
+    # exclude robots.txt
+    if url.endswith('/robots.txt'):
+        return True
+    # exclude css and js
+    if url.endswith('.css') or url.endswith('.js'):
+        return True
+    # custom exclusions
+    for e in exclusions:
+        if url.startswith(e):
+            return True
+
+    # do not exclude
+    return False
+
 def process_quake_website():
 
     quake_websites = read_quake_websites(quake_websites_file)
+
+    # read exclusions
+    exclusions = read_quake_websites(exclusions_file)
 
     for quake_website_url in quake_websites:
         # skip comments
@@ -292,8 +325,15 @@ def process_quake_website():
         for i,entry in enumerate(wayback_entries):
             timestamp, original_url, mimetype, statuscode = entry
 
+            print(f'. {original_url}')
+
             if not is_text_content(mimetype):
                 # print(f"Skipping non-text content: {original_url} (mimetype: {mimetype})")
+                continue
+
+            # check for exclusion
+            if is_excluded(original_url, exclusions):
+                print(f'> excluding {original_url}')
                 continue
 
             # print(f"Processing URL: {original_url} from {timestamp}")
@@ -311,7 +351,7 @@ def process_quake_website():
                     all_extracted_urls.update(extracted_urls)
 
                     # report progress
-                    print(f'{i+1}/{len(wayback_entries)}')
+                    print(f'{i+1}/{len(wayback_entries)} ({quake_website_url})')
 
                 # insert data more often
                 # if len(all_extracted_urls) >= 100:

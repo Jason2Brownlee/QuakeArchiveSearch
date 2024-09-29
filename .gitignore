@@ -5,6 +5,7 @@
 # ignore temp downloads
 data/wayback_downloads
 # ignore the whole index
-data/quake_website.db
+data/*.db
 
-
+# dev notes
+dev

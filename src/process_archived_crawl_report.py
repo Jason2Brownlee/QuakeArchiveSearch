@@ -1,3 +1,7 @@
+# report all urls on a website downloaded from the wayback machine
+# assumes already crawled and added to db, this is just for a visual review of extracted urls
+# scroll down and type in the bottom and add the url
+
 import os
 import time
 import re
@@ -9,7 +13,6 @@ import json
 import sqlite3
 
 # config
-quake_websites_file = '../data/quake_websites_crawl.txt'
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
 year_cutoff = 2020
@@ -212,7 +215,7 @@ def sanitize_url_for_dirname(url):
 
 def process_quake_website():
 
-    quake_websites = ['quakehole.com']
+    quake_websites = ['planetquake.com/teamfortress']
 
     for quake_website_url in quake_websites:
         print(f"Processing website: {quake_website_url}")

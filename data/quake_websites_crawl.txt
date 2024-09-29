@@ -10,7 +10,7 @@ rockisland.com/~phook/scary
 canweb.net/~smiles
 gamesmania.com/quakehole
 quakehole.com
-scary.vrgames.net
+# scary.vrgames.net
 
 # cdrom.com
 cdrom.com/pub/idgames2
@@ -22,7 +22,7 @@ ftp.cdrom.com/.3/idgames2
 ftp.cdrom.com/.4/idgames2
 ftp.cdrom.com/.5/idgames2
 
-
+idsoftware.com/ftp
 
 # Shake N' Quake
 canvasnet.com/quake
@@ -34,9 +34,9 @@ ftp.canvasnet.com
 http.tamu.edu:8000/~stm9233
 aggiequake.tamu.edu
 redwood.gatsbyhouse.com
-redwood.stomped.com
+# redwood.stomped.com
 qwcentral.stomped.com
-
+frag.com/quakeworld
 
 # 3wavectf
 quake.threewave.com
@@ -59,18 +59,19 @@ planetquake.com/zeus
 # oak bot
 web.ukonline.co.uk/neil.henderson
 web.ukonline.co.uk/johnc
-oakbots.co.uk
-telefragged.com/oak
+# oakbots.co.uk
+# telefragged.com/oak
 # RichMark
 pw2.netcom.com/~kroeker
 
 # quake mecca
 quakemecca.simplenet.com
+# jord.sbc.edu
 
 # other news
 mdqnet.net
-botepidemic.com
-planetquake.com/qca
+# botepidemic.com
+# planetquake.com/qca
 reality.sgi.com/rae
 reality.sgi.com/rae_aw
 quake.errorabove.com
@@ -79,7 +80,7 @@ imaxx.net/~dakota
 quake.zone.ru
 quakeworld.net
 allgames.com/quake
-
+revco.stomped.com
 
 # other bots
 quakebot.net
