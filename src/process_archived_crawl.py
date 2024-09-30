@@ -21,6 +21,9 @@ year_cutoff = 2000
 # quake_websites_file = '../data/quake_websites_crawl_big.txt'
 # year_cutoff = 1997
 
+# quake_websites_file = '../data/quaddicted_crawl.txt'
+# year_cutoff = 2020
+
 
 # other config
 temp_dir = "../data/wayback_downloads"

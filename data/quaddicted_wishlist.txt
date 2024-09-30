@@ -1,0 +1,80 @@
+# Quaddicted file wishlist
+# https://www.quaddicted.com/quaddicted.com/wanted_files
+
+# metslime
+trachea.zip
+
+trachea.bsp
+trachea.txt
+
+# erc
+marsalis.zip
+p2hell.zip
+series1.zip
+
+marsalis.txt
+p2hell.txt
+series1.txt
+marsalis.bsp
+p2hell.bsp
+series1.bsp
+
+# Chris Fairall
+crtyrd.zip
+sanctry.zip
+maxcarn.zip
+base13.zip
+
+crtyrd.txt
+sanctry.txt
+maxcarn.txt
+base13.txt
+crtyrd.bsp
+sanctry.bsp
+maxcarn.bsp
+base13.bsp
+
+# kok
+gateway.zip
+
+gateway.txt
+gateway.bsp
+
+# yi
+dabug2.zip
+dabug2.bsp
+dabug2.txt
+
+# lokety.com
+kgeorge.zip
+kgeorge.bsp
+kgeorge.txt
+
+# mal
+agent_map.zip
+swk_map.zip
+lady_map.zip
+
+agent_map.bsp
+swk_map.bsp
+lady_map.bsp
+
+agent_map.txt
+swk_map.txt
+lady_map.txt
+
+# sodabob
+ravndngn.zip
+
+ravndngn.bsp
+
+ravndngn.txt
+
+# QER
+qa4.zip
+qa4SRC.zip
+qa4b.zip
+qa4bSRC.zip
+tQER_SV_src.zip
+tQER_ginny.zip
+

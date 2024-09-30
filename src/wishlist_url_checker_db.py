@@ -77,6 +77,9 @@ def main(pairs):
 if __name__ == '__main__':
 
     pairs = [
+            ['Quaddicted',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt'],
             ['ThreeWaveCTF',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt'],

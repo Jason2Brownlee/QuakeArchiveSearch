@@ -443,111 +443,106 @@
 # quake.spb.ru
 # quake.tyumen.ru
 # quake.wplus.net
-rgw.gamesnet.ru
-roma.botik.ru
-rqa.df.ru
-sampo.onego.ru
-someone.tfdomain.com
-spb.runnet.ru/~dim
-ssl.stu.neva.ru/green
-svt.unity.net/games
-tf.html.ru
-victor.quake2.ru
+# rgw.gamesnet.ru
+# roma.botik.ru
+# rqa.df.ru
+# sampo.onego.ru
+# someone.tfdomain.com
+# spb.runnet.ru/~dim
+# ssl.stu.neva.ru/green
+# svt.unity.net/games
+# tf.html.ru
+# victor.quake2.ru
 
+# cdrom.com/pub/idgames2
+# cdrom.com/pub/quake/
 
 # german
-crayola.cse.psu.edu/~drake
-doomgate.cs.buffalo.edu/games/quake
-efd.lth.se/~d95ml/quake
-erie.net/~mrdoom
-fermi.clas.virginia.edu/~fsm3m
-flinet.com/~chaz/quake
-gamers.org/wtf
-gamesmania.com/english/quake
-geocities.com/SiliconValley/Park/3251
-geocities.com/SiliconValley/Park/5890
-hal-pc.org/~jasonv/quake
-home.earthlink.net/~thedoom
-ionet.net/~react
-isle.net/~sqm
-localnet.com/~dsleath
-luminet.net/~drussell/QML
-magicnet.net/~jza/quakeworld
-mcn.net/%7Ebobcat
-mortimer.com/users/pcme
-msen.com/~psteele/quake
-mynx.com/quake
-newworld.com/adrenaline
-pegasus.oz.au/~forager/quake
-pioneer.wnyric.org/cc/brent/quake
-prairienet.org/joshm/qtalk
-primenet.com/~thart
-quake.commonground.net
-rampages.onramp.net/~destruct
-sign-comsys.com/quake
-sisna.com/users/carlitos
-ucet.ufl.edu/~xstelnic
-ucs.usl.edu/~dhm7206
-users.mwci.net/~shadow
-ux2.accesscom.net:3000
-vvm.com/~hfowler
-worldchat.com/public/ahazen
-www-home.calumet.yorku.ca/dcardoso/www
-www1.pitt.edu/%7Ebrianm/quake
+# crayola.cse.psu.edu/~drake
+# doomgate.cs.buffalo.edu/games/quake
+# efd.lth.se/~d95ml/quake
+# erie.net/~mrdoom
+# fermi.clas.virginia.edu/~fsm3m
+# flinet.com/~chaz/quake
+# gamers.org/wtf
+# gamesmania.com/english/quake
+# geocities.com/SiliconValley/Park/3251
+# geocities.com/SiliconValley/Park/5890
+# hal-pc.org/~jasonv/quake
+# home.earthlink.net/~thedoom
+# ionet.net/~react
+# isle.net/~sqm
+# localnet.com/~dsleath
+# luminet.net/~drussell/QML
+# magicnet.net/~jza/quakeworld
+# mcn.net/%7Ebobcat
+# mortimer.com/users/pcme
+# msen.com/~psteele/quake
+# mynx.com/quake
+# newworld.com/adrenaline
+# pegasus.oz.au/~forager/quake
+# pioneer.wnyric.org/cc/brent/quake
+# prairienet.org/joshm/qtalk
+# primenet.com/~thart
+# quake.commonground.net
+# rampages.onramp.net/~destruct
+# sign-comsys.com/quake
+# sisna.com/users/carlitos
+# ucet.ufl.edu/~xstelnic
+# ucs.usl.edu/~dhm7206
+# users.mwci.net/~shadow
+# ux2.accesscom.net:3000
+# vvm.com/~hfowler
+# worldchat.com/public/ahazen
+# www-home.calumet.yorku.ca/dcardoso/www
+# www1.pitt.edu/%7Ebrianm/quake
 
-# TODO
-# lots of good ftp links here (limit by year, e.g. 97, 98, etc.)?
-# cap at 2001?
-cdrom.com/pub/idgames2
+
 
 # russian sites
-aha.ru/~fanat
-aha.ru/~mlou
-ats.spb.ru/quake
-enet.ru/win/quake
-freeweb.centro.ru/quake
-gamesdomain.ru/gdreview/zones/reviews/pc/aug96
-magrathea.chance.ru/~tahir
-chance.ru/~tahir
-mpei.ac.ru/homepages/isaev
-dataforce.net/~crazer
-orc.ru/~shumej
+# aha.ru/~fanat
+# aha.ru/~mlou
+# ats.spb.ru/quake
+# enet.ru/win/quake
+# freeweb.centro.ru/quake
+# gamesdomain.ru/gdreview/zones/reviews/pc/aug96
+# magrathea.chance.ru/~tahir
+# chance.ru/~tahir
+# mpei.ac.ru/homepages/isaev
+# dataforce.net/~crazer
+# orc.ru/~shumej
 
 # russian sites
-194.85.96.197/green
-5ci.lt/users
-accestonight.com/quakestar
-ananas2.com
-attack.ru/games/quake/fvf
-central3d.aha.ru
-chat.ru/~cpu
-chat.ru/~tiamat
-corbina.ru/~akuzin
-corbina.ru/~rumatha/home
-dial.ortv.ru/rgw
-frag.com/qshot
-gameland.ru
-gamereview.nikel.org
-games.drbit.com.ru
-games.net.ru/CruelNews
-ixbt.stack.net
-ixbt.stack.net/~3dstyle
-jod.da.ru
-maxnet.ru/quake
-morra.demi.spb.ru
-neva.spb.ru/valeno
-nevapress.spb.ru/games
-quake.ccl.ru
-quake.deep.ru
-quake.demi.spb.ru
-quake.demos.su
-quake.ricor.ru
-quake.ru
-quake2.ru
-stv.ee/~oleg
-thegrid.net/ostap
-user.cityline.ru/~kinetix/gemnet
-vmk-mvmk.ksu.ru/~kqc
+# 194.85.96.197/green
+# accestonight.com/quakestar
+# ananas2.com
+# attack.ru/games/quake/fvf
+# central3d.aha.ru
+# chat.ru/~cpu
+# chat.ru/~tiamat
+# corbina.ru/~akuzin
+# corbina.ru/~rumatha/home
+# dial.ortv.ru/rgw
+# frag.com/qshot
+# gamereview.nikel.org
+
+# games.net.ru/CruelNews
+# ixbt.stack.net/~3dstyle
+# jod.da.ru
+# maxnet.ru/quake
+# morra.demi.spb.ru
+# neva.spb.ru/valeno
+# nevapress.spb.ru/games
+# quake.ccl.ru
+# quake.deep.ru
+# quake.demi.spb.ru
+# quake.ricor.ru
+# quake.ru
+# quake2.ru
+# stv.ee/~oleg
+# thegrid.net/ostap
+# user.cityline.ru/~kinetix/gemnet
+# vmk-mvmk.ksu.ru/~kqc
 
 # russian clans
 194.85.82.39
@@ -677,4 +672,50 @@ earthlink.net/~warpanda
 megnatech.com/rwsaf
 stalsgaming.com/quake
 time2quake.com/DarkQuakers
+
+
+# links
+199.234.141.10/drsleep
+alchy.demon.co.uk
+as.cmu.edu/~nic
+crl.com/~midiguy
+daimi.aau.dk/~hykkelbj/quake
+doomgate.cs.buffalo.edu/games/quake
+doomgate.gamers.org/games/quake
+dragonfire.net/~Alexis
+efd.lth.se/~d95ml/quake
+erie.net/~mrdoom
+geocities.com/SiliconValley/Heights/2252
+geocities.com/SiliconValley/Park/8456
+ghgcorp.com/akcalsyn
+happypuppy.com/hleukart
+home.sol.no/svsundbe
+iinet.net.au/~den
+impulse.net/~smueller
+info.pitt.edu/~brianm/quake
+interlog.com/~fubar
+lava.net/~gofigure/higs
+members.aol.com/johnm49111/PCGSL
+mindspring.com/~nghtmare
+mm.com/user/tcdmntia/wwd
+netside.com/~csbailey
+niia.net/~mckenna
+pages.prodigy.com/quakelevels
+pegasus.oz.au/~forager/quake
+pro-net.co.uk/bailey
+pwp.usa.pipeline.com/~pcupka
+qoole.com
+quake.lucas.org
+ro.com/~rgoodwin
+serve.com/snowolfe
+sisna.com/users/carlitos
+sonic.net/~gtaylor
+trader.com
+uleth.ca/~holodj
+users.mwci.net/~predator
+users.wineasy.se/hallkon/quake
+web.ukonline.co.uk/Members/neil.henderson
+webcom.com/psi
+webonix.com/quake
+www-home.calumet.yorku.ca/dcardoso/www
 

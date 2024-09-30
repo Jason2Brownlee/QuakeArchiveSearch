@@ -26,7 +26,11 @@ import re
 # TARGET_URL = 'http://www.quake.spb.ru/skib/klan/klan.htm'
 # TARGET_URL = 'http://www.quake.spb.ru/linx.clubs.htm'
 # TARGET_URL = 'http://www.quake.ru/links.html'
-TARGET_URL = 'http://quakemaster.warzone.com:80/quakelinks.htm'
+# TARGET_URL = 'http://quakemaster.warzone.com:80/quakelinks.htm'
+# TARGET_URL = 'http://www.msen.com/~psteele/quake'
+TARGET_URL = 'https://kod.org.uk/old/files.htm'
+
+
 
 import requests
 from bs4 import BeautifulSoup

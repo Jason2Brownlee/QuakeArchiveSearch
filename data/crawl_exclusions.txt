@@ -8,3 +8,10 @@ http://quake.tyumen.ru:80/http-analyze
 http://www.quake.wplus.net/bog/html/champ_logs
 http://www.quake.wplus.net:80/bog/html/champ_logs
 http://www.quake.wplus.net:80/bog/html/guestbook
+http://www.planetquake.com/maldavria
+http://www.planetquake.com:80/maldavria
+http://planetquake.com:80/maldavria
+http://www.planetquake.com:80/Maldavria
+http://www.minos.co.uk/info/computer-systems.html
+http://www.minos.co.uk/info/Computer.html
+http://www.minos.co.uk/info/computers-for-sale.html

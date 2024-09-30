@@ -1,0 +1,29 @@
+# sites related to quaddicted wishlist
+# https://www.quaddicted.com/quaddicted.com/wanted_files
+
+# smaller
+# geocities.com/SiliconValley/Lakes/3847
+# users.interact.net.au/~pcrf
+# kod.org.uk
+
+# larger
+# planetquake.com/qer
+# planetquake.com/mal/
+
+
+
+# related
+# weber.ucg.ie/quake
+
+# limit to 2005
+# minos.co.uk
+minos.org.uk
+ukgaming.minos.co.uk
+ukcl.minos.co.uk
+hcamper.minos.co.uk
+temple.minos.co.uk
+athenenet.co.uk/homepages/keeper
+
+# massive, not limited
+lokety.com
+sodabob.com/3DGames
