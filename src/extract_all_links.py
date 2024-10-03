@@ -28,7 +28,11 @@ import re
 # TARGET_URL = 'http://www.quake.ru/links.html'
 # TARGET_URL = 'http://quakemaster.warzone.com:80/quakelinks.htm'
 # TARGET_URL = 'http://www.msen.com/~psteele/quake'
-TARGET_URL = 'https://kod.org.uk/old/files.htm'
+# TARGET_URL = 'https://kod.org.uk/old/files.htm'
+# TARGET_URL = 'http://www.alchy.demon.co.uk:80/qlinks.htm'
+# TARGET_URL = 'http://www.cba-inc.com/quake/links.html'
+# TARGET_URL = 'http://easyweb.easynet.co.uk/~inferno/i1/links.html'
+TARGET_URL = 'http://www.gamespot.com/action/quake/links.html'
 
 
 

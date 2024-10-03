@@ -1,0 +1,18 @@
+# quake matrix wishlist
+
+# marcos files
+matrix05.zip
+Matrix05Source.zip
+matrix05C_FULL.zip
+Matrix05C_SRC.zip
+qmrun.zip
+qmatrix-fteqw-progs-fix.zip
+
+# marco's wishlist
+Matrix05C_UPD.zip
+Matrix04.zip
+Matrix03.zip
+Matrix02.zip
+Matrix01.zip
+qmatrix_src.zip
+q1-matrix05.zip

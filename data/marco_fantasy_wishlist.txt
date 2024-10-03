@@ -1,0 +1,89 @@
+# fantasy quake wishlist
+# mostly from the changes.txt file in fq091.zip
+
+# 0.92, 22 Nov, 2000
+fqrotp92.zip
+rotp092p.zip
+# 0.91
+fq091.zip
+# 0.9
+fq090a.zip
+fq090.zip
+
+
+# 0.674
+rotp0674.zip
+# 0.673, December 22 1997
+fantasy.zip
+rotp0673.zip
+# 0.672
+rotp0672.zip
+# 0.671
+rotp0671.zip
+# 0.67
+rotp067.zip
+rotp067s.zip
+
+
+# 0.665, Tuesday, September 9, 1997
+rotp0665.zip
+# 0.664, Monday, September 8, 1997
+rotp0664.zip
+# 0.663, Saturday, September 6, 1997
+rotp0663.zip
+# 0.662
+rotp0662.zip
+# 0.661
+rotp0661.zip
+# 0.66, Tuesday, September 2, 1997
+rotp066.zip
+
+# 0.65, Monday, August 25, 1997
+rotp065.zip
+
+# 0.646, Sunday, August 24, 1997
+rotp0646.zip
+# ? first beta, Friday, August 15, 1997
+# 0.645
+rotp0645.zip
+# 0.64
+rotp064.zip
+# 0.635
+rotp0635.zip
+# 0.63
+rotp063.zip
+# 0.62
+rotp062.zip
+# 0.61
+rotp061.zip
+# 0.60
+rotp060.zip
+rotp060p.zip
+
+# prior to public beta
+rotp059.zip
+rotp058.zip
+rotp057.zip
+rotp056.zip
+rotp055.zip
+rotp054.zip
+rotp053.zip
+rotp052.zip
+rotp051.zip
+rotp050.zip
+rotp017.zip
+rotp016.zip
+rotp015.zip
+rotp014.zip
+rotp013.zip
+rotp012.zip
+rotp011.zip
+rotp010.zip
+
+# what is this?
+fqrotp15.zip
+
+# other files
+pak2.zip
+rotp_ent.zip
+level_dev.zip

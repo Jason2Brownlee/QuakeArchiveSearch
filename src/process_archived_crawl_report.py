@@ -15,7 +15,7 @@ import sqlite3
 # config
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
-year_cutoff = 2020
+year_cutoff = 2010
 delay_seconds = 15
 
 # api locations
@@ -36,10 +36,10 @@ def fetch_wayback_urls(base_url, year_cutoff, website_temp_dir):
     cache_filename = os.path.join(website_temp_dir, f"wayback_urls_{year_cutoff}_{hashlib.md5(base_url.encode('utf-8')).hexdigest()}.json")
 
     # Check if the cache file exists
-    if os.path.exists(cache_filename):
-        print(f"Loading cached Wayback URLs from {cache_filename}")
-        with open(cache_filename, 'r', encoding='utf-8') as cache_file:
-            return json.load(cache_file)
+    # if os.path.exists(cache_filename):
+    #     print(f"Loading cached Wayback URLs from {cache_filename}")
+    #     with open(cache_filename, 'r', encoding='utf-8') as cache_file:
+    #         return json.load(cache_file)
 
     # If cache does not exist, perform the API query
     params = {
@@ -54,10 +54,12 @@ def fetch_wayback_urls(base_url, year_cutoff, website_temp_dir):
     response = requests.get(WAYBACK_API_URL, params=params)
     response.raise_for_status()
     data = response.json()
+    print(data)
 
     # Cache the result to a file
     with open(cache_filename, 'w', encoding='utf-8') as cache_file:
         json.dump(data, cache_file)
+
 
     print(f"Cached Wayback URLs to {cache_filename}")
 
@@ -215,7 +217,7 @@ def sanitize_url_for_dirname(url):
 
 def process_quake_website():
 
-    quake_websites = ['planetquake.com/teamfortress']
+    quake_websites = ['cdrom.com/pub/planetquake']
 
     for quake_website_url in quake_websites:
         print(f"Processing website: {quake_website_url}")

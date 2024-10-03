@@ -24,6 +24,9 @@ year_cutoff = 2000
 # quake_websites_file = '../data/quaddicted_crawl.txt'
 # year_cutoff = 2020
 
+# quake_websites_file = '../data/marco_crawl.txt'
+# year_cutoff = 2010
+
 
 # other config
 temp_dir = "../data/wayback_downloads"
@@ -67,6 +70,8 @@ def fetch_wayback_urls(base_url, year_cutoff, website_temp_dir):
     response = requests.get(WAYBACK_API_URL, params=params)
     response.raise_for_status()
     data = response.json()
+
+    # print(data)
 
     # Cache the result to a file
     with open(cache_filename, 'w', encoding='utf-8') as cache_file:
@@ -185,7 +190,7 @@ def download_and_parse_url(timestamp, original_url, website_temp_dir):
         rate_limited()
         # Download the content
         response = requests.get(wayback_url)
-        response.raise_for_status()
+        # response.raise_for_status()
         content = response.text
 
         # Save to a temporary file
@@ -328,7 +333,11 @@ def process_quake_website():
         for i,entry in enumerate(wayback_entries):
             timestamp, original_url, mimetype, statuscode = entry
 
-            print(f'. {original_url}')
+            # skip redirects
+            if statuscode.startswith('3'):
+                continue
+
+            print(f'. {original_url} {statuscode}')
 
             if not is_text_content(mimetype):
                 # print(f"Skipping non-text content: {original_url} (mimetype: {mimetype})")
@@ -339,7 +348,7 @@ def process_quake_website():
                 print(f'> excluding {original_url}')
                 continue
 
-            # print(f"Processing URL: {original_url} from {timestamp}")
+            print(f"Processing URL: {original_url} from {timestamp}")
 
             try:
                 # get urls

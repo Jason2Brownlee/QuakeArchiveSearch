@@ -65,6 +65,9 @@ def main(pairs):
                 if file_url not in url_wishlist and file_url not in exclusions:
                     matching_urls.add(file_url)
 
+            # always print filename
+            # print(filename)
+
             # Display the results
             if matching_urls:
                 print(filename)
@@ -77,6 +80,15 @@ def main(pairs):
 if __name__ == '__main__':
 
     pairs = [
+            ['Navy Seals',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_navy_seals_wishlist.txt'],
+            ['Fantasy Quake',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt'],
+            ['Quake Matrix',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt'],
             ['Quaddicted',
               '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt'],

@@ -6,6 +6,7 @@
 data/wayback_downloads
 # ignore the whole index
 data/*.db
+data/*.sqlite
 
 # dev notes
 dev

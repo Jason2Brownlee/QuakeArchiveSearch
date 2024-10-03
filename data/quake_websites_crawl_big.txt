@@ -12,7 +12,7 @@ nctuccca.edu.tw/PC/games/QUAKE
 # news
 
 bluesnews.com
-# stomped.com
+stomped.com
 planetquake.com
 hipnotic.com
 ritual.com

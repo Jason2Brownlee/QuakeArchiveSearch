@@ -4,6 +4,7 @@
 # this is critical as a ton of content is filtered out
 # will require re-downloading each sites list of pages from archive (hack the code)
 
+planetquake.com/qca/goose
 
 # Quakeholio / Scary's News / ShugaShack / ShackNews
 rockisland.com/~phook/scary
