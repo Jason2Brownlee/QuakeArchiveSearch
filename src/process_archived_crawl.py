@@ -25,7 +25,7 @@ year_cutoff = 2000
 # year_cutoff = 2020
 
 # quake_websites_file = '../data/marco_crawl.txt'
-# year_cutoff = 2010
+# year_cutoff = 2020
 
 
 # other config
@@ -367,7 +367,7 @@ def process_quake_website():
 
                 # insert data more often
                 # if len(all_extracted_urls) >= 100:
-                if (i % 100) == 0:
+                if (i % 20) == 0:
                     # Batch insert the URLs after processing the entire website
                     batch_insert_urls(all_extracted_urls)
                     all_extracted_urls = set()

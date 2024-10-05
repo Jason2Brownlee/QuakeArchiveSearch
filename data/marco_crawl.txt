@@ -16,9 +16,18 @@
 # slip.net/~ardianl
 
 # quake matrix
-planetquake.com/qmatrix
-qmatrix.planetquake.gamespy.com
-dynamic4.gamespy.com/~qmatrix
-ftp.edome.net
-pages.infinit.net/quakemap
-quakematrix.tk
+# planetquake.com/qmatrix
+# qmatrix.planetquake.gamespy.com
+# dynamic4.gamespy.com/~qmatrix
+# ftp.edome.net
+# pages.infinit.net/quakemap
+# quakematrix.tk
+
+# ninja quake
+fragzone.se/ninja
+fz.se/ninja
+algonet.se/~swedesun
+home.swipnet.se/2k
+www3.ite.mh.se/~ping9903
+angelfire.com/ak/Zanini
+

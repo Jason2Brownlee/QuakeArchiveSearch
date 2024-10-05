@@ -9,5 +9,6 @@ navy20.zip
 navy2x.zip
 nseal201.zip
 ns22.zip
+Seal22gl.zip
 nsgl_models.zip
 navy3.zip
