@@ -32,4 +32,5 @@ http://fantasy.stomped.com:80/fbmsg
 http://fantasy.stomped.com:80/gameplay.msg
 http://www.bujin.com/cgi-bin/details.pl
 http://www.bujin.com:80/cgi-bin/details.pl
-
+http://www.xs4all.nl:80/quake/cgi-bin
+http://www.time2quake.com:80/secrets

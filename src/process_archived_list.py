@@ -5,7 +5,7 @@ import time
 
 DATABASE = '../data/quake_website.db'
 SLEEP_TIME = 10
-REQUEST_TIMEOUT = 30  # 30 seconds
+REQUEST_TIMEOUT = 30  # how long to wait for a response
 
 def standardize_url(url):
     """
@@ -122,6 +122,9 @@ def main():
 
     # Process each unprocessed website
     for quake_website_id, base_url in unprocessed_websites:
+        # print(base_url)
+        # continue
+
         try:
             total_found, inserted_count = process_url_with_wayback(cursor, base_url, quake_website_id, processing_method_id)
             # Commit the results for the current website

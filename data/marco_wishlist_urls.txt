@@ -7,6 +7,7 @@ http://www.cdrom.com/pub/idgames2/quakec/weapons/navy1711.zip
 http://www.gamers.org/pub/games/idgames2/quakec/weapons/navy1711.zip
 http://www.gamers.org/pub/idgames2/quakec/weapons/navy1711.zip
 https://www.quaddicted.com/files/idgames2/quakec/weapons/navy1711.zip
+http://www.time2quake.com/filez/quakec/weapons/navy1711.zip
 # Navy181.zip
 ftp://ftp.freesoftware.com/pub/idgames2/planetquake/qca/goose/navy181.zip
 http://www.bluesnews.com/files/patches/tcs/navy181.zip
@@ -14,6 +15,7 @@ http://www.cdrom.com/pub/idgames2/planetquake/qca/goose/navy181.zip
 http://www.planetquake.com/qca/goose/files/Navy181.zip
 # Navy191.zip
 http://www.bluesnews.com/files/patches/tcs/navy191.zip
+http://www.planetquake.com/qca/goose/files/Navy191.zip
 # navy20.zip
 http://www.bluesnews.com/files/patches/navy20.zip
 http://www.planetquake.com/qca/goose/files/navy20.zip
@@ -130,6 +132,7 @@ http://www.quakeone.com/qrack/pak2.zip
 https://www.quaddicted.com/files/engines/pak2.zip
 https://www.quaddicted.com/files/idgames2/planetquake/phantasm/dc/PAK2.ZIP
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/phantasm/dc/PAK2.ZIP
+http://src.doc.ic.ac.uk/packages/quake/planetquake/phantasm/dc/pak2.zip
 # rotp060p.zip
 http://fantasy.stomped.com/beta/rotp060p.zip
 # rotp0661.zip
@@ -215,6 +218,8 @@ https://ftp.fu-berlin.de/pc/games/idgames/levels/doom/m-o/ninja.txt
 https://www.quaddicted.com/files/idgames/levels/doom/m-o/ninja.txt
 https://www.quaddicted.com/files/idgames2/quake2/graphics/skins/m-o/ninja.txt
 https://youfailit.net/pub/idgames/levels/doom/m-o/ninja.txt
+http://www.happypuppy.com/lordsoth/cheats/hints/ninja.txt
+http://www.happypuppy.com/vault/pc/hints/ninja.txt
 # ninja01b.zip
 http://www.bluesnews.com/files/patches/ninja01b.zip
 http://www.fragzone.se/ninja/zip/ninja01b.zip

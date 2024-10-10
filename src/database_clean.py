@@ -38,6 +38,8 @@ def delete_entries(cursor, delete_criteria):
 
 # Main function to execute the script
 def main(delete_patterns):
+    print('Deleting...')
+
     # Connect to the SQLite database
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
@@ -45,8 +47,16 @@ def main(delete_patterns):
     if DEBUG_MODE:
         debug_mode(cursor, delete_patterns)
     else:
+        # delete
         delete_entries(cursor, delete_patterns)
+        # commit change
         conn.commit()
+        # res
+        print('Vacuuming...')
+        cursor.execute("vacuum")
+        # commit change
+        conn.commit()
+        print('Done.')
 
     conn.close()
 

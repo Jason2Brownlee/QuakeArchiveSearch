@@ -3,7 +3,7 @@
 import sqlite3
 
 DATABASE = '../data/quake_website.db'
-DEBUG = True
+DEBUG = False
 
 def select_delete():
     # Connect to the SQLite database

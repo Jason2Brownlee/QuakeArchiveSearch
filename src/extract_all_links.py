@@ -32,7 +32,13 @@ import re
 # TARGET_URL = 'http://www.alchy.demon.co.uk:80/qlinks.htm'
 # TARGET_URL = 'http://www.cba-inc.com/quake/links.html'
 # TARGET_URL = 'http://easyweb.easynet.co.uk/~inferno/i1/links.html'
-TARGET_URL = 'http://www.gamespot.com/action/quake/links.html'
+# TARGET_URL = 'http://www.gamespot.com/action/quake/links.html'
+# TARGET_URL = 'http://quake.perfect.co.uk/fragbook/22.3.97.htm'
+# TARGET_URL = 'http://quake.perfect.co.uk:80/fragbook/7.2.97.htm'
+# TARGET_URL = 'http://quake.perfect.co.uk:80/fragbook/28.2.97.htm'
+# TARGET_URL = 'http://www.fragzone.se/swemob/links.htm'
+# TARGET_URL = 'http://www.time2quake.com/links/quake_link.html'
+TARGET_URL = 'https://web.archive.org/web/20020605225355/http://time2quake.com/links/quake_link.html'
 
 
 
@@ -115,6 +121,10 @@ def extract_urls_from_page(page_url):
             # Clean the Wayback Machine wrapper, protocol, www, and file part
             original_url = clean_wayback_url(href)
 
+            # skip email addresses
+            if '@' in original_url:
+                continue
+
             # Normalize URLs (e.g., fix relative URLs, etc.)
             # if not original_url.startswith('http') :
             #     original_url = re.sub(r'^//', 'http://', original_url)
@@ -136,6 +146,9 @@ def main():
 
     # Step 1: Get the earliest Wayback Machine snapshot
     earliest_snapshot_url = fetch_earliest_wayback_snapshot(url_to_fetch)
+
+# HACK
+    # earliest_snapshot_url = url_to_fetch
 
     if not earliest_snapshot_url:
         print("Failed to fetch the earliest snapshot.")
