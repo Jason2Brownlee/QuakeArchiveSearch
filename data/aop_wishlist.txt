@@ -1,0 +1,81 @@
+# Abyss of Pandemonium (AoP) File Wishlist
+
+# https://quakeone.com/forum/quake-talk/quake-central/283873-diggin-for-old-quake-files
+# https://quakeone.com/forum/quake-talk/quake-central/13093-looking-for-old-abyss-of-pandemonium-files
+# https://www.quaddicted.com/forum/viewtopic.php?id=710
+
+# renamed versions of below?
+# TODO
+aop1.zip
+aop2.zip
+aop3.zip
+aop4.zip
+
+aopv105.zip
+aopv105.txt
+
+aopv105a.zip
+aopv105b.zip
+aopv105c.zip
+aopv105d.zip
+
+# demos
+abyss-x86-demo.exe
+abyss-x86-demo.txt
+abyss-mac-demo.hqx
+aop_demo.sit
+
+# TODO
+aop_demo_installer.hqx
+aopdemoinstaller
+
+# TODO
+abyss-x86-full.exe
+
+abyss-x86-up107.exe
+
+abyss-x86-up109.exe
+abyss-x86-up109.txt
+
+# TODO
+abyss109.zip
+
+# TODO
+abyss-x86-v100.exe
+abyss-x86-v100.txt
+
+# TODO
+abyss-x86-up110.exe
+abyss-x86-up110.zip
+abyss-x86-up110.txt
+
+abyss-x86-v200.exe
+abyss-x86-v200.txt
+
+abyss-x86-v200.r00
+abyss-x86-v200.r01
+abyss-x86-v200.r02
+abyss-x86-v200.rar
+
+aopdemo.exe
+aopdemo.txt
+
+abyss-trans-dm.rar
+abyss-trans-sp.rar
+
+psychoabyssdm.exe
+
+abyss-tabs.exe
+aopfm_v2.zip
+abyssdem.zip
+
+AOP-The_Final_Mission_v2.0.rar
+AOP%20-%20The%20Final%20Mission%20v2.0%20%20separate%20lightning-gun-enforcer%20skin.rar
+AOP%20-%20The%20Final%20Mission%20v2.0%20%20extended_20140623%20%20%2B%20source%20fixed.rar
+AOP%20-%20The%20Final%20Mission%20v2.0%20%20extended_20160330.rar
+AOP%20-%20The%20Final%20Mission%20v2.0__extended_20140623.zip
+Abyss_Of_Pandemonium_Reforged_v1.1.rar
+
+aop_litvis.zip
+
+aop2m1.zip

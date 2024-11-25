@@ -4,6 +4,10 @@ from urllib.parse import quote_plus
 
 DATABASE = '../data/quake_website.db'
 
+# DATABASE = '../data/quake_cds.db'
+
+#
+
 app = Flask(__name__)
 
 

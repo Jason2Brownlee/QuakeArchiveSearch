@@ -15,17 +15,17 @@ import sqlite3
 # quake_websites_file = '../data/quake_websites_crawl.txt'
 # year_cutoff = 2010
 
-quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
-year_cutoff = 2000
+# quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
+# year_cutoff = 2010
 
-# quake_websites_file = '../data/quake_websites_crawl_big.txt'
-# year_cutoff = 1997
+quake_websites_file = '../data/quake_websites_crawl_big.txt'
+year_cutoff = 2000
 
 # quake_websites_file = '../data/quaddicted_crawl.txt'
 # year_cutoff = 2020
 
-# quake_websites_file = '../data/marco_crawl.txt'
-# year_cutoff = 2020
+# quake_websites_file = '../data/aop_crawl.txt'
+# year_cutoff = 2000
 
 
 # other config
@@ -305,6 +305,7 @@ def process_quake_website():
     # read exclusions
     exclusions = read_quake_websites(exclusions_file)
 
+    # process all websites in crawl file...
     for quake_website_url in quake_websites:
         # skip comments
         if quake_website_url.startswith('#'):
@@ -327,9 +328,11 @@ def process_quake_website():
         # Fetch and process the Wayback Machine URLs for this specific website
         try:
             wayback_entries = fetch_wayback_urls(quake_website_url, year_cutoff, website_temp_dir)
-        except:
+        except Exception as e:
+            print(f'Error: {e}')
             continue;
 
+        # process all entries for this website
         for i,entry in enumerate(wayback_entries):
             timestamp, original_url, mimetype, statuscode = entry
 

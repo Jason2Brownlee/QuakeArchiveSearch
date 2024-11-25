@@ -46,12 +46,16 @@ http://geocities.com/aenlighten/GATEWAY.txt
 http://mirrors.syringanetworks.net/idgames/levels/doom2/g-i/gateway.txt
 http://public.planetmirror.com/pub/apple2/unsorted/Gateway.txt
 http://public.planetmirror.com/pub/apple_II/unsorted/Gateway.txt
+http://riad.usk.pk.edu.pl/~pmj/dejohnette/gateway.txt
+http://src.doc.ic.ac.uk/public/computing/comms/iso/umich-x500/papers/gateway.txt
 http://sunsite.doc.ic.ac.uk/public/Mirrors/ftp.gamesdomain.co.uk/pub/faqs/gateway.txt
 http://www.gamers.org/pub/games/sw/maps/a-m/gateway.txt
 http://www.gamers.org/pub/idgames/levels/doom2/g-i/gateway.txt
 http://www.gamers.org/pub/idgames2/quake2/graphics/skins/g-i/gateway.txt
 http://www.gamesdomain.co.uk/faqdir/gateway.txt
 http://www.gamesdomain.com/faqdir/gateway.txt
+http://www.happypuppy.com/lordsoth/cheats/hints/gateway.txt
+http://www.pk.edu.pl/~pmj/dejohnette/gateway.txt
 http://www.planetmirror.com/pub/apple_II/unsorted/Gateway.txt
 https://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/g-i/gateway.txt
 https://ftpmirror1.infania.net/pub/idgames/levels/doom2/g-i/gateway.txt
@@ -59,10 +63,8 @@ https://www.quaddicted.com/files/idgames/levels/doom2/g-i/gateway.txt
 https://www.quaddicted.com/files/idgames2/quake2/graphics/skins/g-i/gateway.txt
 https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/a-m/gateway.txt
 https://youfailit.net/pub/idgames/levels/doom2/g-i/gateway.txt
-http://src.doc.ic.ac.uk/public/computing/comms/iso/umich-x500/papers/gateway.txt
-http://www.happypuppy.com/lordsoth/cheats/hints/gateway.txt
 # gateway.zip
-http://quakeplanet.com/cgi-bin/redir.pl/maps/quake3/deathmatch/gateway.zi
+http://quakeplanet.com/cgi-bin/redir.pl/maps/quake3/deathmatch/gateway.zip
 http://apogee1.com/catalog/sw/files/maps/a-m/gateway.zip
 http://cd.textfiles.com/carousel344/028/GATEWAY.ZIP
 http://dukeworld.duke4.net/2001-current/buildgames/sw/maps/a-m/gateway.zip
@@ -147,6 +149,7 @@ http://meccaworld.com/quake/files/maps/series1.zip
 http://meccaworld.com/quake/maps/series1.zip
 http://www.fortunecity.com/underworld/f22/161/series1.zip
 http://www.quaddicted.com/filebase/series1.zip
+https://www.quaddicted.com/filebase/series1.zip
 https://www.quaddicted.com/files/maps/singleplayer/series1.zip
 # swk_map.zip
 http://www.planetquake.com/mal/swk_map.zip

@@ -1,0 +1,81 @@
+# Websites to crawl for AOP
+
+# ftps
+# 3dgamers.com/ad/oncd/file/games/quake/Missions
+# 3dgamers.com/dl/games/quake/Missions
+# 3dgamers.com/dlselect/games/quake/Missions
+# cdrom.com/pub/planetquake/impel
+# dukeworld.com/planetquake/impel
+# ftp.3dgamers.com/pub/3daction/quake/missions
+# ftp.cdrom.com/pub/planetquake/impel
+# ftp.elogica.com.br/pub/warlock
+# ftp.sunet.se/planetquake/impel
+# ftp.sunet.se/pub/games/PC/idgames2/planetquake/impel
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/impel
+# ftp.telepac.pt/pub/3dfiles/patches
+# ftp.telepac.pt/pub/idgames2/planetquake/impel
+# gamers.org/pub/games/idgames2/planetquake/impel
+# gamers.org/pub/idgames2/planetquake/impel
+# quaddicted.com/files/idgames2/planetquake/impel
+# quaddicted.com/files/mirrors/ftp.planetquake.com/impel
+# quaddicted.com/files/mirrors/ftp.telefragged.com/tenfourmaps/q1
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/fatty
+# src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/fatty
+# sunsite.org.uk/packages/idgames2/planetquake/fatty
+# sunsite.org.uk/packages/idgames2/planetquake/impel
+
+# 3dgamers.com/games/quake/
+
+quaddicted.com/files/mirrors/fileplanet/planetquake
+
+# official
+# planetquake.com/impel
+# impel.planetquake.gamespy.com
+# hosted.planetquake.gamespy.com/impel
+# download.instantaccess.com
+# instantaccess.com
+
+# reviews and such
+# planetquake.com/teamshambler
+# planetquake.com/underworld
+
+# teamshambler.planetquake.gamespy.com
+# underworld.planetquake.gamespy.com
+
+# hosted.planetquake.gamespy.com/teamshambler
+# hosted.planetquake.gamespy.com/underworld
+
+# ftp.barrysworld.com
+
+# thetekeyman.tripod.com/totalrecall
+# quake-info-pool.net/files/addons
+
+# ds-servers.com/gf/quake
+# quaketerminus.com/mods
+
+# quakeone.com/aop
+# quaketastic.com/files/single_player/mods
+
+# too big?
+# frag-net.com
+# quaketastic.com
+
+# long shots
+# cybermind.webwarriorz.com
+# omega.simplenet.com
+# pages.citenet.net/users/ctmx2630
+# geocities.com/sunsetstrip/underground/2370
+# w3.citenet.net/users/ctmx0511
+# kombat.webwarriorz.com
+
+# planetquake.com/teamshambler
+# planetquake.com/underworld
+
+# quaddicted.com/filebase
+
+# too large...
+ftp.sunet.se/planetquake
+mirror.aarnet.edu.au/games/planetquake
+ftp.sunet.se/pub/pc/games/idgames2/planetquake
+gamers.org/pub/idgames2/partial_conversions
+quaddicted.com/files/maps/singleplayer

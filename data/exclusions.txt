@@ -1,5 +1,10 @@
 # exclusions for db checks
 
+# ThreeWaveCTF
+# ========================
+# 3wave25.zip
+http://www.gore.org/files/server/3wave25.zip
+
 # TeamFortressQuakeArchive
 # ========================
 
@@ -60,6 +65,9 @@ http://src.doc.ic.ac.uk/packages/quake/planetquake/gandhi/demos/dm3.zip
 http://reality.sgi.com/rae/quake/idfiles/qwded104.exe
 http://reality.sgi.com/rae_aw/quake/idfiles/qwded104.exe
 # steve.zip
+http://ftp.sunet.se/idgames2/planetquake/thehuge/steve.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/thehuge/steve.zip
+http://tux.telefragged.com/sports-gaming/blc/steve.zip
 http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/1997/Maps/Steve.zip
 http://ftp.sunet.se/planetquake/thehuge/steve.zip
 http://ftpmirror1.infania.net/pub/simtelnet/win95/font/steve.zip
@@ -80,6 +88,12 @@ http://www.bluenews.com/files/macintosh/Quake-1_08_2.sit
 http://www.bluenews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
 # Quake-RAVE-1_08_2.sit
 http://www.bluenews.com/files/macintosh/Quake-RAVE-1_08_2.sit
+# qw233.zip
+http://hem.passagen.se/unik/skleros/files/qw233.zip
+# MacQW23b1.hqx
+http://www.quakefiles.com/files/download.php?filekey=qwmacqwb1&d_url=http://macspel.solgames.se/files/MacQW23b1.hqx
+# MacQWSrv23b1.hqx
+http://www.quakefiles.com/files/download.php?filekey=qwmacqwsr1&d_url=http://www.hover.net/mac/files/MacQWSrv23b1.hqx
 
 
 # QuakeBotArchive
@@ -88,6 +102,7 @@ http://www.bluenews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 # abandon1.zip
 http://crydee.sai.msu.ru/ftproot/pub/comp/os/os2/hobbes/multimedia/wave/wav/abandon1.zip
 # doombot.txt
+http://tux.telefragged.com/doomworld/mods/doombot.txt
 http://www.3ddownloads.com/doomworld/mods/doombot.txt
 # elim10.zip
 http://cd.textfiles.com/megarom2/UTILITY/DIR/ELIM10.ZIP
@@ -97,4 +112,13 @@ https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
 # rbot.zip
 http://www.fortunecity.com/underworld/gosub/335/RBot.zip
 http://www.fortunecity.com/underworld/pong/739/files/RBot.zip
+# obots101.sit
+ftp:///obots101.sit
+# qwprogs.zip
+http://teamsweden.fragzone.se/files/qwprogs.zip
+#friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/secure/us/ygrp/%2Ahttps%3A//login.yahoo.com/config/login?.src=ygrp&.v=0&.u=der0vdd135ldr&.last=&promo=&.intl=us&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/secure/us/ygrp/%2Ahttps%3A//login.yahoo.com/config/login?.src=ygrp&.v=0&.u=fmu8ffd135ldv&.last=&promo=&.intl=us&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/sihelp/us/ygrp/%2Ahttp%3A//login.yahoo.com/config/login?.src=ygrp&.intl=us&.help=1&.v=0&.u=der0vdd135ldr&.last=&.last=&promo=&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/sihelp/us/ygrp/%2Ahttp%3A//login.yahoo.com/config/login?.src=ygrp&.intl=us&.help=1&.v=0&.u=fmu8ffd135ldv&.last=&.last=&promo=&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
 

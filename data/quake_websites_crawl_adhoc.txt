@@ -1757,620 +1757,696 @@
 # web.singnet.com.sg/~mhidayat
 # time2quake.com
 
-crosswinds.net/~noricoco
-blub.simplenet.com
-ecst.csuchico.edu/~pberry/quake
-geocities.com/TimesSquare/Alley/2268
-mac.time2quake.com
-bway.net/~jvox
-geocities.com/SiliconValley/Pines/4628
-msn.fullfeed.com/~rmidthun
-mygale.org/~macgames
-planete.net/~jpascal
+# crosswinds.net/~noricoco
+# blub.simplenet.com
+# ecst.csuchico.edu/~pberry/quake
 
-quake.planet.nl
-rebel.netgames.net
-qf1.netgames.net
-barbarians.gamepoint.net
-anaesthesia.netgames.net
-quakenation.com
-students.tut.fi/~zibbo
+# mac.time2quake.com
+# bway.net/~jvox
+# geocities.com/SiliconValley/Pines/4628
+# msn.fullfeed.com/~rmidthun
+# mygale.org/~macgames
+# planete.net/~jpascal
 
-193.45.208.4
-194.14.204.119
-194.14.204.86
-algonet.se/~saga/smo
-atw.fullfeed.com/~jkrutke
-dmiwww.cs.tut.fi
-gamesdomain.com/clanring
-hem.passagen.se/milos
-home.earthlink.net/~babylou/quake
-home1.swipnet.se/~w-11770
-idsoftware.com/clans
-lenkkari.cs.tut.fi/~ams/rogue
-mercury.webframes.com/quakecomics
-nuc.net/quake
-panix.com/~sheaslip/qspy
-revco.stomped.com
-spel.passagen.se/quake
-vir.com/~phetu
-www10.torget.se/bli
-www10.torget.se/darkness
-www10.torget.se/quake
-www10.torget.se/sql
-www2.passagen.se/snack/quake
+# quake.planet.nl
+# rebel.netgames.net
+# qf1.netgames.net
+# barbarians.gamepoint.net
+# anaesthesia.netgames.net
+# quakenation.com
+# students.tut.fi/~zibbo
 
-quakecafe.com
+# 193.45.208.4
+# 194.14.204.119
+# 194.14.204.86
+# algonet.se/~saga/smo
+# atw.fullfeed.com/~jkrutke
 
-# clans
-dspace.dial.pipex.com/hellbringers
-dspace.dial.pipex.com/town/place/xbf09
-dspace.dial.pipex.com/town/terrace/abe90
-homepages.enterprise.net/pandiond
-homepages.newnet.co.uk/quake
-quake.perfect.co.uk/tfs
-sneezy.dcn.ed.ac.uk/mcnailz
-sneezy.dcn.ed.ac.uk/spg
-village.vossnet.co.uk/o/ogrady
-web.ukonline.co.uk/members/dr.stebbings
-web.ukonline.co.uk/members/mark.s24
-wkweb4.cableinet.co.uk/sibbald_g
-www.alchy.demon.co.uk
-darmok.demon.co.uk
-geocities.com/SoHo/2177
-geocities.com/hollywood/6751
-hants.demon.co.uk
-illustrations.co.uk/thezone
-klub.org/quake/klan
-leevalley.co.uk/htp/corpus
-loki-uk.demon.co.uk
-mediafactory.co.uk/~paulh/upset
-minos.co.uk
-minos.co.uk/ukcl
-monoplas.com/desperados
-niweb.com/dnet/dnetwMUQ
-nwnet.co.uk/stealer
-orlikon.demon.co.uk
-osiris1.demon.co.uk
-personal.u-net.com/~mallard
-quake.cix.co.uk
-quake.u-net.com/mc
-quake.u-net.com/x
-snakeyes.demon.co.uk
-swagger.co.uk/~swagger48
-tardis.ed.ac.uk/home/bjm/quake
-users.dircon.co.uk/~octapus
-uther.demon.co.uk
-uther.demon.co.uk/mcw
-yibble.demon.co.uk
-www2.wildnet.co.uk/~shane
+# gamesdomain.com/clanring
+# hem.passagen.se/milos
+# home.earthlink.net/~babylou/quake
+# home1.swipnet.se/~w-11770
+# idsoftware.com/clans
+# lenkkari.cs.tut.fi/~ams/rogue
+# mercury.webframes.com/quakecomics
+# nuc.net/quake
+# panix.com/~sheaslip/qspy
+# revco.stomped.com
+# spel.passagen.se/quake
+# vir.com/~phetu
+# www10.torget.se/bli
+# www10.torget.se/darkness
+# www10.torget.se/quake
+# www10.torget.se/sql
+# www2.passagen.se/snack/quake
 
-# links
-sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake
-diana.ecs.soton.ac.uk/~rht96r/quake
-ironman.planetquake.com
-lonestar.texas.net/~tarquin
-proffa.cc.tut.fi/~r151925
-quake.perfect.co.uk
-quake.perfect.co.uk/nftf
-quake.perfect.co.uk/qpd
-quake.perfect.co.uk/ukcl
-qwcentral.stomped.com
-redwood.gatsbyhouse.com
-threewave.planetquake.com
-users.ox.ac.uk/~shug0087
-users.ox.ac.uk/~shug0275
-web.ukonline.co.uk/quakelords
-www-graphics.stanford.edu/~quake
-www-jcr.dow.cam.ac.uk/~sr207
+# quakecafe.com
 
-cex.co.uk/cex/kaylo
-charlottesweb.net
-chu.cam.ac.uk/home/jja21
-cms.dmu.ac.uk/~rl/Quake
-darknet.net/ukool
-dcs.napier.ac.uk/~st5029
-dsoe.com/people/kwairt/quake/skins
-ens.fr/~cridlig
-gamesdomain.com/clanring
-leevalley.co.uk/htp/clan_uk
-netside.com/~csbailey/quake
-new.ox.ac.uk/quake
-new.ox.ac.uk/~adam/quake
-niklata.com/quake
-organism.com/void
-osiris1.demon.co.uk
+# # clans
+# dspace.dial.pipex.com/hellbringers
+# dspace.dial.pipex.com/town/place/xbf09
+# dspace.dial.pipex.com/town/terrace/abe90
+# homepages.enterprise.net/pandiond
+# homepages.newnet.co.uk/quake
+# quake.perfect.co.uk/tfs
+# sneezy.dcn.ed.ac.uk/mcnailz
+# sneezy.dcn.ed.ac.uk/spg
+# village.vossnet.co.uk/o/ogrady
+# web.ukonline.co.uk/members/dr.stebbings
+# web.ukonline.co.uk/members/mark.s24
+# wkweb4.cableinet.co.uk/sibbald_g
+# www.alchy.demon.co.uk
+# darmok.demon.co.uk
+# geocities.com/SoHo/2177
+# geocities.com/hollywood/6751
+# hants.demon.co.uk
+# illustrations.co.uk/thezone
+# klub.org/quake/klan
+# leevalley.co.uk/htp/corpus
+# loki-uk.demon.co.uk
+# mediafactory.co.uk/~paulh/upset
+# minos.co.uk
+# minos.co.uk/ukcl
+# monoplas.com/desperados
+# niweb.com/dnet/dnetwMUQ
+# nwnet.co.uk/stealer
+# orlikon.demon.co.uk
+# osiris1.demon.co.uk
+# personal.u-net.com/~mallard
+# quake.cix.co.uk
+# quake.u-net.com/mc
+# quake.u-net.com/x
+# snakeyes.demon.co.uk
+# swagger.co.uk/~swagger48
+# tardis.ed.ac.uk/home/bjm/quake
+# users.dircon.co.uk/~octapus
+# uther.demon.co.uk
+# uther.demon.co.uk/mcw
+# yibble.demon.co.uk
+# www2.wildnet.co.uk/~shane
 
-quake.cix.co.uk
-quakecomics.qc.ca
-quakemania.com/quakedoc
-quakeworld.net
-rz.uni-frankfurt.de/~brunken
+# # links
+# sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake
+# diana.ecs.soton.ac.uk/~rht96r/quake
+# ironman.planetquake.com
+# lonestar.texas.net/~tarquin
+# proffa.cc.tut.fi/~r151925
+# quake.perfect.co.uk
+# quake.perfect.co.uk/nftf
+# quake.perfect.co.uk/qpd
+# quake.perfect.co.uk/ukcl
+# qwcentral.stomped.com
+# redwood.gatsbyhouse.com
+# threewave.planetquake.com
+# users.ox.ac.uk/~shug0087
+# users.ox.ac.uk/~shug0275
+# web.ukonline.co.uk/quakelords
+# www-graphics.stanford.edu/~quake
+# www-jcr.dow.cam.ac.uk/~sr207
 
-slipgatecentral.com
-sp.ph.ic.ac.uk/~jude/ukteam
-undergrad.math.uwaterloo.ca/~rgwood
-uow.edu.au/~wstubbs
-vir.com/~phetu
-vt.edu:10021/G/gremlinx
+# cex.co.uk/cex/kaylo
+# charlottesweb.net
+# chu.cam.ac.uk/home/jja21
+# cms.dmu.ac.uk/~rl/Quake
+# darknet.net/ukool
+# dcs.napier.ac.uk/~st5029
+# dsoe.com/people/kwairt/quake/skins
+# ens.fr/~cridlig
+# gamesdomain.com/clanring
+# leevalley.co.uk/htp/clan_uk
+# netside.com/~csbailey/quake
+# new.ox.ac.uk/quake
+# new.ox.ac.uk/~adam/quake
+# niklata.com/quake
+# organism.com/void
+# osiris1.demon.co.uk
 
-# links
-www2.passagen.se/spel/quake
-passagen.se/spel/quake
-spel.passagen.se/quake
-www.algonet.se/~idegm
-infi-pos.com/~the
-fiend.pp.se/quake
-hem1.passagen.se/lillmic
-time2quake.com
+# quake.cix.co.uk
+# quakecomics.qc.ca
+# quakemania.com/quakedoc
+# quakeworld.net
+# rz.uni-frankfurt.de/~brunken
+
+# slipgatecentral.com
+# sp.ph.ic.ac.uk/~jude/ukteam
+# undergrad.math.uwaterloo.ca/~rgwood
+# uow.edu.au/~wstubbs
+# vir.com/~phetu
+# vt.edu:10021/G/gremlinx
 
 # links
-152.38.4.7/talon48
-206.12.10.204/stevefu/QuakeLab
-abc.se/~m10013/quake
-aggiequake.tamu.edu
-alaska.net/~rehbock/quake
-algonquinc.on.ca/~reyn0008
-anarchy.com/quake
-angelfire.com/me/hakerboy
-artnet.com.br/~nikon
-avault.com
-bayou.com/~wildfire/quake
-bbq.networks.com.ph
-bodycount.com
-bsptutor.telefragged.com
-bytescafe.com/~linkcentral
-cae.wisc.edu/~stoia
-calgary.shaw.wave.ca/~ilarson/quake
-canvasnet.com/quake
-choice.net/Games/Quake
-chrispont.demon.co.uk
-clans.time2quake.com/~triad
-clanwars.com
-co2.telefrag.com
-concentric.net/~Enigma72
-creaf.com/wwwnew/arcade/blast3d
-cris.com/~angular
-cris.com/~quepasa
-cs.tu-berlin.de/~satre
-csn.ul.ie/~krusty
-cyberia.com/pages/sfitz/cheatsa/Wall
-cynet.net/jwaldyer
-datacomm.ch/~monty
-desmodus.biom.cornell.edu/quake
-dfxnet.com/people/johnc
-dragonfire.net/~Alexis
-dragonfire.net/~Massacre
-dsoe.com/people/kwairt/quake
-erols.com/ismail/clangib
-erols.com/sneed
-flash.net/~peters
-fly.hiwaay.net/~eblair/yojimbo/clan
-fortunecity.com//millenium/kirkwall/22
-frisket.cstone.net/~thom/quake
-gamesdomain.com/war
-geocities.com/Area51/Caveren/9686
-geocities.com/Area51/Vault/5713
-geocities.com/Broadway/4615
-geocities.com/SiliconValley/3491
-geocities.com/SiliconValley/4261
-geocities.com/SunsetStrip/Palms/8162
-geocities.com/TimesSquare/4320
-geocities.com/TimesSquare/Alley/2288
-geocities.com/TimesSquare/Alley/5580
-geocities.com/TimesSquare/Alley/5935
-geocities.com/TimesSquare/Arcade/1975
-geocities.com/TimesSquare/Arcade/5192
-geocities.com/TimesSquare/Arcade/6641
-geocities.com/TimesSquare/Arcade/9118
-geocities.com/TimesSquare/Arcade/9585
-geocities.com/TimesSquare/Dungeon/4921
-geocities.com/Way/2409
-geocities.com/siliconvalley/Heights/3643
-geocities.com/siliconvalley/Way/2409
-geocities.com/siliconvalley/park/5961
-geocities.com/siliconvalley/park/8732
-geocities.com/siliconvalley/vista/5396
-geocities.com/siliconvalley/vista/5980
-geocities.com/timessquare/alley/5214
-geocities.com/timessquare/alley/9759
-geocities.com/timessquare/dungeon/6315
-geocities.com/tokyo/towers/9536
-guild.time2quake.com
-harborside.com/home/p/paulst
-home.fuse.net/stantondt
-home.sprynet.com/sprynet/cyberkill
-home.sprynet.com/sprynet/felker
-home2.swipnet.se/~w-27978
-home3.swipnet.se/~w-31848
-homepages.enterprise.net.peejay
-hookage.upstate.net
-idir.net/~jtener
-infi-pos.com/~the
-ironman.planetquake.com
-king.igs.net/~lambja
-lander.es/~mmiguel
-lava.net/~easy/clan808
-lenkkari.cs.tut.fi/~ams/rogue
-marshallnet.com/blister
-maui.net/~jms
-mcn.net/~jjc
-members.tripod.com/~indo_fear/Quake_Best_Wins
-mercury.webframes.com/quakecomics
-mgl.ca/~ptomlins
-mypage.direct.ca/r/rpjones
-nachos.net/jwood/pain
-netmegs.com
-netreach.net/~eltigre
-netside.com/~csbailey
-netwrx.net/users/jfuture/chapters
-norcom.mb.ca/infernal
-ourworld.compuserve.com/homepages/bernier
-ozemail.com.au/~forager/ozqs
-panix.com/~sheaslip/3d/bros-gib
-planetquake.com/quakex/threewave
-pldi.net/~richardr
-prairienet.org/~bubba
-primenet.com/~goloba/quake
-pwp.starnetinc.com/grunge
-q-net.net/~cyberpunk
-quakemania.com
-quakemania.com/roqs
-quakeserver.softchoice.com/3dgames
-ruralnet.net.au/~huda
-sci.fi/~marcus
-shell.idt.net/~darkha19
-shu.edu/~martelfr/contents/quake
-skillz.stomped.com
-somewhere.net/~user
-stomped.com
-student.nada.kth.se/~nv91-gta/quake
-sys.uea.ac.uk/~u9412476
-thenet.net/~randy
-thetrilogy.com
-this.is.a.test.com
-time2quake.com
-time2quake.com/links
-time2quake.com/scarecrow
-time2quake.com/triad
-timon.acu.edu/~aaw96z
-tne.net.au/hay
-trader.com/users/5010/4452
-tri6.net
-ttminc.com/quake
-ualr.edu/~btrogers
-unreal.scorched.com
-users.cts.com/king/t/theace
-users.zetnet.co.uk/amcintyre
-vivanet.com/~pecora19/qpyp
-wasteland.org/311
-wgrobez1.remote.louisville.edu/~wangel/quakec
-wizweb.com/arena
-wsnet.com/quake
-www2.netdoor.com/%7Epms
-xs4all.nl/quake
-zoomnet.net/~schaffin/quake2
+# www2.passagen.se/spel/quake
+# passagen.se/spel/quake
+# spel.passagen.se/quake
+# www.algonet.se/~idegm
+# infi-pos.com/~the
+# fiend.pp.se/quake
+# hem1.passagen.se/lillmic
+# time2quake.com
 
-hosted.planetquake.gamespy.com/teamfortress
-planetquake.gamespy.com/teamfortress
-teamfortress.planetquake.gamespy.com
+# links
+# 152.38.4.7/talon48
+# 206.12.10.204/stevefu/QuakeLab
+# abc.se/~m10013/quake
+# aggiequake.tamu.edu
+# alaska.net/~rehbock/quake
+# algonquinc.on.ca/~reyn0008
+# anarchy.com/quake
+# angelfire.com/me/hakerboy
+# artnet.com.br/~nikon
 
-quakeforum.de/continuum
-quakeforum.de/national
-quakeforum.de/qog
-quakeforum.de/rankbase
-quakeforum.de/quakery
-quakelounge.pixelhouse.de
-pixelhouse.de/hackfleisch
-delphie.de/quake
+# bayou.com/~wildfire/quake
+# bbq.networks.com.ph
+# bodycount.com
+# bsptutor.telefragged.com
+# bytescafe.com/~linkcentral
+# cae.wisc.edu/~stoia
+# calgary.shaw.wave.ca/~ilarson/quake
+# canvasnet.com/quake
+# choice.net/Games/Quake
+# chrispont.demon.co.uk
+# clans.time2quake.com/~triad
+# clanwars.com
+# co2.telefrag.com
+# concentric.net/~Enigma72
+# creaf.com/wwwnew/arcade/blast3d
+# cris.com/~angular
+# cris.com/~quepasa
+# cs.tu-berlin.de/~satre
+# csn.ul.ie/~krusty
+# cyberia.com/pages/sfitz/cheatsa/Wall
+# cynet.net/jwaldyer
+# datacomm.ch/~monty
+# desmodus.biom.cornell.edu/quake
+# dfxnet.com/people/johnc
+# dragonfire.net/~Alexis
+# dragonfire.net/~Massacre
+# dsoe.com/people/kwairt/quake
+# erols.com/ismail/clangib
+# erols.com/sneed
+# flash.net/~peters
+# fly.hiwaay.net/~eblair/yojimbo/clan
+# fortunecity.com//millenium/kirkwall/22
+# frisket.cstone.net/~thom/quake
+# gamesdomain.com/war
+# geocities.com/Area51/Caveren/9686
+# geocities.com/Area51/Vault/5713
+# geocities.com/Broadway/4615
+# geocities.com/SiliconValley/3491
+# geocities.com/SiliconValley/4261
+# geocities.com/SunsetStrip/Palms/8162
+# geocities.com/TimesSquare/4320
+# geocities.com/TimesSquare/Alley/2288
+# geocities.com/TimesSquare/Alley/5580
+# geocities.com/TimesSquare/Alley/5935
+# geocities.com/TimesSquare/Arcade/1975
+# geocities.com/TimesSquare/Arcade/5192
+# geocities.com/TimesSquare/Arcade/6641
+# geocities.com/TimesSquare/Arcade/9118
+# geocities.com/TimesSquare/Arcade/9585
+# geocities.com/TimesSquare/Dungeon/4921
+# geocities.com/Way/2409
+# geocities.com/siliconvalley/Heights/3643
+# geocities.com/siliconvalley/Way/2409
+# geocities.com/siliconvalley/park/5961
+# geocities.com/siliconvalley/park/8732
+# geocities.com/siliconvalley/vista/5396
+# geocities.com/siliconvalley/vista/5980
+# geocities.com/timessquare/alley/5214
+# geocities.com/timessquare/alley/9759
+# geocities.com/timessquare/dungeon/6315
+# geocities.com/tokyo/towers/9536
+# guild.time2quake.com
+# harborside.com/home/p/paulst
+# home.fuse.net/stantondt
+# home.sprynet.com/sprynet/cyberkill
+# home.sprynet.com/sprynet/felker
+# home2.swipnet.se/~w-27978
+# home3.swipnet.se/~w-31848
+# homepages.enterprise.net.peejay
+# hookage.upstate.net
+# idir.net/~jtener
+# infi-pos.com/~the
+# ironman.planetquake.com
+# king.igs.net/~lambja
+# lander.es/~mmiguel
+# lava.net/~easy/clan808
+# lenkkari.cs.tut.fi/~ams/rogue
+# marshallnet.com/blister
+# maui.net/~jms
+# mcn.net/~jjc
+# members.tripod.com/~indo_fear/Quake_Best_Wins
+# mercury.webframes.com/quakecomics
+# mgl.ca/~ptomlins
+# mypage.direct.ca/r/rpjones
+# nachos.net/jwood/pain
+# netmegs.com
+# netreach.net/~eltigre
+# netside.com/~csbailey
+# netwrx.net/users/jfuture/chapters
+# norcom.mb.ca/infernal
+# ourworld.compuserve.com/homepages/bernier
+# ozemail.com.au/~forager/ozqs
+# panix.com/~sheaslip/3d/bros-gib
+# planetquake.com/quakex/threewave
+# pldi.net/~richardr
+# prairienet.org/~bubba
+# primenet.com/~goloba/quake
+# pwp.starnetinc.com/grunge
+# q-net.net/~cyberpunk
+# quakemania.com
+# quakemania.com/roqs
+# quakeserver.softchoice.com/3dgames
+# ruralnet.net.au/~huda
+# sci.fi/~marcus
+# shell.idt.net/~darkha19
+# shu.edu/~martelfr/contents/quake
+
+# somewhere.net/~user
+
+# student.nada.kth.se/~nv91-gta/quake
+# sys.uea.ac.uk/~u9412476
+# thenet.net/~randy
+# thetrilogy.com
+# this.is.a.test.com
+# time2quake.com
+# time2quake.com/links
+# time2quake.com/scarecrow
+# time2quake.com/triad
+# timon.acu.edu/~aaw96z
+# tne.net.au/hay
+# trader.com/users/5010/4452
+# tri6.net
+# ttminc.com/quake
+# ualr.edu/~btrogers
+# unreal.scorched.com
+# users.cts.com/king/t/theace
+# users.zetnet.co.uk/amcintyre
+# vivanet.com/~pecora19/qpyp
+# wasteland.org/311
+# wgrobez1.remote.louisville.edu/~wangel/quakec
+# wizweb.com/arena
+# wsnet.com/quake
+
+# xs4all.nl/quake
+# zoomnet.net/~schaffin/quake2
+
+# hosted.planetquake.gamespy.com/teamfortress
+# planetquake.gamespy.com/teamfortress
+# teamfortress.planetquake.gamespy.com
+
+# quakeforum.de/continuum
+# quakeforum.de/national
+# quakeforum.de/qog
+# quakeforum.de/rankbase
+# quakeforum.de/quakery
+# quakelounge.pixelhouse.de
+# pixelhouse.de/hackfleisch
+# delphie.de/quake
 
 
-152.38.4.7/talon48
-206.12.10.204/stevefu/QuakeLab
-3dscene.com
-aggiequake.tamu.edu
-arriveat.com/mall24us
-bbq.networks.com.ph
-biosys.net/psybersam
-bsptutor.telefragged.com
-calgary.shaw.wave.ca/~ilarson/quake
-clanring.quake2.com
-co2.telefrag.com
-come.to/agentsofanarchy
-come.to/skilled_demos
-come.to/thetemptress
-desmodus.biom.cornell.edu/quake
-fly.hiwaay.net/~eblair/yojimbo/clan
-frisket.cstone.net/~thom/quake
-geocities.com/Area51/Portal/4054
-geocities.com/TimesSquare/Labyrinth/1956
-geocities.com/TimesSquare/lair/2025
-go.gamestats.com/quake
-guild.time2quake.com
-hem1.passagen.se/ehansen/quake
-home.fuse.net/k2skater
-home.fuse.net/stantondt
-home.sprynet.com/sprynet/cyberkill
-home.sprynet.com/sprynet/felker
-home.stlnet.com/~yodarules
-home2.swipnet.se/~w-27978
-home3.swipnet.se/~w-31848
-homepages.enterprise.net.peejay
-homepages.tig.com.au/~evilsim
-hookage.upstate.net
-hunter.hating.com/~zim
-ironman.planetquake.com
-lenkkari.cs.tut.fi/~ams/rogue
-lonestar.texas.net/~samm
-maui.net/~jms
-members.tripod.com/~Mustang_
-members.tripod.com/~clanmib
-members.tripod.com/~enforcer_xaa
-members.tripod.com/~indo_fear/Quake_Best_Wins
-members.tripod.com/~thecrows
-members.wbs.net/homepages/l/t/c
-members.xoom.com/musictimel
-members.xoom.com/quakart
-members.xoom.com/quakejungle
-members.xoom.com/uselessmen
-mercury.webframes.com/quakecomics
-mountain.warzone.com
-mypage.direct.ca/r/rpjones
-nachos.net/jwood/pain
-netdirect.net/~apache
-ourworld.compuserve.com/homepages/bernier
-pages.infinit.net/satan3d
-pe.net/~ahha/blue_voodoo
-perso.club-internet.fr/cybercap
-play.at/theqcc
-pwp.starnetinc.com/grunge
-q2press.warzone.com
-q2review.3dx.org
-quake.raks.net.tr
-quakedm.8m.com
-quakedm.virtualave.net
-quakeiiiarena.com
-quakeonline.hypermart.net
-quakeserver.softchoice.com/3dgames
-rocket.saw.net/talvi/PAN1
-room101.thoughtcrime.org/~gare
-room101.thoughtcrime.org/~gare/GoD
-shell.idt.net/~darkha19
-skillz.stomped.com
-slonet.org/~tkimble/Quake_Addons_Pyros
-surf.to/CybersPlace
-time2quake.com/links
-timon.acu.edu/~aaw96z
-ts.gjd.net/~Warlord
-ts.netgate.net/~hyper127
-underworld.fortunecity.com/lylat/674
-unreal.scorched.com
-users.fibroptic.net/~zim
-users.penn.com/~brodie
-wavecom.net/~alpine/adrian
-web.infoave.net/~jameking
-webring.quake2.com
-wgrobez1.remote.louisville.edu/~wangel/quakec
-3d-unlimited.com/quake2bunker
-3dx.org
-abc.se/~m10013/quake
-airnet.net/dustins
-alaska.net/~rehbock/quake
-algonquinc.on.ca/~reyn0008
-alphalink.com.au/~jccool
-anarchy.com/quake
-angelfire.com/games/clanHQ
-angelfire.com/ma/MattysBarracks
-angelfire.com/me/hakerboy
-angelfire.com/mi/patsclan
-angelfire.com/mi/quaketwo
-angelfire.com/ny/killa3
-angelfire.com/on/dragonclan
-angelfire.com/sk/ROGS
-angelfire.com/va/PogMan
-angelfire.com/wi/Flobo
-artnet.com.br/~nikon
-avatar.base.org
-avault.com
-bayou.com/~wildfire/quake
-bodycount.com
-business2business.on.ca/BlackIce
-bytescafe.com/~linkcentral
-cae.wisc.edu/~stoia
-canvasnet.com/quake
-cei.net/~slacker
-centrum.is/~tyke
-choice.net/Games/Quake
-chrispont.demon.co.uk
-clanmanson.com/manson
-clans.time2quake.com/~triad
-clanwars.com
-concentric.net/~Enigma72
-concentric.net/~rgbull
-crack.com
-creaf.com/wwwnew/arcade/blast3d
-cris.com/~angular
-cris.com/~quepasa
-crosswinds.net/~superman13
-cs.tu-berlin.de/~satre
-csn.ul.ie/~krusty
-cyberhighway.net/~hamlet/quake
-cyberia.com/pages/sfitz/cheatsa/Wall
-cyberthrill.com/cgi-bin/sponsor/mla/ricochet.cgi
-cynet.net/jwaldyer
-datacomm.ch/~monty
-deviousassassins.com
-dfxnet.com/people/johnc
-din.or.jp/~yasunobu/AYA
-dragonfire.net/~Alexis
-dragonfire.net/~Massacre
-dsoe.com/people/kwairt/quake
-dsuper.net/~mania
-electrongames.com
-erols.com/ismail/clangib
-erols.com/sneed
-euronet.nl/users/jdl
-expage.com/page/codesN641
-fairgame.org/norman/dk
-fatmama.com
-flash.net/~peters
-fly.to/nh
-fortuncity.com/underworld/doom/199
-fortunecity.com//millenium/kirkwall/22
-fortunecity.com/skyscraper/quadra/22
-fortunecity.com/tattooine/andersen/2
-frag.com/avatar
-freeyellow.com/members/camisdope
-gamecentral.simplenet.com/dominate
-gamesdomain.com/war
-geocities.com/Area51/Caveren/9686
-geocities.com/Area51/Chamber/7811
-geocities.com/Area51/Rampart/7691
-geocities.com/Area51/Station/3876
-geocities.com/Area51/Vault/5713
-geocities.com/Area51/Vault/9302
-geocities.com/Area51/dungeon/6434
-geocities.com/Broadway/4615
-geocities.com/Colosseum/Track/5240
-geocities.com/SiliconValley/3491
-geocities.com/SiliconValley/4261
-geocities.com/SiliconValley/Bay/1017
-geocities.com/SiliconValley/Bay/4496
-geocities.com/SiliconValley/Lab/6401
-geocities.com/SunsetStrip/Palms/8162
-geocities.com/SunsetStrip/Underground/1992
-geocities.com/TimesSquare/2866
-geocities.com/TimesSquare/4320
-geocities.com/TimesSquare/Alley/2288
-geocities.com/TimesSquare/Alley/5389
-geocities.com/TimesSquare/Alley/5580
-geocities.com/TimesSquare/Alley/5935
-geocities.com/TimesSquare/Arcade/1975
-geocities.com/TimesSquare/Arcade/5192
-geocities.com/TimesSquare/Arcade/6641
-geocities.com/TimesSquare/Arcade/8672
-geocities.com/TimesSquare/Arcade/9118
-geocities.com/TimesSquare/Arcade/9585
-geocities.com/TimesSquare/Arena/2031
-geocities.com/TimesSquare/Battlefield/4186
-geocities.com/TimesSquare/Battlefield/6396
-geocities.com/TimesSquare/Castle/3488
-geocities.com/TimesSquare/Castle/9401
-geocities.com/TimesSquare/Cavern/7072/Games/Quake
-geocities.com/TimesSquare/Dungeon/2751
-geocities.com/TimesSquare/Dungeon/4921
-geocities.com/TimesSquare/Dungeon/5110
-geocities.com/TimesSquare/Fortress/2915
-geocities.com/TimesSquare/Lair/1791
-geocities.com/TimesSquare/Lair/2387
-geocities.com/TimesSquare/Lair/8863
-geocities.com/TimesSquare/Maze/4353
-geocities.com/Way/2409
-geocities.com/area51/chamber/7458
-geocities.com/area51/dimension/8475
-geocities.com/siliconvalley/Heights/3643
-geocities.com/siliconvalley/Way/2409
-geocities.com/siliconvalley/park/5961
-geocities.com/siliconvalley/park/8732
-geocities.com/siliconvalley/vista/5396
-geocities.com/siliconvalley/vista/5980
-geocities.com/timessquare/alley/5214
-geocities.com/timessquare/alley/9759
-geocities.com/timessquare/dungeon/6315
-geocities.com/timessquare/lair/4613
-geocities.com/timessquare/stadium/8484
-geocities.com/tokyo/towers/9536
-geocities.com/~quake_2
-gibbed.com/wcg
-globalsite.com.br/spirit
-gti.net/chevy350
-harborside.com/home/p/paulst
-hating.com/~zim
-hyperdeath.com
-idir.net/~jtener/stone
-infi-pos.com/~the
-joinmd.com/cgi-bin/index.cgi
-king.igs.net/~lambja
-lander.es/~mmiguel
-lava.net/~easy/clan808
-marshallnet.com/blister
-mbcomp.com/gress
-mcn.net/~jjc
-mgl.ca/~ptomlins
-microgear.net/death
-midwestgems.com
-mts.net/~deroche
-netmegs.com
-netmegs.com/mike
-netreach.net/~eltigre
-netside.com/~csbailey
-netwrx.net/users/jfuture/chapters
-nonsanity.com/prefab
-norcom.mb.ca/infernal
-ntsltd.com/asfa/members
-oneinsane.net/~kyle/quake
-open.org/halesm
-oro.net/~canteen
-ozemail.com.au/~forager/ozqs
-panix.com/~sheaslip/3d/bros-gib
-pipeline.com.au/users/wadoryu/reapers
-planetquake.com/guild
-planetquake.com/quakex/threewave
-planetquake.com/spq2
-pldi.net/~richardr
-prairienet.org/~bubba
-primenet.com/~goloba/quake
-proaxis.com/~thebruces/quake
-punkmusic.com/triad
-q-net.net/~cyberpunk
-q3arena.net
-quake2.com
-quake2.com/HyperNews/get.cgi
-quake3.net
-quake3d.com
-quakefragging.8m.com
-quakeii.com
-quakemania.com
-quakemania.com/roqs
-rollerblade.com
-ruralnet.net.au/~huda
-sci.fi/~marcus
-sci.fi/~tm200149
-shu.edu/~martelfr/contents/quake
-slipgatecentral.com
-somewhere.net/~user
-stalsgaming.com/quake
-stomped.com
-student.nada.kth.se/~nv91-gta/quake
-sys.uea.ac.uk/~u9412476
-thenet.net/~randy
-thetrilogy.com
-tidalwave.net/~jake/sms
-time2quake.com
-time2quake.com/scarecrow
-time2quake.com/triad
-tne.net.au/hay
-tou.com/host/Pat
-trader.com/users/5010/4452
-tri6.net
-ts.gjd.net/~Warlord
-ttminc.com/quake
-ualr.edu/~btrogers
-unclespanky.com/Chronic
-users.cts.com/king/t/theace
-users.zetnet.co.uk/amcintyre
-vivanet.com/~pecora19/qpyp
-voicecore.com.au
-wasteland.org/311
-wizweb.com/arena
-wsnet.com/quake
-xs4all.nl/quake
-zoomnet.net/~schaffin/quake2
-www2.bitstream.net/~bcnjr
-www2.netdoor.com/~pms
-www3.sympatico.ca/skorpion
-bitstream.net/~bcnjr
-netdoor.com/~pms
-sympatico.ca/skorpion
+# 152.38.4.7/talon48
+# 206.12.10.204/stevefu/QuakeLab
+# 3dscene.com
+# aggiequake.tamu.edu
+# arriveat.com/mall24us
+# bbq.networks.com.ph
+# biosys.net/psybersam
+# bsptutor.telefragged.com
+# calgary.shaw.wave.ca/~ilarson/quake
+# clanring.quake2.com
+# co2.telefrag.com
+# come.to/agentsofanarchy
+# come.to/skilled_demos
+# come.to/thetemptress
+# desmodus.biom.cornell.edu/quake
+# fly.hiwaay.net/~eblair/yojimbo/clan
+# frisket.cstone.net/~thom/quake
+# geocities.com/Area51/Portal/4054
+# geocities.com/TimesSquare/Labyrinth/1956
+# geocities.com/TimesSquare/lair/2025
+# go.gamestats.com/quake
+# guild.time2quake.com
+# hem1.passagen.se/ehansen/quake
+# home.fuse.net/k2skater
+# home.fuse.net/stantondt
+# home.sprynet.com/sprynet/cyberkill
+# home.sprynet.com/sprynet/felker
+# home.stlnet.com/~yodarules
+# home2.swipnet.se/~w-27978
+# home3.swipnet.se/~w-31848
+# homepages.enterprise.net.peejay
+# homepages.tig.com.au/~evilsim
+# hookage.upstate.net
+# hunter.hating.com/~zim
+# ironman.planetquake.com
+# lenkkari.cs.tut.fi/~ams/rogue
+# lonestar.texas.net/~samm
+# maui.net/~jms
+# members.tripod.com/~Mustang_
+# members.tripod.com/~clanmib
+# members.tripod.com/~enforcer_xaa
+# members.tripod.com/~indo_fear/Quake_Best_Wins
+# members.tripod.com/~thecrows
+# members.wbs.net/homepages/l/t/c
+# members.xoom.com/musictimel
+# members.xoom.com/quakart
+# members.xoom.com/quakejungle
+# members.xoom.com/uselessmen
+# mercury.webframes.com/quakecomics
+# mountain.warzone.com
+# mypage.direct.ca/r/rpjones
+# nachos.net/jwood/pain
+# netdirect.net/~apache
+# ourworld.compuserve.com/homepages/bernier
+# pages.infinit.net/satan3d
+# pe.net/~ahha/blue_voodoo
+# perso.club-internet.fr/cybercap
+# play.at/theqcc
+# pwp.starnetinc.com/grunge
+# q2press.warzone.com
+# q2review.3dx.org
+# quake.raks.net.tr
+# quakedm.8m.com
+# quakedm.virtualave.net
+# quakeiiiarena.com
+# quakeonline.hypermart.net
+# quakeserver.softchoice.com/3dgames
+# rocket.saw.net/talvi/PAN1
+# room101.thoughtcrime.org/~gare
+# room101.thoughtcrime.org/~gare/GoD
+# shell.idt.net/~darkha19
 
-mgl.ca/~estern
+# slonet.org/~tkimble/Quake_Addons_Pyros
+# surf.to/CybersPlace
+# time2quake.com/links
+# timon.acu.edu/~aaw96z
+# ts.gjd.net/~Warlord
+# ts.netgate.net/~hyper127
+# underworld.fortunecity.com/lylat/674
+# unreal.scorched.com
+# users.fibroptic.net/~zim
+# users.penn.com/~brodie
+# wavecom.net/~alpine/adrian
+# web.infoave.net/~jameking
+# webring.quake2.com
+# wgrobez1.remote.louisville.edu/~wangel/quakec
+# 3d-unlimited.com/quake2bunker
+# 3dx.org
+# abc.se/~m10013/quake
+# airnet.net/dustins
+# alaska.net/~rehbock/quake
+# algonquinc.on.ca/~reyn0008
+# alphalink.com.au/~jccool
+# anarchy.com/quake
+# angelfire.com/games/clanHQ
+# angelfire.com/ma/MattysBarracks
+# angelfire.com/me/hakerboy
+# angelfire.com/mi/patsclan
+# angelfire.com/mi/quaketwo
+# angelfire.com/ny/killa3
+# angelfire.com/on/dragonclan
+# angelfire.com/sk/ROGS
+# angelfire.com/va/PogMan
+# angelfire.com/wi/Flobo
+# artnet.com.br/~nikon
+# avatar.base.org
+
+# bayou.com/~wildfire/quake
+# bodycount.com
+# business2business.on.ca/BlackIce
+# bytescafe.com/~linkcentral
+# cae.wisc.edu/~stoia
+# canvasnet.com/quake
+# cei.net/~slacker
+# centrum.is/~tyke
+# choice.net/Games/Quake
+# chrispont.demon.co.uk
+# clanmanson.com/manson
+# clans.time2quake.com/~triad
+# clanwars.com
+# concentric.net/~Enigma72
+# concentric.net/~rgbull
+
+# creaf.com/wwwnew/arcade/blast3d
+# cris.com/~angular
+# cris.com/~quepasa
+# crosswinds.net/~superman13
+# cs.tu-berlin.de/~satre
+# csn.ul.ie/~krusty
+# cyberhighway.net/~hamlet/quake
+# cyberia.com/pages/sfitz/cheatsa/Wall
+# cyberthrill.com/cgi-bin/sponsor/mla/ricochet.cgi
+# cynet.net/jwaldyer
+# datacomm.ch/~monty
+
+# dfxnet.com/people/johnc
+# din.or.jp/~yasunobu/AYA
+# dragonfire.net/~Alexis
+# dragonfire.net/~Massacre
+# dsoe.com/people/kwairt/quake
+# dsuper.net/~mania
+
+# erols.com/ismail/clangib
+# erols.com/sneed
+# euronet.nl/users/jdl
+# expage.com/page/codesN641
+# fairgame.org/norman/dk
+
+# flash.net/~peters
+# fortuncity.com/underworld/doom/199
+# fortunecity.com//millenium/kirkwall/22
+# fortunecity.com/skyscraper/quadra/22
+# fortunecity.com/tattooine/andersen/2
+# frag.com/avatar
+# freeyellow.com/members/camisdope
+# gamecentral.simplenet.com/dominate
+# gamesdomain.com/war
+# geocities.com/Area51/Caveren/9686
+# geocities.com/Area51/Chamber/7811
+# geocities.com/Area51/Rampart/7691
+# geocities.com/Area51/Station/3876
+# geocities.com/Area51/Vault/5713
+# geocities.com/Area51/Vault/9302
+# geocities.com/Area51/dungeon/6434
+# geocities.com/Broadway/4615
+# geocities.com/Colosseum/Track/5240
+# geocities.com/SiliconValley/3491
+# geocities.com/SiliconValley/4261
+# geocities.com/SiliconValley/Bay/1017
+# geocities.com/SiliconValley/Bay/4496
+# geocities.com/SiliconValley/Lab/6401
+# geocities.com/SunsetStrip/Palms/8162
+# geocities.com/SunsetStrip/Underground/1992
+# geocities.com/TimesSquare/2866
+# geocities.com/TimesSquare/4320
+# geocities.com/TimesSquare/Alley/2288
+# geocities.com/TimesSquare/Alley/5389
+# geocities.com/TimesSquare/Alley/5580
+# geocities.com/TimesSquare/Alley/5935
+# geocities.com/TimesSquare/Arcade/1975
+# geocities.com/TimesSquare/Arcade/5192
+# geocities.com/TimesSquare/Arcade/6641
+# geocities.com/TimesSquare/Arcade/8672
+# geocities.com/TimesSquare/Arcade/9118
+# geocities.com/TimesSquare/Arcade/9585
+# geocities.com/TimesSquare/Arena/2031
+# geocities.com/TimesSquare/Battlefield/4186
+# geocities.com/TimesSquare/Battlefield/6396
+# geocities.com/TimesSquare/Castle/3488
+# geocities.com/TimesSquare/Castle/9401
+# geocities.com/TimesSquare/Cavern/7072/Games/Quake
+# geocities.com/TimesSquare/Dungeon/2751
+# geocities.com/TimesSquare/Dungeon/4921
+# geocities.com/TimesSquare/Dungeon/5110
+# geocities.com/TimesSquare/Fortress/2915
+# geocities.com/TimesSquare/Lair/1791
+# geocities.com/TimesSquare/Lair/2387
+# geocities.com/TimesSquare/Lair/8863
+# geocities.com/TimesSquare/Maze/4353
+# geocities.com/Way/2409
+# geocities.com/area51/chamber/7458
+# geocities.com/area51/dimension/8475
+# geocities.com/siliconvalley/Heights/3643
+# geocities.com/siliconvalley/Way/2409
+# geocities.com/siliconvalley/park/5961
+# geocities.com/siliconvalley/park/8732
+# geocities.com/siliconvalley/vista/5396
+# geocities.com/siliconvalley/vista/5980
+# geocities.com/timessquare/alley/5214
+# geocities.com/timessquare/alley/9759
+# geocities.com/timessquare/dungeon/6315
+# geocities.com/timessquare/lair/4613
+# geocities.com/timessquare/stadium/8484
+# geocities.com/tokyo/towers/9536
+# geocities.com/~quake_2
+# gibbed.com/wcg
+# globalsite.com.br/spirit
+# gti.net/chevy350
+# harborside.com/home/p/paulst
+# hating.com/~zim
+# hyperdeath.com
+# idir.net/~jtener/stone
+# infi-pos.com/~the
+# joinmd.com/cgi-bin/index.cgi
+# king.igs.net/~lambja
+# lander.es/~mmiguel
+# lava.net/~easy/clan808
+# marshallnet.com/blister
+# mbcomp.com/gress
+# mcn.net/~jjc
+# mgl.ca/~ptomlins
+# microgear.net/death
+
+# mts.net/~deroche
+# netmegs.com
+# netmegs.com/mike
+# netreach.net/~eltigre
+# netside.com/~csbailey
+# netwrx.net/users/jfuture/chapters
+# nonsanity.com/prefab
+# norcom.mb.ca/infernal
+# ntsltd.com/asfa/members
+# oneinsane.net/~kyle/quake
+# open.org/halesm
+# oro.net/~canteen
+# ozemail.com.au/~forager/ozqs
+# panix.com/~sheaslip/3d/bros-gib
+# pipeline.com.au/users/wadoryu/reapers
+# planetquake.com/guild
+# planetquake.com/quakex/threewave
+# planetquake.com/spq2
+# pldi.net/~richardr
+# prairienet.org/~bubba
+# primenet.com/~goloba/quake
+# proaxis.com/~thebruces/quake
+# punkmusic.com/triad
+# q-net.net/~cyberpunk
+
+# quakefragging.8m.com
+# quakemania.com
+# quakemania.com/roqs
+
+# ruralnet.net.au/~huda
+# sci.fi/~marcus
+# sci.fi/~tm200149
+# shu.edu/~martelfr/contents/quake
+# slipgatecentral.com
+# somewhere.net/~user
+# stalsgaming.com/quake
+
+# student.nada.kth.se/~nv91-gta/quake
+# sys.uea.ac.uk/~u9412476
+# thenet.net/~randy
+# thetrilogy.com
+# tidalwave.net/~jake/sms
+# time2quake.com
+# time2quake.com/scarecrow
+# time2quake.com/triad
+# tne.net.au/hay
+# tou.com/host/Pat
+# trader.com/users/5010/4452
+# tri6.net
+# ts.gjd.net/~Warlord
+# ttminc.com/quake
+# ualr.edu/~btrogers
+# unclespanky.com/Chronic
+# users.cts.com/king/t/theace
+# users.zetnet.co.uk/amcintyre
+# vivanet.com/~pecora19/qpyp
+# voicecore.com.au
+# wasteland.org/311
+# wizweb.com/arena
+# wsnet.com/quake
+# xs4all.nl/quake
+# zoomnet.net/~schaffin/quake2
+# www2.bitstream.net/~bcnjr
+# www2.netdoor.com/~pms
+# www3.sympatico.ca/skorpion
+# bitstream.net/~bcnjr
+# netdoor.com/~pms
+# sympatico.ca/skorpion
+
+# mgl.ca/~estern
+# hem.passagen.se/cob
+# personal.u-net.com/~thecrow
+# dspace.dial.pipex.com/town/square/fd82
+
+# web.ukonline.co.uk/dr.stebbings
+# web.ukonline.co.uk/graham.townsend
+# web.ukonline.co.uk/jc.burton
+# web.ukonline.co.uk/johnc
+# web.ukonline.co.uk/mark.s24
+# web.ukonline.co.uk/neil.henderson
+# web.ukonline.co.uk/onyx.r
+# web.ukonline.co.uk/quakelords
+# web.ukonline.co.uk/s.boswell
+
+# web.ukonline.co.uk/Members/dr.stebbings
+# web.ukonline.co.uk/Members/graham.townsend
+# web.ukonline.co.uk/Members/jc.burton
+# web.ukonline.co.uk/Members/johnc
+# web.ukonline.co.uk/Members/mark.s24
+# web.ukonline.co.uk/Members/neil.henderson
+# web.ukonline.co.uk/Members/onyx.r
+# web.ukonline.co.uk/Members/quakelords
+# web.ukonline.co.uk/Members/s.boswell
+
+
+# teamdenmark.clan.dk
+# teamsweden.fragzone.se
+# home.sol.no/andnaess/norway
+# q-continuum.de
+
+
+# servers
+# QUAKE.TESTENGEER.COM
+# quake.inter.net.il
+# quake.testengeer.com
+# Quake.dread.net
+# quake.globalnet.co.uk
+
+# quake.iis.com.br
+# quake.brainerdonline.com
+# quake.agora.dk
+# quake.multi.se
+# quake.mc.net
+# quake1.penn.com
+# quake.texas.net
+# quake.lithium.com
+# quake2.hating.com
+
+# bots
+# parboil.newmail.ru
+# parboil.mailru.com
+# parboil.quakeworld.ru
+# parboil.tripod.com
+# dmsoul.mailru.com
+# dmsoul.newmail.ru
+# p-n-p.newmail.ru
+
+
+# killer
+# ugrad.cs.ubc.ca/spider/u6m1
+# kqp.mpog.com
+# mpog.com/kqp
+# kqp.warzone.com
+# warzone.com/kqp
+# kqp.horoy.com
+# planetquake.com/qca
+# quakec.com
+
+# frag.com/qchq
+# qchq.com/KQP
+# qchq.com
+# lithium.com/qchq
+# planetquake.com/qchq
+
+
+# myrkul.org
+
+# ftp.gamezone.mweb.co.za
+# pelit.saunalahti.fi
+
+# tux.telefragged.com
+

@@ -5,7 +5,13 @@ import sqlite3
 # DATABASE = '../data/quake_website.db'
 DATABASE = '../data/quake_website2.db'
 
+# DATABASE = '../data/quake_cds.db'
+# DATABASE = '../data/quake_website_testing.db'
+
 EXCLUSIONS = '../data/exclusions.txt'
+
+# are we generating a result to show in public?
+PUBLIC = False
 
 def read_text_file(file_path):
     """
@@ -60,19 +66,31 @@ def main(pairs):
             results = cursor.fetchall()
 
             # Check each result if it is not in the URL wishlist
-            for row in results:
-                file_url = row[0]
-                if file_url not in url_wishlist and file_url not in exclusions:
+            if PUBLIC:
+                for row in results:
+                    file_url = row[0]
                     matching_urls.add(file_url)
+            else:
+                for row in results:
+                    file_url = row[0]
+                    if file_url not in url_wishlist and file_url not in exclusions:
+                        matching_urls.add(file_url)
 
-            # always print filename
-            # print(filename)
-
-            # Display the results
-            if matching_urls:
+            # print everything for a public result
+            if PUBLIC:
                 print(filename)
-                for url in sorted(matching_urls):
-                    print(f'\t{url}')
+                if matching_urls:
+                    for url in sorted(matching_urls):
+                        print(f'\t{url}')
+                else:
+                    print('\t?')
+            else:
+                # only print if there are results, for me
+                if matching_urls:
+                    print(filename)
+                    for url in sorted(matching_urls):
+                        print(f'\t{url}')
+
 
     # Close the connection
     conn.close()
@@ -80,7 +98,9 @@ def main(pairs):
 if __name__ == '__main__':
 
     pairs = [
-
+            ['Abyss of Pandemonium',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt'],
             ['Navy Seals',
               '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_navy_seals_wishlist.txt'],

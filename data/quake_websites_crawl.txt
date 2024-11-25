@@ -1,6 +1,4 @@
 # list of websites to download from archive.org and crawl for links
-
-# TODO: increase filter from 2000 to 2010
 # this is critical as a ton of content is filtered out
 # will require re-downloading each sites list of pages from archive (hack the code)
 
@@ -35,7 +33,7 @@ ftp.canvasnet.com
 http.tamu.edu:8000/~stm9233
 aggiequake.tamu.edu
 redwood.gatsbyhouse.com
-# redwood.stomped.com
+redwood.stomped.com
 qwcentral.stomped.com
 frag.com/quakeworld
 
@@ -60,19 +58,19 @@ planetquake.com/zeus
 # oak bot
 web.ukonline.co.uk/neil.henderson
 web.ukonline.co.uk/johnc
-# oakbots.co.uk
-# telefragged.com/oak
+oakbots.co.uk
+telefragged.com/oak
 # RichMark
 pw2.netcom.com/~kroeker
 
 # quake mecca
 quakemecca.simplenet.com
-# jord.sbc.edu
+jord.sbc.edu
 
 # other news
 mdqnet.net
-# botepidemic.com
-# planetquake.com/qca
+botepidemic.com
+planetquake.com/qca
 reality.sgi.com/rae
 reality.sgi.com/rae_aw
 quake.errorabove.com
@@ -140,7 +138,7 @@ geocities.ws/mlbl
 geocities.ws/oldquaker
 geocities.ws/pilxtc
 
-forums.inside3d.com
+# forums.inside3d.com
 inside3d.com
 
 # other

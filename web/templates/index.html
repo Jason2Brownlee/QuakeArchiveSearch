@@ -36,7 +36,18 @@
     </style>
 
     <script>
-        // JavaScript to check if URLs exist
+        // JavaScript to handle "Copy All URLs" button
+        function copyAllUrls() {
+            const links = document.querySelectorAll('.file-url');
+            const urls = Array.from(links).map(link => link.href).join('\n');
+            navigator.clipboard.writeText(urls).then(() => {
+                alert('All URLs copied to clipboard!');
+            }).catch(err => {
+                alert('Failed to copy URLs: ' + err);
+            });
+        }
+
+        // Other JavaScript
         document.addEventListener('DOMContentLoaded', function() {
             const links = document.querySelectorAll('.file-url');
 
@@ -46,43 +57,21 @@
                 fetch(url, { method: 'GET', mode: 'no-cors' })
                     .then(response => {
                         if (response.type === 'opaque') {
-                            // If the response is opaque (likely due to CORS), show "status unknown"
                             link.insertAdjacentHTML('beforebegin', '<span class="unknown-status">&#10067;</span>'); // Question Mark
                         } else if (response.ok) {
-                            // If the response status is 200-299, show "might be good"
                             link.insertAdjacentHTML('beforebegin', '<span class="green-tick">&#9989;</span>'); // Green Tick
                         } else if (response.status >= 400 && response.status < 600) {
-                            // If the response status is 404, 503, or other 4xx/5xx, show warning sign
                             link.insertAdjacentHTML('beforebegin', '<span class="warning-sign">&#9888;</span>'); // Warning Sign
                         } else {
-                            // For all other statuses, assume unknown
                             link.insertAdjacentHTML('beforebegin', '<span class="unknown-status">&#10067;</span>'); // Question Mark
                         }
                     })
                     .catch(error => {
-                        // If there is an error (e.g., network error), show "link is dead"
                         link.insertAdjacentHTML('beforebegin', '<span class="red-cross">&#10060;</span>'); // Red Cross
                     });
             });
-
-            // Copy to clipboard functionality
-            document.querySelectorAll('.copy-link').forEach(copyLink => {
-                copyLink.addEventListener('click', function(event) {
-                    event.preventDefault(); // Prevent default link behavior
-                    const urlToCopy = this.getAttribute('data-url');
-                    navigator.clipboard.writeText(urlToCopy).then(() => {
-                        //alert('URL copied to clipboard!');
-                        ;
-                    }).catch(err => {
-                        //console.error('Failed to copy: ', err);
-                        ;
-                    });
-                });
-            });
         });
     </script>
-
-
 </head>
 <body>
     <a href="/"><h1>Quake Archive Search</h1></a>
@@ -90,16 +79,6 @@
     <p>Search <strong>{{ "{:,}".format(total_file_urls) }}</strong> archived quake file URLs</p>
 
     <form method="POST">
-<!--         <label>
-            <input type="radio" name="search_type" value="contains" {% if search_type == "contains" %}checked{% endif %}>
-            Contains:
-        </label>
-        <label>
-            <input type="radio" name="search_type" value="ends_with" {% if search_type == "ends_with" %}checked{% endif %}>
-            Ends with:
-        </label>
-        <label for="search_query">Search file URLs:</label>
--->
         <input type="text" size="40" id="search_query" name="search_query" value="{{ search_query }}" required>
         <button type="submit">Search</button>
         <div>Use * for wildcards. Start with / for path to file.</div>
@@ -108,6 +87,9 @@
     {% if results %}
         <h2>Search Results:</h2>
         Limited to 500 results.
+        <!-- Copy All URLs Button -->
+        <button onclick="copyAllUrls()">Copy All URLs</button>
+
         <table>
             <thead>
                 <tr>
@@ -123,20 +105,27 @@
                     <tr>
                         <td>{{ file_name }}</td>
                         <td>
-                            <a href="https://web.archive.org/web/*/{{ row['file_url'] }}" target="_blank">View</a>
-                            |
-                            <a href="https://web.archive.org/web/*/{{ parent_directory_url }}" target="_blank">Browse</a>
+                            {% if row['file_url'].lower().startswith('http') or row['file_url'].lower().startswith('ftp') %}
+                                <a href="https://web.archive.org/web/*/{{ row['file_url'] }}" target="_blank">View</a>
+                                |
+                                <a href="https://web.archive.org/web/*/{{ parent_directory_url }}" target="_blank">Browse</a>
+                            {% else %}
+                                &nbsp;
+                            {% endif %}
                         </td>
                         <td>
-                            <a href="{{ row['file_url'] }}" class="file-url" target="_blank">
+                            {% if row['file_url'].lower().startswith('http') or row['file_url'].lower().startswith('ftp') %}
+                                <a href="{{ row['file_url'] }}" class="file-url" target="_blank">
+                                    {{ row['file_url']|replace(search_query, "<span class='highlight'>" + search_query + "</span>")|safe }}
+                                </a>
+                                <a href="#" class="copy-link" data-url="{{ row['file_url'] }}" style="font-size: 0.8em; margin-left: 5px;">(copy)</a>
+                            {% else %}
                                 {{ row['file_url']|replace(search_query, "<span class='highlight'>" + search_query + "</span>")|safe }}
-                            </a>
-                            <a href="#" class="copy-link" data-url="{{ row['file_url'] }}" style="font-size: 0.8em; margin-left: 5px;">(copy)</a>
+                            {% endif %}
                         </td>
                     </tr>
                 {% endfor %}
             </tbody>
-
         </table>
     {% elif search_query %}
         <br />
