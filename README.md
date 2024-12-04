@@ -5,11 +5,13 @@ This project provides a searchable index of all known Quake file URLs.
 * Discover the existence of quake releases (mods, maps, patches, etc.)
 * Discover historical URLs where files were hosted and could be downloaded.
 
+Screenshot of the web interface:
+
 ![Screenshot](pics/screenshot.png)
 
 [See discussion circa Sep. 2024](https://discuss.quaddicted.com/t/find-rare-quake-files-new-archive-index-and-search).
 
-[See more screenshots](pics/).
+[See more screenshots](pics/x).
 
 ## Problem
 
