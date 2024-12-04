@@ -11,7 +11,7 @@ Screenshot of the web interface:
 
 [See discussion circa Sep. 2024](https://discuss.quaddicted.com/t/find-rare-quake-files-new-archive-index-and-search).
 
-[See more screenshots](pics/x).
+[See more screenshots](pics/).
 
 ## Problem
 
