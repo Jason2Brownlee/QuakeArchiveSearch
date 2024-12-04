@@ -32,8 +32,8 @@
 # 2000
 # gameaholic.com/idgames
 # fileaholic.com/idgames.d/quake
-planetquake.com
-bluesnews.com
+# planetquake.com
+# bluesnews.com
 fileplanet.com
 3ddownloads.com
 

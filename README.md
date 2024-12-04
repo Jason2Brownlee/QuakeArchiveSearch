@@ -5,6 +5,12 @@ This project provides a searchable index of all known Quake file URLs.
 * Discover the existence of quake releases (mods, maps, patches, etc.)
 * Discover historical URLs where files were hosted and could be downloaded.
 
+![Screenshot](pics/screenshot.png)
+
+[See discussion circa Sep. 2024](https://discuss.quaddicted.com/t/find-rare-quake-files-new-archive-index-and-search).
+
+[See more screenshots](pics/).
+
 ## Problem
 
 The Quake community has produced a vast amount of content over the years, including mods, maps, texture packs, and other files. However, as time passes, many of these files become difficult to locate due to broken links, defunct websites, and scattered hosting locations. This situation makes it challenging for Quake enthusiasts to discover, access, and preserve this valuable content.
@@ -89,6 +95,14 @@ Increase the cutoff year for the archive retrieval as needed (e.g. from 2000 to 
 * Output all processed quake websites (added via lists) with `src/process_list_all.py`
 * Output all quake websites (added via lists) with `src/quake_websites_list.py`
 * Report all quake file urls for wishlist files not in wishlist urls via `src/wishlist_url_checker.py`
+
+## Database
+
+The database (at the time of writing) is about 11 Gigabytes in size and is hosted privately (on my workstation).
+
+I may share ot publicly in the future.
+
+Until then, if you want me to search for a quake file for you, please email: Jason.Brownlee05@gmail.com
 
 ## TODO
 

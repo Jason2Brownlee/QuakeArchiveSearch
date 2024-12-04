@@ -56,10 +56,10 @@ http://www.planetquake.com/impel/ftpdir/abyss-trans-dm.rar
 # abyss-trans-sp.rar
 http://www.planetquake.com/impel/ftpdir/abyss-trans-sp.rar
 # abyss-x86-demo.exe
-http://ftp.sunet.se/idgames2/planetquake/impel/abyss-x86-demo.exe
 ftp://3dgamers.in-span.net/pub/3dgamers/games/quake/Missions/abyss-x86-demo.exe
 ftp://3dgamers.in-span.net/pub/3dgamers1/games/quake/Missions/abyss-x86-demo.exe
 ftp://3dgamers.mirror.internode.on.net/3dgamers/games/quake/Missions/abyss-x86-demo.exe
+ftp://cdrom.planetquake.com:2121/impel/abyss-x86-demo.exe
 ftp://ftp.3dgamers.com/pub/3dgamers/games/quake/Missions/abyss-x86-demo.exe
 ftp://ftp2.3dgamers.com/pub/3dgamers/games/quake/Missions/abyss-x86-demo.exe
 ftp://ftp6.3dgamers.com/pub/3daction/00archives/quake/missions/abyss-x86-demo.exe
@@ -73,6 +73,7 @@ http://3dgxfer6p.3dgamers.com/3dgamers/games/quake/Missions/abyss-x86-demo.exe
 http://3dgxfer7p.3dgamers.com/3dgamers/games/quake/Missions/abyss-x86-demo.exe
 http://asp.planetquake.com/dl/dl.asp?impel/abyss-x86-demo.exe
 http://dukeworld.com/planetquake/impel/abyss-x86-demo.exe
+http://ftp.sunet.se/idgames2/planetquake/impel/abyss-x86-demo.exe
 http://ftp.sunet.se/planetquake/abyss-x86-demo.exe
 http://ftp.sunet.se/planetquake/impel/abyss-x86-demo.exe
 http://ftp.sunet.se/pub/games/PC/idgames2/planetquake/impel/abyss-x86-demo.exe

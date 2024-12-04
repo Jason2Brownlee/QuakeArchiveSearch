@@ -5724,3 +5724,17 @@ tfshop.quakeintosh.com
 wadtool.quakeintosh.com
 
 web.ukonline.co.uk/blue.s
+
+
+ftp.gigabell.net/pub/Games/idgames
+ftp.mirror.nl/pub/mirror/idgames2
+ftp.datacomm.ch/pub/idgames2
+mirror.aarnet.edu.au/pub/idgames2
+ftp.cdrom.com/pub/idgames2
+ftp.epix.net/pub/idgames2
+sunsite.doc.ic.ac.uk/packages/idgames2
+ftp.compulink.co.uk/pub/games/id/quake
+ftp.sunet.se/pub/pc/games/idgames2
+ftp.sci.fi/pub/idgames2
+ftp.task.gda.pl/pub/games/idgames2
+ftp.iis.com.br/pub/mirror/Quake
