@@ -9,17 +9,35 @@ import json
 import sqlite3
 
 
+# quake_websites_file = '../data/serecky_quake1.txt'
+# year_cutoff = 2020
+
 # quake_websites_file = '../data/quake_websites_crawl_all.txt'
 # year_cutoff = 2010
 
 # quake_websites_file = '../data/quake_websites_crawl.txt'
 # year_cutoff = 2010
 
-# quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
+quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
+year_cutoff = 1998
+
+# quake_websites_file = '../data/navy_seals.txt'
 # year_cutoff = 2010
 
-quake_websites_file = '../data/quake_websites_crawl_big.txt'
-year_cutoff = 2000
+# quake_websites_file = '../data/quake3.txt'
+# year_cutoff = 2000
+
+# quake_websites_file = '../data/ctf.txt'
+# year_cutoff = 2005
+
+# quake_websites_file = '../data/quake2.txt'
+# year_cutoff = 2000
+
+# quake_websites_file = '../data/quake3_all.txt'
+# year_cutoff = 2020
+
+# quake_websites_file = '../data/quake_websites_crawl_big.txt'
+# year_cutoff = 2000
 
 # quake_websites_file = '../data/quaddicted_crawl.txt'
 # year_cutoff = 2020
@@ -27,11 +45,16 @@ year_cutoff = 2000
 # quake_websites_file = '../data/aop_crawl.txt'
 # year_cutoff = 2000
 
+# research for people
+
+# quake_websites_file = '../data/viktor_crawl.txt'
+# year_cutoff = 2010
+
 
 # other config
 temp_dir = "../data/wayback_downloads"
 DATABASE = '../data/quake_website.db'
-delay_seconds = 15
+delay_seconds = 30
 
 # api locations
 WAYBACK_API_URL = "http://web.archive.org/cdx/search/cdx"

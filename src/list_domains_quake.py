@@ -1,8 +1,11 @@
+# List all domains in the database that have "quake" in them
+
 import sqlite3
 import re
 from urllib.parse import urlparse
 
 DATABASE = '../data/quake_website.db'
+SEARCH_TERM = 'planetmirror.com'
 
 def connect_read_only(db_path):
     """Connect to the SQLite database in read-only mode."""
@@ -39,7 +42,7 @@ for (url,) in urls:
         unique_domains.add(domain)
 
 # Filter domains that contain the word "quake"
-quake_domains = sorted([domain for domain in unique_domains if 'quake' in domain.lower()])
+quake_domains = sorted([domain for domain in unique_domains if SEARCH_TERM in domain.lower()])
 
 # Print the result in ascending order
 for domain in quake_domains:

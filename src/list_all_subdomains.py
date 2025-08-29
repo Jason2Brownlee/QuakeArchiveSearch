@@ -50,7 +50,7 @@ if __name__ == '__main__':
     # base_domain = 'idsoftware.com'
     # base_domain = 'time2quake.com'
     # base_domain = 'gamespy.com'
-    base_domain = 'xxx'
+    base_domain = 'macquakeinfinity.com'
 
 
     # perform search

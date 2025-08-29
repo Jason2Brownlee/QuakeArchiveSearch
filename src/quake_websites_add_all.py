@@ -83,6 +83,7 @@ def load_quake_websites(filename):
                 try:
                     standardized_url = standardize_url(original_url)
                     if standardized_url:
+                        # print(standardized_url)
                         # Check if the URL is already in the database
                         cursor.execute('SELECT id FROM Quake_Website WHERE base_url = ?', (standardized_url,))
                         if cursor.fetchone() is None:
@@ -110,7 +111,7 @@ def load_quake_websites(filename):
 
     # Report the results
     print(f"Processing complete.")
-    print(f"Total URLs processed: {total_urls}")
+    print(f"Total URLs processed: {total_urls} in {filename}")
     print(f"URLs inserted into database: {inserted_count}")
     print(f"URLs skipped (already present): {skipped_count}")
     print(f"URLs with errors: {error_count}")

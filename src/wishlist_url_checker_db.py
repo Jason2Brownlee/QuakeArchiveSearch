@@ -8,7 +8,6 @@ DATABASE = '../data/quake_website2.db'
 # DATABASE = '../data/quake_cds.db'
 # DATABASE = '../data/quake_website_testing.db'
 
-EXCLUSIONS = '../data/exclusions.txt'
 
 # are we generating a result to show in public?
 PUBLIC = False
@@ -38,7 +37,7 @@ def main(pairs):
     conn = sqlite3.connect(uri, uri=True)
     cursor = conn.cursor()
 
-    for name, url_wishlist_path,filename_wishlist_path in pairs:
+    for name,url_wishlist_path,filename_wishlist_path,exclusions_path in pairs:
         # report name
         print(f'\n{name}')
 
@@ -46,7 +45,7 @@ def main(pairs):
         url_wishlist = read_text_file(url_wishlist_path)
         filename_wishlist = read_text_file(filename_wishlist_path)
         # read exclusions file
-        exclusions = read_text_file(EXCLUSIONS)
+        exclusions = read_text_file(exclusions_path)
 
         # Process each filename in the wishlist
         for filename in sorted(filename_wishlist):
@@ -96,38 +95,76 @@ def main(pairs):
     conn.close()
 
 if __name__ == '__main__':
+    # default exclusions file
+    EXCLUSIONS = '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/exclusions.txt'
 
     pairs = [
-            ['Abyss of Pandemonium',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt'],
-            ['Navy Seals',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_navy_seals_wishlist.txt'],
-            ['Fantasy Quake',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt'],
-            ['Quake Matrix',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt'],
-            ['Ninja Quake',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_ninja_wishlist.txt'],
-            ['Quaddicted',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt'],
-            ['ThreeWaveCTF',
-              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt'],
-            ['TeamFortressQuakeArchive',
-              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt'],
+# Ad Hoc
+            # ['Viktor',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/viktor_wishlist.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/viktor_wishlist.txt'],
+            # ['Abyss of Pandemonium',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt'],
+            # ['Fantasy Quake',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt'],
+            # ['Quake Matrix',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt'],
+            # ['Ninja Quake',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_ninja_wishlist.txt'],
+            # ['Quaddicted',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt'],
+
+
+
+# Quake 1
             ['QuakeOfficialArchive',
              '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt'],
-            ['QuakeBotArchive',
-             '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt']
+             '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
+              EXCLUSIONS],
+
+# Quake 1 Mods
+              ['QuakeNavySeals',
+              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
+              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/exclusions.txt'],
+            ['ThreeWaveCTF',
+              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
+              EXCLUSIONS],
+            ['TeamFortressQuakeArchive',
+              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist_urls.txt',
+              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
+              EXCLUSIONS],
+
+            # ['QuakeBotArchive',
+            #  '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
+            #   EXCLUSIONS],
+
+# Quake 2
+            ['Quake2OfficialArchive',
+             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist_urls.txt',
+             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
+             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/exclusions.txt'],
+
+# Quake3
+
+            ['Quake3OfficialArchive',
+             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist_urls.txt',
+             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
+             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/exclusions.txt'],
+
+            # ['Q3TestAddons',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist.txt',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/exclusions.txt']
+
+
              ]
 
     main(pairs)

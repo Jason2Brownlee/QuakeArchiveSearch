@@ -3,6 +3,7 @@ import sqlite3
 from urllib.parse import quote_plus
 
 DATABASE = '../data/quake_website.db'
+# DATABASE = '../data/quake_website2.db'
 
 # DATABASE = '../data/quake_cds.db'
 
@@ -68,4 +69,4 @@ def index():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

@@ -38,7 +38,22 @@ import re
 # TARGET_URL = 'http://quake.perfect.co.uk:80/fragbook/28.2.97.htm'
 # TARGET_URL = 'http://www.fragzone.se/swemob/links.htm'
 # TARGET_URL = 'http://www.time2quake.com/links/quake_link.html'
-TARGET_URL = 'https://web.archive.org/web/20020605225355/http://time2quake.com/links/quake_link.html'
+# TARGET_URL = 'https://web.archive.org/web/20020605225355/http://time2quake.com/links/quake_link.html'
+# TARGET_URL = 'http://www.gweb.de/sam/quake3/links.htm'
+# TARGET_URL = 'http://fh.quake.co.kr/q3a/linkz.html'
+# TARGET_URL = 'http://rqa.df.ru/links/links.html'
+# TARGET_URL = 'http://www.q3viking.de/links.html'
+# TARGET_URL = 'http://www.fortunecity.de/wolkenkratzer/hal/106/quake3/index.html'
+# TARGET_URL = 'http://www.gamelists.net/cgi-bin/Gamelists.cgi?Action=ShowList&List=Q3'
+# TARGET_URL = 'http://www.angelfire.com/ut/jediquake3/links.html'
+# TARGET_URL = 'http://www.redrival.com/rizzo/links.htm'
+# TARGET_URL = 'http://www.quakershome.de/links.html'
+# TARGET_URL = 'http://www.qscene.de/hosting.html'
+# TARGET_URL ='http://members.aol.com/rjdriver/quake3.htm'
+# TARGET_URL = 'http://www.linuxquake.com/cgi-bin/getmirrors/getmirrors?network=q3mirrors&file=linuxquake3.tar.gz&description=Quake+III+update'
+# TARGET_URL = 'http://www.erinyes.com/tf/links.html'
+# TARGET_URL ='quakequakequake.com/links.htm'
+TARGET_URL = 'http://www.quakesweden.com/links.asp'
 
 
 
