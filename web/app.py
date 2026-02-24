@@ -4,13 +4,9 @@ from urllib.parse import quote_plus
 
 DATABASE = '../data/quake_website.db'
 # DATABASE = '../data/quake_website2.db'
-
 # DATABASE = '../data/quake_cds.db'
 
-#
-
 app = Flask(__name__)
-
 
 # Function to create a connection to the SQLite database
 def get_db_connection():
@@ -35,12 +31,10 @@ def get_total_file_url_count():
 def index():
     results = []
     search_query = ""
-    search_type = "contains"
     total_file_urls = get_total_file_url_count()
 
     if request.method == 'POST':
         search_query = request.form.get('search_query', '').strip()
-        search_type = request.form.get('search_type', 'contains')
 
         if search_query:
             # Replace '*' with '%' for SQL LIKE queries
@@ -50,13 +44,9 @@ def index():
             conn = get_db_connection()
             cursor = conn.cursor()
 
-            # Build the SQL query based on the search type
-            if search_type == "contains":
-                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 500"
-                params = ('%' + sql_search_query + '%',)
-            elif search_type == "ends_with":
-                sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 500"
-                params = ('%' + sql_search_query,)
+            # Build the SQL query
+            sql_query = "SELECT file_url FROM File_URL WHERE file_url LIKE ? ORDER BY file_url ASC LIMIT 1000"
+            params = ('%' + sql_search_query + '%',)
 
             # Execute the query
             cursor.execute(sql_query, params)
@@ -65,7 +55,7 @@ def index():
             # Close the connection
             conn.close()
 
-    return render_template('index.html', results=results, search_query=search_query, search_type=search_type, total_file_urls=total_file_urls)
+    return render_template('index.html', results=results, search_query=search_query, total_file_urls=total_file_urls)
 
 # Run the Flask app
 if __name__ == '__main__':

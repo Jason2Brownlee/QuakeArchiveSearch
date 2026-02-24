@@ -27,16 +27,25 @@
         th {
             background-color: #f2f2f2;
         }
+    </style>
 
-        /* Red cross styling */
-        .red-cross {
-            color: red;
-            margin-right: 5px;
+    <style>
+        #recent-searches {
+            margin-top: 6px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        #recent-searches a {
+            margin-right: 10px;
+            color: #0066cc;
+            text-decoration: none;
+        }
+        #recent-searches a:hover {
+            text-decoration: underline;
         }
     </style>
 
     <script>
-        // JavaScript to handle "Copy All URLs" button
         function copyAllUrls() {
             const links = document.querySelectorAll('.file-url');
             const urls = Array.from(links).map(link => link.href).join('\n');
@@ -47,29 +56,72 @@
             });
         }
 
-        // Other JavaScript
-        document.addEventListener('DOMContentLoaded', function() {
-            const links = document.querySelectorAll('.file-url');
-
-            links.forEach(link => {
-                const url = link.href;
-
-                fetch(url, { method: 'GET', mode: 'no-cors' })
-                    .then(response => {
-                        if (response.type === 'opaque') {
-                            link.insertAdjacentHTML('beforebegin', '<span class="unknown-status">&#10067;</span>'); // Question Mark
-                        } else if (response.ok) {
-                            link.insertAdjacentHTML('beforebegin', '<span class="green-tick">&#9989;</span>'); // Green Tick
-                        } else if (response.status >= 400 && response.status < 600) {
-                            link.insertAdjacentHTML('beforebegin', '<span class="warning-sign">&#9888;</span>'); // Warning Sign
-                        } else {
-                            link.insertAdjacentHTML('beforebegin', '<span class="unknown-status">&#10067;</span>'); // Question Mark
-                        }
-                    })
-                    .catch(error => {
-                        link.insertAdjacentHTML('beforebegin', '<span class="red-cross">&#10060;</span>'); // Red Cross
-                    });
+        function copyUrl(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                // optional: brief feedback
+            }).catch(err => {
+                alert('Failed to copy URL: ' + err);
             });
+        }
+
+        // --- Recent searches (cookie-based) ---
+
+        function getRecentSearches() {
+            const match = document.cookie.match(/(?:^|; )recentSearches=([^;]*)/);
+            if (!match) return [];
+            try {
+                return JSON.parse(decodeURIComponent(match[1]));
+            } catch(e) {
+                return [];
+            }
+        }
+
+        function saveRecentSearches(searches) {
+            const expires = new Date();
+            expires.setFullYear(expires.getFullYear() + 1);
+            document.cookie = 'recentSearches=' + encodeURIComponent(JSON.stringify(searches))
+                + '; expires=' + expires.toUTCString() + '; path=/';
+        }
+
+        function addRecentSearch(query) {
+            if (!query) return;
+            let searches = getRecentSearches();
+            searches = searches.filter(s => s !== query); // remove duplicate
+            searches.unshift(query);                       // add to front
+            searches = searches.slice(0, 10);              // keep last 10
+            saveRecentSearches(searches);
+        }
+
+        function submitSearch(query) {
+            document.getElementById('search_query').value = query;
+            document.getElementById('search-form').submit();
+        }
+
+        function renderRecentSearches() {
+            const searches = getRecentSearches();
+            const container = document.getElementById('recent-searches');
+            if (!searches.length) return;
+            container.appendChild(document.createTextNode('Recent: '));
+            searches.forEach(function(s, i) {
+                const a = document.createElement('a');
+                a.href = '#';
+                a.textContent = s;
+                a.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    submitSearch(s);
+                });
+                container.appendChild(a);
+                if (i < searches.length - 1) {
+                    container.appendChild(document.createTextNode(' '));
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Save current search query if present
+            const currentQuery = document.getElementById('search_query').value.trim();
+            if (currentQuery) addRecentSearch(currentQuery);
+            renderRecentSearches();
         });
     </script>
 </head>
@@ -78,16 +130,16 @@
     <p>Discover the existence and historically known locations of quake files.</p>
     <p>Search <strong>{{ "{:,}".format(total_file_urls) }}</strong> archived quake file URLs</p>
 
-    <form method="POST">
+    <form method="POST" id="search-form">
         <input type="text" size="40" id="search_query" name="search_query" value="{{ search_query }}" required>
         <button type="submit">Search</button>
         <div>Use * for wildcards. Start with / for path to file.</div>
     </form>
+    <div id="recent-searches"></div>
 
     {% if results %}
         <h2>Search Results:</h2>
-        Limited to 500 results.
-        <!-- Copy All URLs Button -->
+        Limited to 1,000 results.
         <button onclick="copyAllUrls()">Copy All URLs</button>
 
         <table>
@@ -118,7 +170,7 @@
                                 <a href="{{ row['file_url'] }}" class="file-url" target="_blank">
                                     {{ row['file_url']|replace(search_query, "<span class='highlight'>" + search_query + "</span>")|safe }}
                                 </a>
-                                <a href="#" class="copy-link" data-url="{{ row['file_url'] }}" style="font-size: 0.8em; margin-left: 5px;">(copy)</a>
+                                <a href="#" onclick="copyUrl('{{ row['file_url'] }}'); return false;" style="font-size: 0.8em; margin-left: 5px;">(copy)</a>
                             {% else %}
                                 {{ row['file_url']|replace(search_query, "<span class='highlight'>" + search_query + "</span>")|safe }}
                             {% endif %}
