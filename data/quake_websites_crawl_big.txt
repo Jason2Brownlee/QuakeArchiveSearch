@@ -35,5 +35,7 @@
 # planetquake.com
 # bluesnews.com
 fileplanet.com
-3ddownloads.com
+# 3ddownloads.com
+# quakemecca.simplenet.com
+# jord.sbc.edu
 

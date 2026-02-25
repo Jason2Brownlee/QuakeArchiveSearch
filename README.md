@@ -108,8 +108,7 @@ Until then, if you want me to search for a quake file for you, please email: Jas
 
 ## TODO
 
-* Add URLs discovered from a crawl of Quake CDs on archive.org (magazines, compilations, tools, etc.).
-* Add URLs discovered from a crawl of Quake CD files (may require a download first).
+* Store a hash of crawled URLs in the database to avoid re-downloading/re-crawling.
 * Add URLs discovered from a crawl of current Quake websites.
 * Add URLs discovered from a crawl of quake USENET archives.
 * Add URLs discovered from a crawl of quake mailing list archives.

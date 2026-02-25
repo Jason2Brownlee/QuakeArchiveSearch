@@ -1,0 +1,213 @@
+# Quake Rally
+
+# official
+# ctel.com.au/~cyberdog
+# geocities.com/SiliconValley/Heights/8499
+# frag.com/quakerally
+# impact.frag.com/rally
+# quakerally.com
+
+# # file locations
+# anet-stl.com/~aclowry/mud
+# anet-stl.com/~aclowry/mud
+# anet-stl.com/~aclowry/mud
+# # bluesnews.com/files
+# cdrom.com/pub/idgames2/total_conversions/quakerally
+# cdrom.com/pub/quake/total_conversions/quakerally
+# chip.pl/Pub/Quake/Conversions/qrally
+# dataforce.net/pub/Quake/Patches/QRally
+# donr.hbp.com/pub/qr
+# frag.com/frag/impact
+# frag.com/quakerally
+# ftp.brz.com.br/warlock
+# ftp.canvasnet.com/quake/levels/map
+# ftp.cdrom.com/.23/idgames2/frag.com/impact
+# ftp.cdrom.com/pub/idgames2/total_conversions/quakerally
+# ftp.cdrom.com/pub/quake/total_conversions/quakerally
+# ftp.chip.pl/Pub/Quake/Conversions/qrally
+# ftp.chip.pl/Pub/Quake/Conversions/qrally
+# ftp.chip.pl/Pub/Quake/Conversions/qrally
+# ftp.chip.pl/Pub/Quake/Conversions/qrally
+# ftp.chip.pl/Pub/Quake/Conversions/qrally
+# ftp.compulink.co.uk/pub/games/id/quake/total_conversions/quakerally
+# ftp.datacomm.ch/pub/idgames2/total_conversions/quakerally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.dataforce.net/pub/Quake/Patches/QRally
+# ftp.epix.net/pub/idgames2/total_conversions/quakerally
+# ftp.frag.com/frag/impact
+# ftp.frag.com/frag/impact
+# ftp.frag.com/pub/impact
+# ftp.freesoftware.com/pub/quake/total_conversions/quakerally
+# ftp.gamers.org/pub/games/idgames2/total_conversions/quakerally
+# ftp.gamers.org/pub/games/idgames2/total_conversions/quakerally
+# ftp.games.worldonline.nl/quake/demos
+# ftp.iis.com.br/pub/mirror/Quake/total_conversions/quakerally
+# ftp.mancubus.net/pub/idgames2/total_conversions/quakerally
+# ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# ftp.powerup.com.au/pub/games/quake/total_conversions/quakerally
+# ftp.sci.fi/pub/idgames2/total_conversions/quakerally
+# ftp.stomped.com/pub/quake/demos
+# ftp.stomped.com/pub/quake/misc
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.stomped.com/pub/redwood/quakec
+# ftp.sunet.se/idgames2/total_conversions/quakerally
+# ftp.sunet.se/pub/pc/games/idgames2/total_conversions/quakerally
+# ftp.sunet.se/pub/pc/games/idgames2/total_conversions/quakerally
+# ftp.task.gda.pl/pub/games/idgames2/total_conversions/quakerally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telefragged.com/pub/quake/quakec/rally
+# ftp.telepac.pt/pub/idgames2/total_conversions/quakerally
+# ftp.telepac.pt/pub/idgames2/total_conversions/quakerally
+# ftp.torget.se/pub/games/quake/demos
+# ftp.torget.se/pub/games/quake/tc
+# ftp.torget.se/pub/games/quake/tc
+# ftp.torget.se/quake/tc
+# ftp.torget.se/quake/tc
+# ftp.torget.se/quake/tc
+# gamers.org/pub/games/idgames2/total_conversions/quakerally
+# gamers.org/pub/idgames2/total_conversions/quakerally
+# iac.spb.ru/sam/archives
+# illustrations.co.uk/thezone/rtw
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# impact.frag.com/files
+# mime.ablecommerce.com/quake/qr
+# mirror.aarnet.edu.au/pub/idgames2/total_conversions/quakerally
+# ocrana.de/files/files/themes/quakerally
+# ocrana.de/files/files/themes/quakerally
+# ocrana.de/files/files/themes/quakerally
+# ocrana.de/files/total_conversions/quakerally
+# ocrana.de/files/total_conversions/quakerally
+# ocrana.de/files/total_conversions/quakerally
+# pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally
+# q2cpl.quake.org.pl/tc/tc/qrally
+# quaddicted.com/files/idgames2/total_conversions/quakerally
+# quake.df.ru/pub/Quake/Patches/QRally
+# quake.org.pl/tc/tc/qrally
+# quakehole.com/files/quakec
+# quakerally.com/files
+# quakerally.com/files
+# quakerally.com/files
+# quaketerminus.com/mods
+# quaketerminus.freeola.com/mods
+# redwood.gatsbyhouse.com/files/quakec
+# redwood.gatsbyhouse.com/quake/files/quakec
+# redwood.stomped.com/files/quakec
+# rmplc.co.uk/eduweb/sites/mkent
+# stomped.com/pub/redwood/quakec
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/total_conversions/quakerally
+# sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/quakerally
+# sunsite.org.uk/packages/idgames2/total_conversions/quakerally
+# telefragged.com/pub/quake/quakec/rally
+# time2quake.com/filez/quakerally
+# time2quake.com/filez/quakerally
+# time2quake.com/filez/quakerally
+# time2quake.com/filez/quakerally
+# time2quake.com/filez/quakerally
+# torget.se/pub/games/quake/tc
+# torget.se/quake/tc
+# uow.edu.au/~wstubbs/rally
+
+# links
+# cyanide.ml.org/qrn
+# freespace.virgin.net:82/richard.smith12/qrally
+# localsonly.wilmington.net/~les/rook
+# pitstop.warzone.com
+# quakerally.home.ml.org
+# web.ukonline.co.uk/chris.selby
+# webusers.anet-stl.com/~aclowry/mud
+# anet-stl.com/~aclowry/mud
+# arrowweb.com/cyber/yaktrak
+# geocities.com/TimesSquare/Alley/5623
+# geocities.com/TimesSquare/Lair/3881
+# mauls.com/qrally
+# mindspring.com/~darkdragn/Flag
+# slipgatecentral.com/Information/Playing/QuakeRally
+# time2quake.com/scarecrow
+# time2quake.com/speedzone
+# warzone.com/qrr
+# webwarriorz.com/qr
+# x5150x.com/-blindfear-/qrally
+# speedzone.time2quake.com
+# scss.demon.co.uk/qrdemos
+# widomaker.com/~bhess
+
+# bigger
+# impact.frag.com
+# deathed.stomped.com
+# animagrafx.com.au
+
+# extensions
+# nuc.net
+# nuc.net/quake
+# planetquake.com/goldcup
+# planetquake.com/lucid
+# deconstruct.terrafusion.com
+# frag.com/deconstruct
+# members.gotnet.net/chaz
+
+# au stuff
+dd.networx.net.au
+210.0.2.183
+compsoc.cs.latrobe.edu.au/~shogun
+games.iinet.net.au/quake
+major.lit.tas.edu.au/~connora
+quake.wantree.com.au
+wisdom.psinet.net.au/~stokfam
+aone.net.au/quake
+atnet.net.au/quake
+backmeup.net.au/~quake
+bluestar.com.au/ryan
+ca.com.au/~sunnyval
+canweb.net/~b2
+# chariot.net.au
+cs.mu.oz.au/~trd
+griffon.com.au/qn
+home.aone.net.au/askegg
+magna.com.au/~guvi
+multiplay.com.au
+nex.net.au/users/buddykin
+ocean.com.au/quake
+omen.com.au/~synic
+ozemail.com.au/~forager
+ozemail.com.au/~twitcher
+quakecentral.com
+qzone.nf
+ram.net.au/quake
+senet.com.au/quake
+southcom.com.au/~porky
+tiga.com.au/QUAKE-ON
+vision.net.au/games2/quake
+vision.net.au/~chuck
+wantree.com.au/~lrdbyron
+wantree.com.au/~sdobbs
+wantree.com.au/~weird
+webnet.com.au/projects/quake
+webraven.com.au/games/quake
+
+

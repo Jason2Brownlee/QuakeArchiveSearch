@@ -8,5 +8,8 @@ data/wayback_downloads
 data/*.db
 data/*.sqlite
 
+data/quake_website.db.zip
+data/quake_website_testing.db.zip
+
 # dev notes
 dev

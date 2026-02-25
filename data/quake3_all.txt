@@ -1,0 +1,118 @@
+# process all, e.g. 2020
+
+
+# official
+# ============
+# quake3arena.com
+# demo.quake3arena.com
+
+# planetmirror.com dirs
+# 3dgamers.planetmirror.com/pub/3dgamers/games/quake
+# ftp.planetmirror.com/pub/bluesnews
+# ftp.planetmirror.com/pub/idgames
+# ftp.planetmirror.com/pub/idgames2
+# planetmirror.com/pub/bluesnews
+# public.ftp.planetmirror.com/pub/idgames
+# public.ftp.planetmirror.com/pub/idgames2
+# public.planetmirror.com/pub/3dgamers/games/quake3arena
+# public.planetmirror.com/pub/gameaholic/games/action/quake3
+# public.www.planetmirror.com/pub/bluesnews
+
+# mirror.aarnet.edu.au dirs
+# mirror.aarnet.edu.au/pub/bluesnews
+# mirror.aarnet.edu.au/pub/idgames
+# mirror.aarnet.edu.au/pub/idgames2
+# mirror.aarnet.edu.au/pub/planetquake
+
+# bluesnews.com/files/idstuff/quake3
+# earthquake.xs4all.nl
+# quake.bnbt.de
+# quake.crimea.ua/files
+# quake3.interhop.net
+# sexy.quake.co.kr
+# shod.gamers.com
+# styx.evilavatar.com/anonftp/pub/demos
+# fragtastic.com/filesbin/demos
+# gaminggroup.com/downloads/q3
+# madcell.de/files
+# madfiles.de/demos
+# primorye.ru/quake
+# q3arena.pl/download/q3test
+# q3viking.de/files
+# quake-arena.de
+# quakeiii.com
+# quakenz.co.nz
+
+
+
+
+# q3test maps
+# ============
+# 208.187.236.10
+# 24.31.27.145
+# actionxtreme.com/trendkill
+# altern.org/lavite
+# angelfire.com/ut/jediquake3
+# dow.narod.ru
+# dqz.de/quake3
+# fortunecity.com/underworld/blaster/904
+# fortunecity.com/underworld/shootout/580
+# fortunecity.de/wolkenkratzer/hal/106
+# freestyle.splatterworld.de
+# geocities.com/dinkhotline
+# geocities.com/timessquare/corridor/2783
+# geocities.com/undeaddemon
+# geocities.ws/dinkhotline
+# gweb.de/sam
+# hackfleisch.de
+# horb.chat.ru
+# members.tripod.com/ctfx
+# members.xoom.com/E_Piphany
+# members.xoom.com/Fragpole
+# members.xoom.com/bikkelpage
+# members.xoom.com/coolquake
+# members.xoom.com/custommaps
+# members.xoom.com/q3awtf
+# members.xoom.com/quake3bots
+# members.xoom.com/shammysworld
+# memes.com/quaker
+# moneychair.demon.co.uk
+# nationwide.net/~montroll
+# people.a2000.nl/babe
+# people.a2000.nl/tscheff
+# perso.club-internet.fr/lavite
+# personal.lig.bellsouth.net/lig/d/f/dfrey
+# planetq3.com/nana/files
+# primenet.com/~kenw
+# primorye.ru/quake
+# psychonomix.de/masher
+# q3.zone.ru/darkman
+# q3.zone.ru/ftp
+# q3a.de/files
+# q3a_maps.zoneart.dhs.org
+# q3arena.pl/download
+# q3maps.dynip.com
+# q3viking.de
+# quake-universe.de/files
+# quake.at.frob.org
+# quake.axg.net/pql/files
+# quake.de/FILES
+# quake.lviv.ua/files
+# quake2.telestream.com/Quake%20Stuff
+# quake3.baltnet.ru
+# quake3.de/files
+# quake3.valhalla.com.pl
+# quake3arenawikingclan.de
+# quakershome.de
+# redrival.com/rizzo
+# senfei.de
+# senfei.splatterworld.de
+# shugashack.com/msgboard
+# trehorn.splatterworld.de
+# trendkill.net
+# turkishqf.org
+# valhalla.com.pl
+# voodooextreme.com/flypenguin
+# voodooextreme.com/reverend/Q3Arena
+# website.lineone.net/~pimper2
+

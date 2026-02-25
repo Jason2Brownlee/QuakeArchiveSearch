@@ -1,0 +1,27 @@
+# Viktor
+
+# Star Wars Quake
+
+Prelim1.zip
+Prelim1a.zip
+Prelim1b.zip
+Prelim1c.zip
+Prelim2.zip
+Prelim2a.zip
+Prelim2b.zip
+Prelim2c.exe
+Prelim2c.zip
+sgm0803.zip
+
+# Doctor Who TC
+dwbeta1.zip
+
+# Jurrasic Quake
+jqbeta3.zip
+# demos.zip
+
+# alteria
+alteria.exe
+alteria1_0.exe
+alteria-1.0-x86.run
+alteriaupdate.exe

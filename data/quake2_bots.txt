@@ -1,0 +1,779 @@
+# quake2 bots
+
+
+# lists
+# angelfire.com/mt2/quakebots
+# botepidemic.com/aid/cgf
+# icculus.org/quake2
+# impact.frag.com
+# kamensk.far.ru/files
+# members.xoom.com/markwheeler
+# planetquake.com/dronebot
+# planetquake.com/emporium
+# planetquake.com/expert
+# planetquake.com/ice
+# planetquake.com/tangential
+# gibsillustrated.com/assassin
+# captured.com/weaponsfactory
+# dd.networx.net.au/flamebot
+# designworx.demon.co.uk
+
+# crbot
+# planetquake.com/crbot
+# pobox.com/~ww
+# hooked.net/~mim
+# crbot.nikto.net
+## cz.csoft.net
+# csoft.net/~cz
+
+# gladiator
+# botepidemic.com/gladiator
+# mrelusive.com/oldprojects/gladiator
+
+# acebot
+# telefragged.com/ace
+# axionfx.com/ace
+# quake2.com/oak
+# telefragged.com/oak
+
+# 3rd-Zigock Bot
+# users.jp.tri6.net/~ponpoko
+# jp.tri6.net/~ponpoko
+# ponpoko.tri6.net
+# botepidemic.com/q2rfd
+# reality.sgi.com/rhess_engr/beos/q2/3zb2
+
+# oak
+# telefragged.com/oak
+# home.telefragged.com/oak
+# web.ukonline.co.uk/johnc/oak
+# quake2.com/oak
+# planetquake.com/oak/
+
+# jabot
+# jal.quakedev.com
+# qudos.quakedev.com
+
+# Assassin bot
+# telefragged.com/assassin
+# home.telefragged.com/assassin
+# gibsillustrated.com/assassin
+
+# rambot
+# rambot.emux.com
+# emux.com/rambot
+
+# eraser ultra
+# btinternet.com/~anthonyj/EraserULTRA
+# jacquesa.freeserve.co.uk
+# users.zetnet.co.uk/jacquesa
+# ultra.quake2.co.uk
+# reality.sgi.com/rhess_engr/irix/q2/ultra
+# members.xoom.com/DexSin
+
+# Q2BotCore
+# telefragged.com/Q2BotCore
+# home.telefragged.com/Q2BotCore
+# owlnet.rice.edu/~swartz/Q2BotCore
+
+# quake2.com/epidemic
+# home.earthlink.net/~rottenturd
+
+# geocities.com/subcog
+# dnagames.net/bbc
+# planetquake.com/bbqbot
+# planetquake.gamespy.com/bbqbot
+# chaotic.telefragged.com
+# telefragged.com/chaotic
+
+# LTK bot
+# reality.sgi.com/rhess_engr/linux/q2/ltk
+# botgod.org.uk
+# pondscum.co.uk
+# actiongames.co.uk/tnn/ltk
+# actiongames.co.uk/tnn
+# planetquake.com/maxtron
+
+# geocities.com/TelevisionCity/Set/1894
+# telefragged.com/hyper
+# optics.Arizona.EDU/Pandora
+
+# neural bot
+# homepages.paradise.net.nz/nickamy/neuralbot
+# mrelusive.com/oldprojects/obots/Reviews/neuralbot
+# botepidemic.com/neuralbot
+# cyd.liu.se/~bjoli035/botepidemic/neuralbot
+
+# ACEbot Holy Wars
+# dynamic.gamespy.com/~redemption
+# planetquake.com/redemption
+
+# games.gci.net/pub/Quake2/QuakeMods/EraserBot/
+# games.gci.net/pub/Quake2/QuakeMods
+
+# hyper.telefragged.com
+# angelfire.com/mt2/quake3bot
+# iinet.net.au/~bilbe
+# jb.quake2.co.uk
+# markwheeler.com
+# nf.telefragged.com
+# opt-sci.arizona.edu/Pandora
+# planetquake.com/arena
+# planetquake.com/bball
+# planetquake.com/botshop/sabin
+# planetquake.com/chaotic
+# planetquake.com/emporium/
+# planetquake.com/ice
+# planetquake.com/keys2
+# planetquake.com/niq
+# planetquake.com/outpost
+# planetquake.com/pro-rocket
+# planetquake.com/rail
+# planetquake.com/viking
+# quake2.com/NinjaQ2
+# quake2.com/earth
+# railwarz.com
+# randars.com/bots
+
+# dronebot.vortexq.com
+# mattcake.com/gladiator
+
+# reality.sgi.com/rhess_engr/linux/q2
+# botepidemic.com/cgf_resource_site
+
+
+# Famkebot
+# concentric.net/~thefatal
+# quake2.com/famkebot
+
+# quake.czt/bot
+# quake.cz/bot
+
+# massive
+# telefragged.com/thefatal
+# home.telefragged.com/thefatal
+# altfire.com
+# aqmd.action-web.net
+# endorproductions.com/entron
+
+# more crbot
+# asp.planetquake.com/dl/dl.asp?crbot
+# cdrom.com/pub/idgames2/planetquake/crbot
+# cdrom.com/pub/idgames2/planetquake/crbot
+# farmbert.com/botster/files
+# fortunecity.com/underworld/quake/181
+# ftp.cdrom.com/pub/idgames2/planetquake/crbot
+# ftp.cdrom.com/pub/idgames2/planetquake/crbot
+# ftp.freesoftware.com/pub/idgames2/planetquake/crbot
+# ftp.gamers.org/pub/games/idgames2/planetquake/crbot
+# ftp.gamers.org/pub/games/idgames2/planetquake/crbot
+# ftp.sunet.se/idgames2/planetquake/crbot
+# ftp.sunet.se/idgames2/planetquake/crbot
+# ftp.sunet.se/planetquake/crbot
+# ftp.sunet.se/planetquake/crbot
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/crbot
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/crbot
+# ftp.telepac.pt/pub/idgames2/planetquake/crbot
+# ftp.telepac.pt/pub/idgames2/planetquake/crbot
+# ftp.torget.se/pub/games/quake2/bots
+# ftp.tyumen.ru/pub/games/quake2/bots
+# gamers.org/pub/games/idgames2/planetquake/crbot
+# gamers.org/pub/games/idgames2/planetquake/crbot
+# gamers.org/pub/idgames2/planetquake/crbot
+# gamers.org/pub/idgames2/planetquake/crbot
+# gamers.org/pub/mirrors/ftp.planetquake.com/crbot
+# gamers.org/pub/mirrors/ftp.planetquake.com/crbot
+# geocities.com/SiliconValley/Lab/8885
+# hooked.net/~mim/download
+# members.tripod.com/~crbot
+# mirror.aarnet.edu.au/games/planetquake/crbot
+# mirror.aarnet.edu.au/games/planetquake/crbot
+# mirrors.telepac.pt/pub/idgames2/planetquake/crbot
+# mirrors.telepac.pt/pub/idgames2/planetquake/crbot
+# quaddicted.com/files/idgames2/planetquake/crbot
+# quaddicted.com/files/idgames2/planetquake/crbot
+# quaddicted.com/files/mirrors/ftp.planetquake.com/crbot
+# quaddicted.com/files/mirrors/ftp.planetquake.com/crbot
+# quake.computing.cz/downloads/bots
+# quake.convey.ru/ftp/pub/quake.ii/planetquake/crbot
+# quake.convey.ru/ftp/pub/quake.ii/planetquake/crbot
+# quake.wplus.net/PK/Incoming
+# quake2.com/earth/patches/crbot
+# quake2.org.pl/quake2.ftp/bots
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/crbot
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/crbot
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/crbot
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/crbot
+# src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/crbot
+# src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/crbot
+# stealth.dynanet-eu.ee/Quake%20II/Bots/CRbot
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/crbot
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/crbot
+# sunsite.org.uk/packages/idgames2/planetquake/crbot
+# sunsite.org.uk/packages/idgames2/planetquake/crbot
+# sunsite.doc.ic.ac.uk/packages/idgames2/frag.com
+# ftp.cdrom.com/pub/idgames2/planetquake/crbot
+# ftp.torget.se/pub/games/quake2/bots
+# stealth.dynanet-eu.ee/Quake%20II/Bots
+# asp.planetquake.com/dl/dl.asp?crbot
+# ftp.gamers.org/pub/games/idgames2/planetquake/crbot
+# ftp.gamers.org/pub/games/idgames2/planetquake
+# ftp.sunet.se/idgames2/planetquake/crbot
+# ftp.sunet.se/planetquake/crbot
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/crbot
+# ftp.telepac.pt/pub/idgames2/planetquake/crbot
+# gamers.org/pub/games/idgames2/planetquake/crbot
+# members.tripod.com/~crbot
+# mirror.aarnet.edu.au/games/planetquake/crbot
+# mirrors.telepac.pt/pub/idgames2/planetquake/crbot
+# quake.computing.cz/downloads/bots
+# quake2.com/earth/patches/crbot
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/crbot
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/crbot
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/crbot
+# sunsite.org.uk/packages/idgames2/planetquake/crbot
+# cdrom.com/pub/idgames2/planetquake/crbot
+# fortunecity.com/underworld/quake/181
+# gamers.org/pub/games/idgames2/planetquake/crbot
+# gamers.org/pub/idgames2/planetquake/crbot
+# gamers.org/pub/mirrors/ftp.planetquake.com/crbot
+# geocities.com/SiliconValley/Lab/8885
+# hooked.net/~mim/download
+# quaddicted.com/files/idgames2/planetquake/crbot
+# quaddicted.com/files/mirrors/ftp.planetquake.com/crbot
+# ftp.cdrom.com/pub/idgames2/planetquake/crbot
+# asp.planetquake.com/dl/dl.asp?crbot
+# ftp.cdrom.com/pub/idgames2/planetquake/crbot
+# cdrom.com/pub/idgames2/planetquake/crbot
+
+# quake.cz
+
+# quake2.com/famkebot
+# botepidemic.com/gladiator/files
+# btinternet.com/~kevin.j.porter
+# ftp.epix.net/pub/telefragged/be/gladiator
+# ftp.telefragged.com/be/gladiator
+# ftp.telefragged.com/pub/be/gladiator
+# ftp1.action.updates.cx/pub/mirrors/telefragged/be/gladiator
+# ftp2.action.updates.cx/pub/mirrors/telefragged/be/gladiator
+# ftp3.action.updates.cx/pub/mirrors/telefragged/be/gladiator
+# idsoftware.com/public/jan/gladiator/ftp
+# members.cox.net/randar
+# mrelusive.com/oldprojects/gladiator/ftp
+# mrrc.obninsk.ru/alex/programs/quake2
+# q2.ac.pl/Boty_pliki
+# quaddicted.com/webarchive/mrelusive.com_20170131/oldprojects/gladiator/ftp
+# quake.crimea.ua/files/quake2/bots
+# quake.kiev.ua/sprint/quake2/files
+# quake.lviv.ua/files
+# quake.orc.ru/ftp/utils
+# quake.orc.ru/quake/utils
+# quake.quipo.it/q2crew/q2
+# quakesweden.com/nqr/q2/filer
+
+# famkebot
+
+# cdrom.com/pub/quake/quake2/dlls/bots
+# ftp.bf.rmit.edu.au/pub/quake/cdrom/telefragged/thefatal
+# ftp.cdrom.com/pub/idgames2/quake2/dlls/bots
+# ftp.cdrom.com/pub/idgames2/quake2/newstuff
+# ftp.cdrom.com/pub/quake/telefragged/thefatal
+# ftp.compulink.co.uk/pub/games/id/quake/quake2/dlls/bots
+# ftp.compulink.co.uk/pub/games/id/quake/telefragged/thefatal
+# ftp.datacomm.ch/pub/idgames2/quake2/dlls/bots
+# ftp.edu.sollentuna.se/pub/games/quake-stuff/telefragged/thefatal
+# ftp.epix.net/pub/idgames2/quake2/dlls/bots
+# ftp.epix.net/pub/telefragged/thefatal
+# ftp.gamers.org/pub/games/idgames2/quake2/dlls/bots
+# ftp.gamers.org/pub/games/idgames2/telefragged/thefatal
+# ftp.global.co.za/pub/quake/telefragged/thefatal
+# ftp.iis.com.br/pub/mirror/Quake/quake2/dlls/bots
+# ftp.iis.com.br/pub/mirror/Quake/telefragged/thefatal
+# ftp.lame.org/mirrors/quake_stuff/telefragged/thefatal
+# ftp.livewire.com.au/pub/idgames2/telefragged/thefatal
+# ftp.powerup.com.au/pub/games/quake/quake2/dlls/bots
+# ftp.powerup.com.au/pub/games/quake/telefragged/thefatal
+# ftp.questnet.net.au/pub/idgames2/telefragged/thefatal
+# ftp.saix.net/pub/telefragged/thefatal
+# ftp.sci.fi/pub/idgames2/quake2/dlls/bots
+# ftp.sci.fi/pub/idgames2/telefragged/thefatal
+# ftp.sunet.se/pub/pc/games/idgames2/quake2/dlls/bots
+# ftp.sunet.se/pub/pc/games/idgames2/telefragged/thefatal
+# ftp.task.gda.pl/pub/games/idgames2/quake2/dlls/bots
+# ftp.task.gda.pl/pub/games/idgames2/telefragged/thefatal
+# ftp.telefragged.com/pub/thefatal
+# ftp.telefragged.com/thefatal
+# ftp.telepac.pt/pub/idgames2/quake2/dlls/bots
+# ftp.telepac.pt/pub/idgames2/telefragged/thefatal
+# ftp.tyumen.ru/pub/games/quake2/bots
+# mirror.aarnet.edu.au/pub/idgames2/quake2/dlls/bots
+# concentric.net/~thefatal
+# groove.quake2.co.uk
+# deviousassassins.com/software/bots
+# quake.org.pl/files
+# quake2.com/earth/patches/famkebot
+# quake2.com/famkebot
+# richwhitehouse.com/filemirror
+# telefragged.com/mirrors/mirror.pl?thefatal
+# telefragged.com/thefatal
+# quaddicted.com/files/idgames2/quake2/dlls/bots
+# quake.mtu.ru/pub/quake/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/telefragged/thefatal
+# 3ddownloads.com/telefragged/thefatal
+# ftp.mirror.nl/pub/mirror/idgames2/quake2/dlls/bots
+# ftp.datacomm.ch/pub/idgames2/quake2/dlls/bots
+# mirror.aarnet.edu.au/pub/idgames2/quake2/dlls/bots
+# ftp.cdrom.com/pub/idgames2/quake2/dlls/bots
+# ftp.epix.net/pub/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# ftp.compulink.co.uk/pub/games/id/quake/quake2/dlls/bots
+# ftp.sunet.se/pub/pc/games/idgames2/quake2/dlls/bots
+# ftp.sci.fi/pub/idgames2/quake2/dlls/bots
+# ftp.task.gda.pl/pub/games/idgames2/quake2/dlls/bots
+# ftp.iis.com.br/pub/mirror/Quake/quake2/dlls/bots
+# ftp.gamers.org/pub/games/idgames2/quake2/dlls/bots
+# ftp.sunet.se/idgames2/quake2/dlls/bots
+# ftp.telepac.pt/pub/idgames2/quake2/dlls/bots
+# ftp.telepac.pt/pub/idgames2/telefragged/thefatal
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/thefatal
+# sunsite.org.uk/packages/idgames2/quake2/dlls/bots
+# sunsite.org.uk/packages/idgames2/telefragged/thefatal
+# tux.telefragged.com/telefragged/thefatal
+# 3ddownloads.com/telefragged/thefatal
+# ftp.mirror.nl/pub/mirror/idgames2/quake2/dlls/bots
+# ftp.datacomm.ch/pub/idgames2/quake2/dlls/bots
+# mirror.aarnet.edu.au/pub/idgames2/quake2/dlls/bots
+# ftp.cdrom.com/pub/idgames2/quake2/dlls/bots
+# ftp.epix.net/pub/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# ftp.compulink.co.uk/pub/games/id/quake/quake2/dlls/bots
+# ftp.sunet.se/pub/pc/games/idgames2/quake2/dlls/bots
+# ftp.sci.fi/pub/idgames2/quake2/dlls/bots
+# ftp.task.gda.pl/pub/games/idgames2/quake2/dlls/bots
+# ftp.iis.com.br/pub/mirror/Quake/quake2/dlls/bots
+# gamers.org/pub/games/idgames2/quake2/dlls/bots
+# gamers.org/pub/idgames2/quake2/dlls/bots
+
+# q2.ac.pl
+# quake.lviv.ua
+# quake.orc.ru
+# quake.quipo.it
+# quake.kiev.ua
+# quakesweden.com
+
+# launchers
+# telefragged.com/botster
+# telefragged.com/autobot
+# geocities.com/TimesSquare/Arena/7799
+# bghurt.com
+# jb.quake2.co.uk
+# cgrillo.demon.co.uk
+# msu.edu/user/hollosyt/elaunch
+# home.pix.za/an/an000001
+# frag.com/industry
+# fortunecity.com/underworld/sonic/119
+# planetquake.com/hotlaunch
+# members.xoom.com/ripcord
+# frag.com/tectonic
+# cgrillo.demon.co.uk
+
+# strider.reality-x.co.uk
+# geocities.com/SiliconValley/Haven/6020
+# oocities.com/SiliconValley/Haven/6020
+# fortunecity.com/skyscraper/pacific/10
+# geocities.com/TimesSquare/Battlefield/6856
+# gazpacho.net/happyfun
+# inside3d.com/bot
+# q2.narod.ru
+# members.aol.com/garrbo49
+# swissquake.ch/botpage
+# gazpacho.net
+
+# clans
+# xy.formoza.ru
+# unnamed.formoza.ru
+# tsp.nm.ru
+# qf.formoza.ru
+# invo.newmail.ru
+# tnt.formoza.ru
+# ef.formoza.ru
+# lmd.formoza.ru
+# cods.formoza.ru
+# mclan.formoza.ru
+# death.formoza.ru
+# arhost.boom.ru
+# idq.quake.ru
+# qtm.narod.ru
+# negativeclan.chat.ru
+# ngm.boom.ru
+# sdclan.narod.ru
+# dsd.nm.ru
+# bagirra.net/negative
+# chat.ru/~aid_clan
+# wilco.net.ru/aq3aa
+# clandir.da.ru
+# tnp.poligon.ru
+# n.formoza.ru
+# ssau.ru/~dye
+# nuke.formoza.ru
+
+# quake2.com/botlair
+# frag.com/erased
+
+# tux.telefragged.com/telefragged
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2
+# sunsite.doc.ic.ac.uk/packages/idgames2/telefragged
+# ftp.telepac.pt/pub/idgames2/quake2
+# ftp.telepac.pt/pub/idgames2/telefragged
+
+# prax.telefragged.com
+# psewell.tripod.com
+
+# aimbots
+# members.tripod.com/Rat_HQ
+# zbot1.fortunecity.ws
+# home7.swipnet.se/~w-71686
+# members.tripod.com/clanllama
+# zbot2.tripod.com
+# geocities.com/TimesSquare/Bunker/8949
+# hosted.barrysworld.com/zarjazz
+# barrysworld.com/Zarjazz
+# mrdoom.erie.net/mrdoom
+# realitysolutions.com/ZBOT
+# oocities.org/shirleydprest
+# ratbot.com
+# ratbot.org
+# ratbot.net
+# come.to/ratbot
+
+# sabin
+# asp.planetquake.com/dl/dl.asp?/botshop
+# botshop.planetquake.gamespy.com/sabin
+# ftp.cdrom.com/pub/idgames2/planetquake/botshop
+# ftp.sunet.se/idgames2/planetquake/botshop
+# ftp.sunet.se/planetquake/botshop
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/botshop
+# ftp.telefragged.com/pub/epidemic
+# ftp.telepac.pt/pub/idgames2/planetquake/botshop
+# ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/botshop
+# gamers.org/pub/games/idgames2/planetquake/botshop
+# mmnt.net/db/0/0/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/botshop
+# planetquake.com/botshop/sabin
+# quaddicted.com/files/idgames2/planetquake/botshop
+# quaddicted.com/files/mirrors/ftp.planetquake.com/botshop
+# quake.org.pl/files/quake2/boty
+# quakewiki.net/archives/botshop/sabin
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/botshop
+# src.doc.ic.ac.uk/packages/idgames2/planetquake/botshop
+# src.doc.ic.ac.uk/packages/quake/planetquake/botshop
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/botshop
+# src.doc.ic.ac.uk/public/packages/idgames2/planetquake/botshop
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/botshop
+# sunsite.org.uk/packages/idgames2/planetquake/botshop
+
+# acid-scorpion.purespace.de
+# btinternet.com/~RsFHQ
+# reality.sgi.com/rhess_engr/linux/q2
+# moddb.com/mods/action-quake-2-bot
+# playspoon.com/Aq2_Bot
+
+
+# eraser
+# 209.1.245.14/files/quake2/bots/eraser
+# bluesnews.com/files/quake2/bots/eraser
+# bluesnews.com/warning.cgi?/pub/bluesnews/quake2/eraser
+# bluesnews.gameaholic.com/idgames/quake2/dlls/bots
+# cdrom.com/pub/idgames2/frag.com/impact
+# cdrom.com/pub/idgames2/quake2/dlls/bots
+# cdrom.com/pub/quake/quake2/dlls/bots
+# compulink.co.uk/pub/games/id/quake/quake2/dlls/bots
+# datacomm.ch/pub/idgames2/quake2/dlls/bots
+# fileaholic.com/idgames/quake2/dlls/bots
+# files.fragzone.se/idgames/quake2/dlls/bots
+# files.gameaholic.com/idgames/quake2/dlls/bots
+# frag.com/frag/impact
+# ftp.cdrom.com/pub/idgames2/frag.com/impact
+# ftp.cdrom.com/pub/idgames2/quake2/dlls/bots
+# ftp.cdrom.com/pub/quake/quake2/dlls/bots
+# ftp.compulink.co.uk/pub/games/id/quake/quake2/dlls/bots
+# ftp.datacomm.ch/pub/idgames2/quake2/dlls/bots
+# ftp.frag.com/frag/impact
+# ftp.gamers.org/pub/games/idgames2/quake2/dlls/bots
+# ftp.gamers.org/pub/games/idgames2/quake2/dlls/bots
+# ftp.gamesnet.net/pub/bluesnews/quake2/eraser
+# ftp.hackfleisch.de/pub/quake2
+# ftp.iis.com.br/pub/mirror/Quake/quake2/dlls/bots
+# ftp.powerup.com.au/pub/games/quake/quake2/dlls/bots
+# ftp.quake2.co.uk/quake2/eraser
+# ftp.quipo.it/pub/quake2/BOT
+# ftp.sci.fi/pub/idgames2/quake2/dlls/bots
+# ftp.stomped.com/pub/redwood/bots
+# ftp.sunet.se/idgames2/quake2/dlls/bots
+# ftp.sunet.se/pub/pc/games/idgames2/frag.com/impact
+# ftp.sunet.se/pub/pc/games/idgames2/quake2/dlls/bots
+# ftp.supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2
+# ftp.task.gda.pl/pub/games/idgames2/quake2/dlls/bots
+# ftp.telefragged.com/pub/quake2/bots
+# ftp.telepac.pt/pub/idgames2/quake2/dlls/bots
+# ftp.telepac.pt/pub/idgames2/quake2/dlls/bots
+# ftp.torget.se/pub/games/quake2/bots
+# gamers.org/pub/games/idgames2/quake2/dlls/bots
+# gamers.org/pub/games/idgames2/quake2/dlls/bots
+# games.gci.net/pub/Quake2/QuakeMods/EraserBot
+# gamesnet.net/pub/bluesnews/quake2/eraser
+# hackfleisch.de/pub/quake2
+# iis.com.br/pub/mirror/Quake/quake2/dlls/bots
+# mirror.aarnet.edu.au/pub/idgames2/quake2/dlls/bots
+# powerup.com.au/pub/games/quake/quake2/dlls/bots
+# quake.ctv.es/pub/Bots/Eraser
+# quake.tyumen.ru/pub/games/quake2/bots
+# quake2.co.uk/quake2/eraser
+# quipo.it/pub/quake2/BOT
+# sci.fi/pub/idgames2/quake2/dlls/bots
+# stealth.dynanet-eu.ee/Quake%20II/Bots/Eraser
+# stomped.com/pub/redwood/bots
+# sunet.se/idgames2/quake2/dlls/bots
+# sunet.se/pub/pc/games/idgames2/frag.com/impact
+# sunet.se/pub/pc/games/idgames2/quake2/dlls/bots
+# sunsite.doc.ic.ac.uk/packages/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/packages/idgames2/quake2/dlls/bots
+# supermedia.pl/pub/quakeworld/quake2/bots/eraserbotq2
+# task.gda.pl/pub/games/idgames2/quake2/dlls/bots
+# telefragged.com/pub/quake2/bots
+# telepac.pt/pub/idgames2/quake2/dlls/bots
+# telepac.pt/pub/idgames2/quake2/dlls/bots
+# torget.se/pub/games/quake2/bots
+
+# ftp.gamers.org/pub/games/idgames2/frag.com/impact
+# gamers.org/pub/games/idgames2/frag.com/impact
+# ftp.telepac.pt/pub/idgames2/frag.com/impact
+# telepac.pt/pub/idgames2/frag.com/impact
+# mirrors.telepac.pt/pub/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/packages/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/pub/0-Most-Packages/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/public/pub/computing/vendor/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/public/public/0-Most-Packages/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/public/public/pub/BSD/idgames2/frag.com/impact
+# src.doc.ic.ac.uk/public/public/pub/packages/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/computing/vendor/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/pub/0-Most-Packages/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/pub/packages/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/public/pub/pub/packages/idgames2/frag.com/impact
+# sunsite.doc.ic.ac.uk/public/pub/public/packages/idgames2/frag.com/impact
+# task.gda.pl/pub/games/idgames2/frag.com/impact
+
+# reality.sgi.com/rhess_engr/beos/q2/eraser
+# geocities.com/TimesSquare/Arena/2800
+
+# redwood.stomped.com
+# franva.org
+# railgun.macquakeinfinity.com
+# qudos.quakedev.com
+# moddb.com/mods/jabotq2
+# botepidemic.com/q2rfd
+
+# osp
+# asp.planetquake.com/dl/dl.asp?osp
+# ftp.ngi.it/mirror/fileplanet2/osp
+# ftp.sunet.se/idgames2/planetquake/osp
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/osp
+# ftp.telepac.pt/pub/idgames2/planetquake/osp
+# ftp2.gamespy.com/pub/cdrom/osp
+# gamers.org/pub/games/idgames2/planetquake/osp
+# gamers.org/pub/idgames2/planetquake/osp
+# gamers.org/pub/mirrors/ftp.planetquake.com/osp
+# mirrors.telepac.pt/pub/idgames2/planetquake/osp
+# quaddicted.com/files/idgames2/planetquake/osp
+# quaddicted.com/files/mirrors/ftp.planetquake.com/osp
+# quake.crimea.ua/files/quake2/mods
+# quake.lviv.ua/files
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/osp
+# src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/osp
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/osp
+# src.doc.ic.ac.uk/public/packages/idgames2/planetquake/osp
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/osp
+# sunsite.org.uk/packages/idgames2/planetquake/osp
+# planetquake.com/osp
+
+# ftp.sunet.se/planetquake/osp
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/osp
+# gamers.org/pub/games/idgames2/planetquake/osp
+# gamers.org/pub/games/idgames2/planetquake/osp
+# mirror.aarnet.edu.au/games/planetquake/osp
+
+# ftp.cdrom.com/pub/idgames2/planetquake
+# ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com
+# gamers.org/pub/games/idgames2/planetquake
+# mirror.aarnet.edu.au/games/planetquake
+# mirrors.telepac.pt/pub/idgames2/planetquake
+
+# orangesmoothie.org
+# sunflow.com/orangesmoothie
+# filesbeq2.free.fr
+# nikto.net/crbot
+# telefragged.com/oldnews
+
+# ftp.sunet.se/idgames2/planetquake
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake
+# ftp.telepac.pt/pub/idgames2/planetquake
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake
+# src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake
+# src.doc.ic.ac.uk/public/packages/idgames2/planetquake
+# src.doc.ic.ac.uk/public/packages/idgames2/planetquake
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake
+# sunsite.org.uk/packages/idgames2/planetquake
+
+# cdrom.com/pub/idgames2/planetquake
+# sunet.se/idgames2/planetquake
+# sunet.se/pub/pc/games/idgames2/planetquake
+# telepac.pt/pub/idgames2/planetquake
+
+
+# telefragged mirrors
+# bf.rmit.edu.au/pub/quake/cdrom/telefragged
+# cdrom.com/pub/quake/telefragged
+# compulink.co.uk/pub/games/id/quake/telefragged
+# edu.sollentuna.se/pub/games/quake-stuff/telefragged
+# epix.net/pub/telefragged
+# ftp.3dgamers.com/pub/games/idgames2/telefragged
+# ftp.bf.rmit.edu.au/pub/quake/cdrom/telefragged
+# ftp.cdrom.com/pub/idgames2/telefragged
+# ftp.cdrom.com/pub/quake/telefragged
+# ftp.compulink.co.uk/pub/games/id/quake/telefragged
+# ftp.cybersol.com.au/pub/mirrors/telefragged
+# ftp.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged
+# ftp.edu.sollentuna.se/pub/games/quake-stuff/telefragged
+# ftp.epix.net/pub/telefragged
+# ftp.freesoftware.com/pub/idgames2/telefragged
+# ftp.gamers.org/pub/games/idgames2/telefragged
+# ftp.gamezone.mweb.co.za/pub/mirrors/telefragged
+# ftp.global.co.za/pub/quake/telefragged
+# ftp.hidden.org/pub/mirrors/telefragged
+# ftp.iis.com.br/pub/mirror/Quake/telefragged
+# ftp.lame.org/mirrors/quake_stuff/telefragged
+# ftp.linuxquake.com/pub/idgames2/telefragged
+# ftp.livewire.com.au/pub/idgames2/telefragged
+# ftp.powerup.com.au/pub/games/quake/telefragged
+# ftp.questnet.net.au/pub/idgames2/telefragged
+# ftp.saix.net/pub/telefragged
+# ftp.saix.net/pub/telefragged
+# ftp.sci.fi/.1/idgames2/telefragged
+# ftp.sci.fi/pub/idgames2/telefragged
+# ftp.sunet.se/idgames2/telefragged
+# ftp.sunet.se/pub/pc/games/idgames2/telefragged
+# ftp.task.gda.pl/pub/games/idgames2/telefragged
+##ftp.telefragged.com
+# ftp.telepac.pt/pub/idgames2/telefragged
+# ftp1.action.updates.cx/pub/mirrors/telefragged
+# ftp2.action.updates.cx/pub/mirrors/telefragged
+# ftp3.action.updates.cx/pub/mirrors/telefragged
+# gamers.org/pub/games/idgames2/telefragged
+# gamezone.mweb.co.za/pub/mirrors/telefragged
+# pelit.saunalahti.fi/telenation/telefragged
+# saix.net/pub/telefragged
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/quake/telefragged
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged
+# sunsite.org.uk/packages/idgames2/telefragged
+
+# tf
+# erinyes.com/tf
+# keeg.com
+# warzone.com/tfnewswire
+# minyos.its.rmit.edu.au/~cookj
+# yallara.cs.rmit.edu.au/~cookj
+# telefragged.com/teamfortress
+# planetquake.com/teamfortress
+# planetfortress.com/teamfortress
+# teamfortress.com
+# axe.orc.ru/pub/quake
+# axg.net/downloads/quake
+# dataforce.net/pub/Quake
+# evildead.com/files/incoming/Quake
+# evildead.com/files/outgoing/quake
+# evildead.com/files/quake
+# ftp.axg.net/downloads/quake
+# ftp.dataforce.net/pub/Quake
+# ftp.evildead.com/files/incoming/Quake
+# ftp.evildead.com/files/outgoing/quake
+# ftp.evildead.com/files/quake
+# ftp.sign-comsys.com/pub/games/QUAKE
+# ftp.torget.se/quake
+# ftp.tyumen.ru/pub/games/quake
+# ftp.uni-muenster.de/share/public10/win95/games/quake
+# quake.df.ru/pub/Quake
+# sign-comsys.com/pub/games/QUAKE
+# torget.se/quake
+# tyumen.ru/pub/games/quake
+# uni-muenster.de/share/public10/win95/games/quake
+
+# bot epidemic
+# quake2.com/epidemic
+# telefragged.com/epidemic
+# botepidemic.com
+
+# big
+# quake.org.pl
+# quake2.com
+# quake2.stomped.com
+# quake2.com.ru
+# quake2.ru
+# quake.com.br
+##quake2.telestream.com
+# quake2news.com
+# quake2.co.uk
+# dd.networx.net.au
+
+# ittc.ukans.edu/~rhea
+# gpmc.demon.co.uk
+
+# cgf
+# botepidemic.com/aid
+# botepidemic.com/cgf_resource_site
+# home.iae.nl/users/sterren
+# fortunecity.com/underworld/wipeout/731
+# ##cgfbotcentral.quakecity.net
+# ##cgfbot.quakecity.net
+# cgfbot.3d-rage.com
+# fragbait.com/darkrain
+
+
+# bot boards
+# telefragged.com/metro/botboard
+# telefragged.com/message_boards/metro
+
+# routes
+# btinternet.com/~RsFHQ
+# acid-scorpion.here.de
+# barrysworld.com/thelair
+# botepidemic.com/q2rfd
+# hosted.barrysworld.com/thelair
+
+# ltktbm
+# slacker.home.cosmic-cow.net
+# raky.haxorhost.com/aq2
+# homepage.ntlworld.com/jane.a.parker
+# ltktbm.moddb.com
+# moddb.com/games/ltktbm
+# cam-direct.co.uk
+# theborgmatrix.com
+
+# insanely massive
+# quake.crimea.ua
+# besmella-quake.com
+# inside3d.com
+# frag.com
+# botepidemic.com
+# botboard.telefragged.com
+##stomped.com
+# shugashack.com
+planetquake.com
+bluesnews.com
+telefragged.com
+ftp.sunet.se/planetquake
+
+

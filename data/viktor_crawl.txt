@@ -1,0 +1,93 @@
+# Viktor crawl 
+
+
+
+# more
+# bluesnews.com/files/patches/tcs
+# bluesnews.com/files/patches/tcs
+# cdrom.com/pub/idgames2/telefragged/swtc
+# cdrom.com/pub/idgames2/telefragged/swtc
+# frag.com/tcmag/ftp.telefragged.com/pub/swtc
+# ftp.cdrom.com/pub/idgames2/telefragged/swtc
+# ftp.gamers.org/pub/games/idgames2/planetquake/starwars
+# ftp.sunet.se/idgames2/planetquake/starwars
+# ftp.sunet.se/planetquake/starwars
+# ftp.sunet.se/pub/pc/games/idgames2/planetquake/starwars
+# ftp.telefragged.com/pub/quake/tc
+# ftp.telefragged.com/pub/swtc
+# ftp.telepac.pt/pub/idgames2/planetquake/starwars
+# ftp.telepac.pt/pub/idgames2/telefragged/swtc
+# gamers.org/pub/games/idgames2/planetquake/starwars
+# gamers.org/pub/games/idgames2/planetquake/starwars
+# gamers.org/pub/idgames2/planetquake/starwars
+# gamers.org/pub/mirrors/ftp.planetquake.com/starwars
+# gamesnet.net/starwarstc
+# mirror.aarnet.edu.au/games/planetquake/starwars
+# mirrors.telepac.pt/pub/idgames2/planetquake/starwars
+# quaddicted.com/files/idgames2/planetquake/starwars
+# quaddicted.com/files/mirrors/ftp.planetquake.com/starwars
+# quaddicted.com/files/mirrors/ftp.telefragged.com/swtc/unsupported
+# src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/starwars
+# src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/starwars
+# sunet.se/idgames2/planetquake/starwars
+# sunet.se/planetquake/starwars
+# sunet.se/pub/pc/games/idgames2/planetquake/starwars
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/starwars
+# sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/swtc
+# sunsite.org.uk/packages/idgames2/planetquake/starwars
+# sunsite.org.uk/packages/idgames2/telefragged/swtc
+# swa.simplenet.com/swquake
+# telefragged.com/pub/quake/tc
+# telefragged.com/pub/swtc
+# telepac.pt/pub/idgames2/planetquake/starwars
+# telepac.pt/pub/idgames2/telefragged/swtc
+
+# "Total Conversions for Quake" cd
+# https://archive.org/download/id-pc-redump/ID-PC-REDUMP/
+# https://ia904708.us.archive.org/view_archive.php?archive=/0/items/starwarsquake/telefragged_archive.zip
+# HERE
+
+# Doctor Who TC
+# converted2.com/drwho
+# ourworld.compuserve.com/homepages/the_scarecrow
+# geocities.com/Area51/Dimension/7855
+
+# https://www.quakewiki.net/quake-1/mods/doctor-who-quake/
+# https://www.quakewiki.net/download/2705/?tmstv=1738879123
+
+
+
+# Jurrasic Quake
+# 209.185.180.232/~Program2000
+# llamanet.net/destiny
+# members.tripod.com/~Program2000
+
+# https://web.archive.org/web/19981205002711/http://members.tripod.com:80/%7EProgram2000/JurassicQuake.html
+
+
+
+# Star Wars Quake
+# 3ddownloads.com/telefragged/swtc
+# 3ddownloads.com/telefragged/swtc/unsupported
+# cdrom.com/pub/idgames2/telefragged/swtc
+# ftp.cdrom.com/pub/idgames2/telefragged/swtc
+# ftp.telefragged.com/pub/swtc
+# gagames.com/jediknight/files
+# jediknight.gamestats.com/files
+# jeffreybthompson.com
+# moseisley.com/mos/swquake
+# swtc.telefragged.com
+
+
+# alteria
+firstpersonshooters.net/Games/Alteria
+fileplanet.com/dl/dl.asp?cor
+dl.fileplanet.com/dl/dl.asp?cor
+red.planetarena.org/alteria
+planetquake.com/cor/omen
+cor.planetquake.gamespy.com/omen
+hosted.planetquake.gamespy.com/cor/omen
+dotpups.de/dotpups/Games
+
+# https://oldforum.puppylinux.com/viewtopic.php?t=8002
+# 	http://dotpups.de/dotpups/Games/alteria-1.0-x86.run

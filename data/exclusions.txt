@@ -81,6 +81,7 @@ https://www.quaddicted.com/files/idgames2/demos/contest/skillz/steve.zip
 https://www.quaddicted.com/files/idgames2/planetquake/thehuge/steve.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/thehuge/steve.zip
+http://privat.schlund.de/I/Intersurf5/steve.zip
 # SPELLING ERRORS IN URLS e.g. "blue" news
 # Quake-1_08_2.sit
 http://www.bluenews.com/files/macintosh/Quake-1_08_2.sit
@@ -137,5 +138,13 @@ http://www.fileplanet.com/redir.asp?file=3780&archive=39&url=ftp://ftp.sunet.se/
 http://www.fileplanet.com/redir.asp?file=3780&archive=41&url=ftp://ftp.sci.fi/pub/idgames2/partial_conversions/xrated/sexbot11.zip
 http://www.fileplanet.com/redir.asp?file=3780&archive=43&url=ftp://ftp.task.gda.pl/pub/games/idgames2/partial_conversions/xrated/sexbot11.zip
 http://www.fileplanet.com/redir.asp?file=3780&archive=45&url=ftp://ftp.iis.com.br/pub/mirror/Quake/partial_conversions/xrated/sexbot11.zip
+
+# Quake2BotArchive
+# ========================
+# Optimise.zip
+http://cd.textfiles.com/carousel344/012/OPTIMISE.ZIP
+http://cd.textfiles.com/originalsw/8/optimise.zip
+# nbdemos.zip
+http://web.ukonline.co.uk/oliver.cook/netbar/demos/NBDemoS.zip
 
 

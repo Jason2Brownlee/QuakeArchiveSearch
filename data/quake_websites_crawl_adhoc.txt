@@ -1,28 +1,28 @@
 # ad hoc websites to crawl
 
 
-# quake bots and files, 2011
+# # quake bots and files, 2011
 # members.multimania.nl/nqeu
 
-# quake files and bots, 2006-2007
+# # quake files and bots, 2006-2007
 # quake.errorabove.com
 
-# quake files bots, 1998
+# # quake files bots, 1998
 # fragzone.se/quake/files
 
-# files and bots, -2017
+# # files and bots, -2017
 # quake-1.com
 
-# files and bots (1998-1999)
+# # files and bots (1998-1999)
 # quake.org.pl/files
 
-# bots (2003-2005)
+# # bots (2003-2005)
 # nygmafiles.essentrix.net
 
-# 2001
+# # 2001
 # quaketerminus.freeola.com
 
-# small site (-2001)
+# # small site (-2001)
 # mdqnet.net
 
 
@@ -129,18 +129,18 @@
 
 # dd.networx.net.au/cgi-bin/pftp.pl?/pub
 
-# ctfbot
+# # ctfbot
 # mercury.interpath.com/~davidson
 # interpath.net/~davidson
 # planetquake.com/ctfbot
 
-# random
+# # random
 # hunterlink.net.au/games
 # bsp.com.au/systems/clan
 # pnc.com.au/quake
 # mpog.com/nawc
 
-# manually extracted #1
+# # manually extracted #1
 # akula.com/~iomega
 # alpha.wcoil.com/~mmurray
 # clanmegadeath.com/fanon
@@ -186,7 +186,7 @@
 # www4.dbtech.net/quake
 
 
-# manually extracted #2
+# # manually extracted #2
 # 206.9.60.201/~phoenix
 # alpha.wcoil.com/~mmurray
 # athenenet.co.uk/homepages/MDALSOP
@@ -257,7 +257,7 @@
 # www4.dbtech.net/quake
 
 
-# manually extracted #3
+# # manually extracted #3
 # 210.0.2.183
 # aone.net.au/quake
 # atnet.net.au/quake/AuSF
@@ -298,10 +298,10 @@
 # webraven.com.au/games/quake
 # wisdom.psinet.net.au/~stokfam/qdesk
 
-# other
+# # other
 # vandiemen.net/quake
 
-# manually extracted #4
+# # manually extracted #4
 # 206.12.10.240/stevefu/QuakeLab
 # canweb.net/~b2
 # griffon.com.au/qn
@@ -325,21 +325,21 @@
 # vision.net.au/games/quake
 # wantree.com.au/~russell/DD
 
-# 1997-2000
+# # 1997-2000
 # redwood.gatsbyhouse.com
-# 1998-2000
+# # 1998-2000
 # redwood.stomped.com
 
 
-# new
+# # new
 # itfl.com
 # itfl.home.ml.org
 # warzone.com
 
-# after 2001
+# # after 2001
 # ftp.linuxquake.com
 
-# download pages
+# # download pages
 
 # telefragged.com/mirrors/mirror.pl?be/fmods
 # telefragged.com/mirrors/mirror.pl?metro
@@ -349,37 +349,37 @@
 # gameaholic.com/deicide/download.cgi
 # globalsoft.com.au/cgi-bin/pftp.pl
 
-# TODO
-# TODO increase to 2006 to process more
+# # TODO
+# # TODO increase to 2006 to process more
 # asp.planetquake.com/dl/dl.asp?/botshop
 # asp.planetquake.com/dl/dl.asp?/holywars
 # asp.planetquake.com/dl/dl.asp?/requiem
 # bluesnews.com/warning.cgi
 # ftp.fragzone.se/?s=&p=spel/quake
 
-# lots of errors to re-process
+# # lots of errors to re-process
 # 3ddownloads.com/showfile.php3
-# 30k files...
+# # 30k files...
 # quakefiles.com/files/download.php
 
-# too many (try 1997 or 1998)
+# # too many (try 1997 or 1998)
 # newgames.ru
 # quake.demos.su
 
 
-# tf
+# # tf
 # yallara.cs.rmit.edu.au/~cookj
 # geocities.com/Tokyo/6653
 # sign-comsys.com/quake
 # quakeforum.de
 # quake.tstonramp.com
 
-# other
+# # other
 # web.ukonline.co.uk/Members/neil.henderson
 # regen.powerup.com.au
 # quakemaster.warzone.com
 
-# russian
+# # russian
 # 195.208.175.37/quake
 # 3dfx-ru.com
 # 5ci.lt/users/andrei
@@ -454,7 +454,7 @@
 # tf.html.ru
 # victor.quake2.ru
 
-# 2000, allow 404s
+# # 2000, allow 404s
 # cdrom.com/pub/planetquake
 # cdrom.com/pub/idgames2
 # cdrom.com/pub/doom/quake
@@ -462,7 +462,7 @@
 # cdrom.com/pub/quake/
 
 
-# german
+# # german
 # crayola.cse.psu.edu/~drake
 # doomgate.cs.buffalo.edu/games/quake
 # efd.lth.se/~d95ml/quake
@@ -504,7 +504,7 @@
 
 
 
-# russian sites
+# # russian sites
 # aha.ru/~fanat
 # aha.ru/~mlou
 # ats.spb.ru/quake
@@ -517,7 +517,7 @@
 # dataforce.net/~crazer
 # orc.ru/~shumej
 
-# russian sites
+# # russian sites
 # 194.85.96.197/green
 # accestonight.com/quakestar
 # ananas2.com
@@ -549,7 +549,7 @@
 # user.cityline.ru/~kinetix/gemnet
 # vmk-mvmk.ksu.ru/~kqc
 
-# russian clans
+# # russian clans
 # 194.85.82.39
 # aha.ru/~peal
 # aha.ru/~slime
@@ -630,7 +630,7 @@
 # windoms.sitek.net/~irq
 # xclan.tsx.org
 
-# more russian clans
+# # more russian clans
 # 212.46.4.168
 # agu.cjb.net
 # alpha-pc.com/club
@@ -646,7 +646,7 @@
 # vrc.df.ru
 # wintery.net
 
-# more russian clans
+# # more russian clans
 # atlantic.ru/game
 # bankvoronezh.ru/bbs/games
 # ddt.microdin.ru
@@ -680,7 +680,7 @@
 # home.rating.ru/kex
 
 
-# sites
+# # sites
 # dragonfire.net/~massacre
 # earthlink.net/~warpanda
 # megnatech.com/rwsaf
@@ -688,7 +688,7 @@
 # time2quake.com/DarkQuakers
 
 
-# links
+# # links
 # 199.234.141.10/drsleep
 # alchy.demon.co.uk
 # as.cmu.edu/~nic
@@ -735,7 +735,7 @@
 
 # geocities.com/TimesSquare/Arcade/7939
 
-# links
+# # links
 # alchy.demon.co.uk
 # yibble.demon.co.u
 
@@ -902,7 +902,7 @@
 
 # sni.net/~rudeseal/quakec
 
-# # links
+# # # links
 # 136.165.243.183/~frodo
 # 194.165.194.1/qpage
 # 204.73.178.27
@@ -1468,7 +1468,7 @@
 # geocities.com/TimesSquare/Lair/7765
 # undertaker.demon.nl
 
-# links
+# # links
 # impulse1.com
 # demonic.demon.co.uk
 # fragzone.se/swemob
@@ -1564,7 +1564,7 @@
 # nelliott.demon.co.uk
 # new.ox.ac.uk/~adam/quake
 
-# nimad.fi/sudet/members/fmm
+# # nimad.fi/sudet/members/fmm
 # ocrana.de
 # orlikon.demon.co.uk
 # osiris1.demon.co.uk
@@ -1802,7 +1802,7 @@
 
 # quakecafe.com
 
-# # clans
+# # # clans
 # dspace.dial.pipex.com/hellbringers
 # dspace.dial.pipex.com/town/place/xbf09
 # dspace.dial.pipex.com/town/terrace/abe90
@@ -1894,7 +1894,7 @@
 # vir.com/~phetu
 # vt.edu:10021/G/gremlinx
 
-# links
+# # links
 # www2.passagen.se/spel/quake
 # passagen.se/spel/quake
 # spel.passagen.se/quake
@@ -2450,3 +2450,334 @@
 
 # tux.telefragged.com
 
+
+# astro.wisc.edu/~haffner
+
+# best.com/~pberry
+# canvasnet.com
+# captured.com
+# cba-inc.com
+# crydee.sai.msu.ru
+# curtin.edu.au/~scott
+# first.quakegate.ru
+# frag.com
+# ftp.chg.ru
+# ftp.frag.com
+# home.sprynet.com/sprynet
+# home1.inet.tele.dk/decker
+# ice.net/~vortex
+# impact.frag.com
+# lockandload.com
+# lucci.in-net.com
+# mac3d.com
+# macquake.com
+# members.nbci.com
+# nuqneh.org
+# ozemail.com.au/~ausquake
+# pipo.com/quake
+# pro-net.co.uk/home/wolfg_l
+# quake.best.com
+# quake.chaoticbox.com
+# quake.df.ru
+# quake.hype.com
+# quake.ml.org
+# quake.mtu.ru
+# quake.zone.ru
+# quakedev.com
+# quakedev.dcemulation.org
+# quakegate.ru
+# quakeland.4u.ru
+# quakeworld.net
+# quakeworld.ru
+# stud1.tuwien.ac.at/~e9426444
+# ter.ort.spb.ru
+# thajungle.com/ace/
+# tigerbass.com
+# tlb.quakedev.com
+# vision.net.au/~chuck
+# westlakeinteractive.com
+# wizworks.com/macsoft
+
+
+# coolhouse.simplenet.com/mqmp
+# coolhouse.simplenet.com
+# goblin.simplenet.com
+# quakefactor.simplenet.com
+# quakemecca.simplenet.com
+# rds.simplenet.com
+# shugarshack.ritual.com
+# shugarshack.ritualistic.com
+
+# members.tripod.lycos.nl/koolpaddy
+# members.tripod.com/~Spectre2
+# members.tripod.com/~WAC
+# members.tripod.com/tf_cheats
+# doritoshp.tripod.com
+# obq.tripod.com
+
+# members.xoom.com/1n5an3
+# members.xoom.com/_XOOM/OrbScript/estbt
+# members.xoom.com/_XOOM/unknownbot
+# members.xoom.com/ap0c4lypse
+# members.xoom.com/eluan
+# members.xoom.com/fvfbot
+# members.xoom.com/gloomsfiles
+# members.xoom.com/markwheeler
+# members.xoom.com/mtm07
+# members.xoom.com/OrbScript/estbt
+# members.xoom.com/qsly
+# members.xoom.com/Qtournament
+# members.xoom.com/Quake_OZZman
+# members.xoom.com/sense6DR
+# members.xoom.com/surgeonsq1
+# members.xoom.com/the_alf
+# members.xoom.com/unknownbot
+# members.xoom.com/wac
+# members.xoom.com/SQC
+# members.xoom.com/Neophyte98
+# members.xoom.com/DBmandrake
+
+# membro.intermega.com.br/gqc
+# orca.ucd.ie/~gilligan
+# orca.ucd.ie
+
+# quakepit.com
+# condemned.com
+# akuma.condemned.com
+# qld.condemned.com
+# riever.condemned.com
+# ssj4death.condemned.com
+# static.condemned.com
+
+
+# # demon.co.uk
+# demonic.demon.co.uk
+# exarch.demon.co.uk
+# hillbanks.demon.co.uk
+# roytv.demon.co.uk
+# violent.demon.co.uk
+
+# cvnet.co.uk/hendo
+# cvnet.co.uk/theoak
+
+# angelfire.com/co2/kooliobot
+# angelfire.com/pe/pent3
+# angelfire.com/wa/chrisquast
+# angelfire.com/pa2/hellbot
+
+
+
+# terminator bot
+# gamers.org/dEngine/quake/Qbot
+# ens.fr/~cridlig
+# ens.fr/~montanuy
+# lhx.clanpages.com
+# calvarium.com/quakebots
+# www2.csn.net/~rudeseal
+# csn.net/~rudeseal
+# sni.net/~rudeseal
+# perso.wanadoo.fr/montanuy
+# myweb.worldnet.net/~edwin
+# worldnet.net/~edwin
+
+
+# TF
+# atmnet.btc.gatech.edu
+# cdrom.com/pub/idgames2/levels/team_fortress
+# clanmarauder.com/gandalf
+# clanmegadeath.com/fanon
+# coolguy.lockandload.com
+# crazytonys.com/tfcon98
+# det5.com/bbq/quake
+# det5.com/bullets
+# det5.com/guild
+# det5.com/squad
+# dh.warzone.com
+# dragonwarz.warzone.com
+# erinyes.com/celabs
+# erinyes.com/ented
+# evildead.com/golbez
+# evildead.com/sailorfrag
+# flash.net/~groff/html
+# gagames.com/tf2
+# gamezone.cts.com
+# geocities.com/TimesSquare/Arcade/8222
+# geocities.com/TimesSquare/Lair/4561
+# home1.gte.net/ogunnach
+
+# quakeworld.net
+# q-news.globalsoft.com.au
+# jimcable.home.mindspring.com/knoll
+# keeg.com
+# lockandload.com/DoS/Zone
+# maggie.runt.net/users/SKreal
+# neurogamer.com/deathtoll
+# ns.net/~rborg
+# oztf.sa.com.au
+# parrett.net/~johnjr
+# planetquake.com/teamfortress
+# planetquake.com/tfbot
+# planetquake.com/tfguide
+# quake.execnet.com/Hostings/Greedy
+# quake.execnet.com/Hostings/Lakeside
+# radix.net/~bundy
+# slipgatecentral.com/Information/Playing/Team_Fortress
+# teamfortress.com
+# teamfortress.com/tfclans
+# tf.ethereal.net
+# tf.ethereal.net/overdark
+# tfconsole.clanoski.com
+# tfnewbies.warzone.com
+# tfnewswire.tfdomain.com
+# tfring.warzone.com
+# warzone.com/battlegrounds
+# warzone.com/brisk
+# warzone.com/bunker
+# warzone.com/someone
+# warzone.com/tfcoffeehouse
+# warzone.com/tfouthouse
+# www4.dbtech.net/quake
+# quakeworld.net
+
+
+# 187.internet-homepage.com
+# 24.3.20.104/hutclan
+# abyss.resnet.wisc.edu/~arm
+# aibn91.astro.uni-bonn.de/~cloewe
+# algonet.se/~rolf
+# alien-nation.com
+# altinet.net/~ficht
+# angelfire.com/biz/clanespionage
+# angels.home.ml.org
+# av.qnet.com/~nabeo
+# bcn.net/~jac136
+# blacktower.simplenet.com/~bdaly
+# canweb.net/~b2
+# clan11.home.ml.org
+# clanmossad.overlord.net
+# cnw.com/~yoshi
+# contrib.andrew.cmu.edu/usr/jp73
+# cyberdrive.net/~echo9
+# cyberwar.com/~arabian
+# earthlink.net/~kublai
+# eci.com/billg
+# enteract.com/~wood
+# erols.com/balducci
+# ew.boehm.org
+# execpc.com/~rdeer
+# flash.net/~petros
+# flex.net/~rage
+# follow.net/etc
+# foresakenassassins.hypermart.net
+# fortunecity.com/tinpan/albert
+# freeyellow.com/members2/akaclan
+# gator.net/~charlesp
+# geocities.com/Area51/Corridor/1667
+# geocities.com/Baja/9764
+# geocities.com/Colosseum/Track/3169
+# geocities.com/SiliconValley/Lakes/3968
+# geocities.com/SunsetStrip/Towers/3617
+# geocities.com/TimesSquare/Alley/5740
+# geocities.com/TimesSquare/Arcade/1832
+# geocities.com/TimesSquare/Battlefield/3040
+# geocities.com/TimesSquare/Battlefield/5204
+# geocities.com/TimesSquare/Battlefield/5661
+# geocities.com/TimesSquare/Labyrinth/5049
+# geocities.com/TimesSquare/Realm/1128
+# geocities.com/TimesSquare/Stadium/2701
+# geocities.com/TimesSquare/Stadium/2817
+# geocities.com/pentagon/1236
+# geocities.com/pentagon/1236
+# geocities.com/sunsetstrip/9352
+# geocities.com/timessquare/alley/9196
+# gsbkitti.uchicago.edu/anti-clan
+# hem.passagen.se/frallla
+# home.eclipse.net/~pblass
+# home.inreach.com/noid
+# home1.swipnet.se/~w-17376
+# home1.swipnet.se/~w-19275
+# home2.swipnet.se/~w-21941
+# home3.swipnet.se/~w-30628
+# hut.fi/~jsandhol
+# inficad.com/~djg
+# intergames.com/ai
+# intertex.net/users/lfc
+# ivia.com.br/~stubb
+# jersey.net/~mchugh
+# kk.iij4u.or.jp/~kunimasa
+# knightowl.com/aftershock
+# members.aol.com/quakemc
+# members.icanect.net/~saqib
+# members.tripod.com/~CdCteam
+# members.tripod.com/~vabalas
+# members.xoom.com/DuM_clan
+# members.xoom.com/SunmanX777
+# members.xoom.com/lococlan
+# mpog.com/clanring/clanlist/internet-homepage.com/187
+# netcom.com/~mendonca
+# outland.cyberwar.com/~arabian
+# pages.cthome.net/glacious
+# pantheon.yale.edu/~dhl4
+# plasma.ghb.fh-furtwangen.de
+# prism.gatech.edu/~gt7545a
+# quake.kunani.com
+# quiknet.com/~vinny
+# sci.fi/~solio
+# sirius.ac.upc.es/~jpolo
+# skull-dragoons.com
+# spellboundmedia.com
+# stgaming.com
+# surf.to/vop
+# thecrafter.com/TG
+# ttlhost.com/NATO
+# user.mc.net/~strob
+# w3.one.net/~jkirsch
+# worldmerchant.com/10Inches_Deep
+# xgraphix.com/4q
+# xoom.com/KasaNova
+# xta.com/kfc
+
+
+
+# massive (to 2001 or something)
+# macquakeinfinity.com
+# aqua.macquakeinfinity.com
+# armoury.macquakeinfinity.com
+# fagz.macquakeinfinity.com
+# ftp.macquakeinfinity.com
+# gqt.macquakeinfinity.com
+# lan.macquakeinfinity.com
+# mqtn.macquakeinfinity.com
+# numb.macquakeinfinity.com
+# railgun.macquakeinfinity.com
+# skillz.macquakeinfinity.com
+# solo.macquakeinfinity.com
+# macland.macquakeinfinity.com
+
+# botepidemic.com
+# quake.crimea.ua
+
+# planetquake.com/quake
+# planetquake.com/news
+# wsb.poznan.pl/~pawel/q
+
+# 1998 -> 2001
+# quake3world.com
+# q3center.com
+# bluesnews.com
+# shugashack.com
+# fragzone.se
+# 3dgamers.com/games/quake3arena/downloads
+# actionxtreme.com
+# stomped.com
+# planetquake.com
+
+quakemecca.simplenet.com
+quakemania.com
+gamesmania.com/common/quake
+web.ukonline.co.uk/Members/jc.burton
+web.ukonline.co.uk/jc.burton
+quakehole.com
+
+meccaworld.com
+gamesmania.com

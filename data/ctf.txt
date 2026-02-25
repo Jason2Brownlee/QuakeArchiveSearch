@@ -1,0 +1,57 @@
+# ctf
+# mindlink.net/zoid
+# brawl.mindlink.net
+# brawl.ecom.net
+# threewave.planetquake.com
+# planetquake.com/threewave
+# quake.threewave.com
+# quake2.threewave.com
+# quake3.threewave.com
+# planetquake.com/quakex
+# quakex.planetquake.com
+# captured.com/threewave
+
+# too big
+# threewave.com
+# captured.com
+
+# ctf mirrors
+# ftp.firestarter.org
+# ftp.cdrom.com/pub/idgames2/quakec/teamplay/ctf
+# redwood.gatsbyhouse.com/files
+# aries.neca.com/~zoid
+# cl.ais.net/orion
+# gatsbyhouse.com/quake
+# ftp.vision.net.au/pub/quake_stuff
+# home.interpac.net/pub/quake
+# bluesnews.com/pub/quakec/teamplay
+# nuqneh.org
+# ice.net/~vortex/darkmessiah
+# ftp.pathfinder.com/pub/quake
+# lucci.in-net.com/files
+# passagen.se/snack/quake
+
+# ctf news
+# academy.xenocide.org
+# columbia.edu/~dbw13
+# logic-net.com/users/rotte
+# hem.passagen.se/akew
+# members.iglou.com/paco
+# users.twave.net/sean
+# imaxx.net/~dakota
+# db3broadband.com/~dakota
+# charlottesweb.net/ctfnews
+
+
+# clans
+# nuc.net/rangers
+# rangers.planetquake.com
+# revco.stomped.com
+# fraservalley.com/2design/dr
+# mpog.com/clanring
+# ctfnews.com
+
+# other
+# arch3r.com/~quake
+# canvasnet.com/quake
+captured.com/academy

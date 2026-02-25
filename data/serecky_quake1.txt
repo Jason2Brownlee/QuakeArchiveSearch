@@ -1,0 +1,66 @@
+# searching for serecky
+
+# GNO Good Night Out (2003)
+# -------------------
+
+# https://www.moddb.com/mods/good-night-out/news/ive-uploaded-a-zip-for-peeps-to-test
+# http://spike.corecodec.org/gno/gno.zip
+# https://web.archive.org/web/20031220131533/http://spike.corecodec.org/gno/
+
+spike.corecodec.org/gno
+spike.corecodec.org
+# corecodec.org
+
+
+# Stalker (2007) cheapy (leileilol? na, he's a collector)
+# cheapalert@planetquake.com
+# cheapalert@yahoo.com
+# -------------------
+
+# stalker090b.zip
+# stk09b.zip
+# stalker1.zip
+# stk8a.zip
+
+# FILES
+# https://archive.org/download/Fileplanet_ftp1_072002/Fileplanet_ftp1_072002.tar/072002/stalker090b.zip
+# http://www.fileplanet.com/dl.aspx?/planetquake/gargoyle/stalker090b.zip
+# http://www.planetquake.com/gargoyle/stalkerchanges.txt
+# http://www.fileplanet.com/dl.aspx?/planetquake/gargoyle/stalker1.zip
+# https://archive.org/download/Fileplanet_ftp1_action/fileplanet_ftp1_action.tar/action/quake/modifications/stk8a.zip
+# http://www.geocities.com/magoffinsb/stk08a.zip
+
+# https://www.moddb.com/mods/stalker
+# Fragfiles.org
+# http://www.fragfiles.org/~cheapy/stalker
+
+# leads:
+# https://web.archive.org/web/20030821100136/http://www.fileplanet.com/files/110000/110343.shtml
+# https://forums.insideqc.com/viewtopic.php?f=1&t=5&p=53
+# https://forums.insideqc.com/viewtopic.php?p=9360&hilit=cheapy#p9360
+# http://mancubus.net/~cheapy/lostmods/2000/fqreal.zip
+# http://leileilol.mancubus.net/leiware/e107_files/downloads/lm/2000/fqreal.zip
+# https://www.insideqc.com/qctut/qctut-76.shtml
+# https://www.nz1.icculus.org/projects/alienarena/sv_downloadurl/arena/players/firebrand/readme.txt
+# https://web.archive.org/web/20021202172348/http://www.fileplanet.com/files/110000/110343.shtml
+# https://www.quaddicted.com/stuff/fileplanet/fileplanet.php?filename=stalker
+# http://www.geocities.com/magoffinsb/projects.htm
+# https://web.archive.org/web/20050206213800/http://www.fileplanet.com/dl.aspx?/planetquake/gargoyle/stalker1.zip
+# https://web.archive.org/web/20050211011503/http://www.planetquake.com/gargoyle/stalkerchanges.txt
+
+gargoyle.planetquake.gamespy.com
+planetquake.com/gargoyle
+leileilol.mancubus.net
+
+fragfiles.org/~cheapy
+gargoyle.moddb.com
+geocities.com/magoffinsb
+mancubus.net/~cheapy
+planetgargoyle.com
+cheapy.deathmask.net
+
+
+
+
+
+

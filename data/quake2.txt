@@ -1,0 +1,8 @@
+# websites to craw for quake2
+
+
+# linuxquake.com
+# quake2.com
+# quake2.stomped.com
+quake2.co.uk
+planetquake.com/eclipse
