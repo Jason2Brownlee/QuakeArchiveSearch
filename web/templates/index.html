@@ -139,7 +139,7 @@
 
     {% if results %}
         <h2>Search Results:</h2>
-        Limited to 1,000 results.
+        <p>Showing <strong>{{ result_count }}</strong> result{{ 's' if result_count != 1 else '' }} for <strong>{{ search_query }}</strong>{% if search_time is defined %} ({{ search_time }}s){% endif %}{% if result_count >= 1000 %} — limited to 1,000 results{% endif %}</p>
         <button onclick="copyAllUrls()">Copy All URLs</button>
 
         <table>

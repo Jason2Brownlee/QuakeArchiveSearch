@@ -8,20 +8,21 @@ from pathlib import Path
 
 # CONFIGURATION - Edit these paths
 WANTED_FILES_LIST = [
-    '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
+    '/Users/jasonb/Development/Quake/Quake2BotArchive/research/wishlist.txt',
     # smaller
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/viktor_wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_ninja_wishlist.txt',
-    '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/viktor_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_ninja_wishlist.txt',
+    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt',
     # Add more wanted files txt files here
 ]
 

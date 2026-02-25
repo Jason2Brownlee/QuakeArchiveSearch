@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template
 import sqlite3
+import time
 from urllib.parse import quote_plus
 
 DATABASE = '../data/quake_website.db'
@@ -31,6 +32,8 @@ def get_total_file_url_count():
 def index():
     results = []
     search_query = ""
+    result_count = 0
+    search_time = None
     total_file_urls = get_total_file_url_count()
 
     if request.method == 'POST':
@@ -49,13 +52,16 @@ def index():
             params = ('%' + sql_search_query + '%',)
 
             # Execute the query
+            start_time = time.time()
             cursor.execute(sql_query, params)
             results = cursor.fetchall()
+            search_time = round(time.time() - start_time, 3)
+            result_count = len(results)
 
             # Close the connection
             conn.close()
 
-    return render_template('index.html', results=results, search_query=search_query, total_file_urls=total_file_urls)
+    return render_template('index.html', results=results, search_query=search_query, total_file_urls=total_file_urls, result_count=result_count, search_time=search_time)
 
 # Run the Flask app
 if __name__ == '__main__':

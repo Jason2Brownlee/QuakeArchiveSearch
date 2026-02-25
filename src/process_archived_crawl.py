@@ -9,6 +9,17 @@ import json
 import sqlite3
 
 
+
+quake_websites_file = '../data/quake_rally.txt'
+year_cutoff = 2001
+
+# quake_websites_file = '../data/quake2_bots.txt'
+# year_cutoff = 2001
+# year_cutoff = 2025
+
+# quake_websites_file = '../data/quake_team_fortress.txt'
+# year_cutoff = 2010
+
 # quake_websites_file = '../data/serecky_quake1.txt'
 # year_cutoff = 2020
 
@@ -19,7 +30,7 @@ import sqlite3
 # year_cutoff = 2010
 
 quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
-year_cutoff = 1998
+year_cutoff = 2001
 
 # quake_websites_file = '../data/navy_seals.txt'
 # year_cutoff = 2010
@@ -90,6 +101,8 @@ def fetch_wayback_urls(base_url, year_cutoff, website_temp_dir):
         'to': str(year_cutoff),
         'collapse': 'digest'  # This helps avoid duplicates
     }
+    # rate limit the download
+    rate_limited()
     response = requests.get(WAYBACK_API_URL, params=params)
     response.raise_for_status()
     data = response.json()
@@ -209,7 +222,7 @@ def download_and_parse_url(timestamp, original_url, website_temp_dir):
         # NO, because we may miss pages of urls on the restart
         # just re-insert everything...
     else:
-        # Rate limit downloads
+        # rate limit the download
         rate_limited()
         # Download the content
         response = requests.get(wayback_url)

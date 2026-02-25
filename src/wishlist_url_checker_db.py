@@ -51,29 +51,35 @@ def main(pairs):
         for filename in sorted(filename_wishlist):
             matching_urls = set()
 
-            # Construct the SQL query to find matching file URLs
-            query = """
-            SELECT file_url FROM File_URL
-            WHERE file_url LIKE ?
-            """
+            for prefix in ['/', '=']:
 
-            # Execute the query for the current filename
-            like_pattern = f'%/{filename}'
-            cursor.execute(query, (like_pattern,))
+                # Construct the SQL query to find matching file URLs
+                query = """
+                SELECT file_url FROM File_URL
+                WHERE file_url LIKE ?
+                """
 
-            # Fetch all results for this filename
-            results = cursor.fetchall()
+                # Execute the query for the current filename
+                ### don't want all the trailing stuff all the time, just sometimes as a sanity check
+                # like_pattern = f'%{prefix}{filename}%'
+                like_pattern = f'%{prefix}{filename}'
 
-            # Check each result if it is not in the URL wishlist
-            if PUBLIC:
-                for row in results:
-                    file_url = row[0]
-                    matching_urls.add(file_url)
-            else:
-                for row in results:
-                    file_url = row[0]
-                    if file_url not in url_wishlist and file_url not in exclusions:
+                # like_pattern = f'%{filename}'
+                cursor.execute(query, (like_pattern,))
+
+                # Fetch all results for this filename
+                results = cursor.fetchall()
+
+                # Check each result if it is not in the URL wishlist
+                if PUBLIC:
+                    for row in results:
+                        file_url = row[0]
                         matching_urls.add(file_url)
+                else:
+                    for row in results:
+                        file_url = row[0]
+                        if file_url not in url_wishlist and file_url not in exclusions:
+                            matching_urls.add(file_url)
 
             # print everything for a public result
             if PUBLIC:
@@ -122,42 +128,51 @@ if __name__ == '__main__':
 
 
 # Quake 1
-            ['QuakeOfficialArchive',
-             '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
-              EXCLUSIONS],
-
-# Quake 1 Mods
-              ['QuakeNavySeals',
-              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
-              '/Users/jasonb/Development/Quake/QuakeNavySeals/research/exclusions.txt'],
-            ['ThreeWaveCTF',
-              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
-              EXCLUSIONS],
-            ['TeamFortressQuakeArchive',
-              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist_urls.txt',
-              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
-              EXCLUSIONS],
-
+            # ['QuakeOfficialArchive',
+            #  '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
+            #   EXCLUSIONS],
+            # ['QuakeNavySeals',
+            #   '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
+            #   '/Users/jasonb/Development/Quake/QuakeNavySeals/research/exclusions.txt'],
+            # ['ThreeWaveCTF',
+            #   '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
+            #   EXCLUSIONS],
+            # ['TeamFortressQuakeArchive',
+            #   '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist_urls.txt',
+            #   '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
+            #   EXCLUSIONS],
             # ['QuakeBotArchive',
             #  '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt',
             #  '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
             #   EXCLUSIONS],
+            ['QuakeRallyArchive',
+             '/Users/jasonb/Development/Quake/QuakeRallyArchive/research/wishlist_urls.txt',
+             '/Users/jasonb/Development/Quake/QuakeRallyArchive/research/wishlist.txt',
+              EXCLUSIONS],
+            ['QuakeCommandArchive',
+             '/Users/jasonb/Development/Quake/QuakeCommandArchive/research/wishlist_urls.txt',
+             '/Users/jasonb/Development/Quake/QuakeCommandArchive/research/wishlist.txt',
+              EXCLUSIONS],
 
 # Quake 2
-            ['Quake2OfficialArchive',
-             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
-             '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/exclusions.txt'],
+            # ['Quake2OfficialArchive',
+            #  '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
+            #  '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/exclusions.txt'],
+            # ['Quake2BotArchive',
+            #  '/Users/jasonb/Development/Quake/Quake2BotArchive/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/Quake2BotArchive/research/wishlist.txt',
+            #  '/Users/jasonb/Development/Quake/Quake2BotArchive/research/exclusions.txt'],
 
 # Quake3
 
-            ['Quake3OfficialArchive',
-             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
-             '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/exclusions.txt'],
+            # ['Quake3OfficialArchive',
+            #  '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
+            #  '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/exclusions.txt'],
 
             # ['Q3TestAddons',
             #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist_urls.txt',

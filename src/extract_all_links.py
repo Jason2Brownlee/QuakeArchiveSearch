@@ -53,7 +53,18 @@ import re
 # TARGET_URL = 'http://www.linuxquake.com/cgi-bin/getmirrors/getmirrors?network=q3mirrors&file=linuxquake3.tar.gz&description=Quake+III+update'
 # TARGET_URL = 'http://www.erinyes.com/tf/links.html'
 # TARGET_URL ='quakequakequake.com/links.htm'
-TARGET_URL = 'http://www.quakesweden.com/links.asp'
+# TARGET_URL = 'http://www.quakesweden.com/links.asp'
+# TARGET_URL = 'http://www.quake.orc.ru/content_quakeworld.html'
+# TARGET_URL = 'quake.cityline.ru/links.html'
+# TARGET_URL = 'quake.demi.spb.ru/links.htm'
+# TARGET_URL = 'http://quake.ccl.ru/down_link.htm'
+# TARGET_URL = 'http://www.quake.convey.ru/links.html.ru'
+# TARGET_URL = 'http://www.quake.etel.ru/b100/links.html'
+# TARGET_URL = 'http://www.quake.etel.ru/links.htm'
+# TARGET_URL = 'http://www.quake.etel.ru/banzaj/links.html'
+# TARGET_URL = 'http://faxnet.etel.ru/FBI/links.htm'
+# TARGET_URL = TARGET_URL = 'http://www.nsk.su/Links/game.html'
+TARGET_URL = 'http://jb.quake2.co.uk/links.html'
 
 
 
