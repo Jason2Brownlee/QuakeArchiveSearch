@@ -1,0 +1,50 @@
+# Human Debris Wishlist
+# https://github.com/Jason2Brownlee/HumanDebrisArchive
+
+# q3 maps
+bdaleq3.zip
+bdale_beta.zip
+dfa.zip
+railme.zip
+rocketme.zip
+dnc.zip
+2kool.zip
+
+# q3 mods
+sog1.1.zip
+I-Love-Rockets1.1.zip
+osk1.1.zip
+telefrag.zip
+
+# q3 mods, alt names
+sog[1.1].zip
+I-Love-Rockets[1.1].zip
+q3pg[1.0].zip
+osk[1.1].zip
+
+# q3pg
+q3pg1.0.zip
+cyber1.zip
+led-platmaps.zip
+q3-2d-dm1.zip
+telefrag.zip
+
+# unreal arena
+ut2q3(betav0.4).zip
+ut2q3-music(betav0.4).zip
+ut2q3_flareshader_fix.zip
+
+# java
+ServerQueryTool.zip
+ServerBrowserTool.zip
+FunName.zip
+
+# hl
+bdale.zip
+dfa.zip
+elmo.zip
+
+# unreal
+cow.zip
+
+

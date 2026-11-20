@@ -1,0 +1,13 @@
+# Super Quake Wishlist
+# https://gist.github.com/Jason2Brownlee/52cbf76fcf628f705f44c627dfa80f49
+
+# binaries
+sq_v10.zip
+sq_v12.zip
+
+# source
+sqsrcv10.zip
+sqsrcv12.zip
+
+# other (too common)
+## progs.zip

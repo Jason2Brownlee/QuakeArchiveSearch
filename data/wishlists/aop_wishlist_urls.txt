@@ -25,6 +25,8 @@ http://www.gamers.org/pub/idgames2/planetquake/impel/abyss-mac-demo.hqx
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/impel/abyss-mac-demo.hqx
 https://www.quaddicted.com/files/idgames2/planetquake/impel/abyss-mac-demo.hqx
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/impel/abyss-mac-demo.hqx
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/impel/abyss-mac-demo.hqx
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/impel/abyss-mac-demo.hqx
 # abyss-tabs.exe
 http://ftp.sunet.se/idgames2/planetquake/impel/abyss-tabs.exe
 http://asp.planetquake.com/dl/dl.asp?impel/abyss-tabs.exe
@@ -94,6 +96,9 @@ http://www.gamers.org/pub/idgames2/planetquake/impel/abyss-x86-demo.exe
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/impel/abyss-x86-demo.exe
 https://www.quaddicted.com/files/idgames2/planetquake/impel/abyss-x86-demo.exe
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/impel/abyss-x86-demo.exe
+http://mirrors.telepac.pt/pub/idgames2/planetquake/impel/abyss-x86-demo.exe
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/impel/abyss-x86-demo.exe
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/impel/abyss-x86-demo.exe
 # abyss-x86-demo.txt
 http://ftp.3dgamers.com/pub/3daction/quake/missions/abyss-x86-demo.txt
 http://www.3dgamers.com/dl/games/quake/Missions/abyss-x86-demo.txt
@@ -126,6 +131,9 @@ http://www.gamers.org/pub/mirrors/ftp.planetquake.com/impel/abyss-x86-up107.exe
 https://www.quaddicted.com/files/idgames2/planetquake/impel/abyss-x86-up107.exe
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/impel/abyss-x86-up107.exe
 https://www.quake-info-pool.net/files/addons/aop/abyss-x86-up107.exe
+http://mirrors.telepac.pt/pub/idgames2/planetquake/impel/abyss-x86-up107.exe
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/impel/abyss-x86-up107.exe
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/impel/abyss-x86-up107.exe
 # abyss-x86-up109.exe
 http://ftp.sunet.se/idgames2/planetquake/impel/abyss-x86-up109.exe
 ftp://3dgamers.in-span.net/pub/3dgamers/games/quake/Missions/abyss-x86-up109.exe
@@ -158,6 +166,9 @@ http://www.gamers.org/pub/idgames2/planetquake/impel/abyss-x86-up109.exe
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/impel/abyss-x86-up109.exe
 https://www.quaddicted.com/files/idgames2/planetquake/impel/abyss-x86-up109.exe
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/impel/abyss-x86-up109.exe
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/impel/abyss-x86-up109.exe
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/impel/abyss-x86-up109.exe
+http://www.task.gda.pl/pub/games/3dfiles/patches/abyss-x86-up109.exe
 # abyss-x86-up109.txt
 http://ftp.3dgamers.com/pub/3daction/quake/missions/abyss-x86-up109.txt
 http://www.3dgamers.com/dl/games/quake/Missions/abyss-x86-up109.txt
@@ -232,6 +243,10 @@ http://www.gamers.org/pub/idgames2/planetquake/jvox/AoP_Demo.sit
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/jvox/AoP_Demo.sit
 https://www.quaddicted.com/files/idgames2/planetquake/jvox/AoP_Demo.sit
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/jvox/AoP_Demo.sit
+http://gamers.org/pub/games/idgames2/planetquake/jvox/AoP_Demo.sit
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/jvox/AoP_Demo.sit
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/jvox/AoP_Demo.sit
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/jvox/aop_demo.sit
 # aop_demo_installer.hqx
 http://download.instantaccess.com/AOP_Demo_Installer.hqx
 # aop_litvis.zip
@@ -256,6 +271,8 @@ http://www.gamers.org/pub/idgames2/partial_conversions/aopdemo.exe
 http://www.instantaccess.com/products.dir/aop/aopdemo.exe
 http://www.vrgames.net/psychonews/files/AOPDEMO.EXE
 https://www.quaddicted.com/files/idgames2/partial_conversions/aopdemo.exe
+ftp://ftp.quipo.it/pub/quake/commercial/aop/aopdemo.exe
+http://ftp.datacomm.ch/idgames2/partial_conversions/aopdemo.exe
 # aopdemo.txt
 http://bluesnews.gameaholic.com/idgames/partial_conversions/aopdemo.txt
 http://ftp.gamers.org/pub/games/idgames2/partial_conversions/aopdemo.txt
@@ -288,6 +305,8 @@ http://www.fileaholic.com/idgames/partial_conversions/aopdemo.txt
 http://www.gamers.org/pub/games/quake/partial_conversions/aopdemo.txt
 http://www.gamers.org/pub/idgames2/partial_conversions/aopdemo.txt
 https://www.quaddicted.com/files/idgames2/partial_conversions/aopdemo.txt
+http://ftp.datacomm.ch/idgames2/partial_conversions/aopdemo.txt
+http://www.task.gda.pl/pub/games/idgames2/partial_conversions/aopdemo.txt
 # aopdemoinstaller
 http://www.vrgames.net/psychonews/files/AOPDemoInstaller
 # aopfm_v2.zip
@@ -315,6 +334,7 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/fatty/ao
 http://sunsite.org.uk/packages/idgames2/planetquake/fatty/aopv105a.zip
 http://www.planetquake.com/impel/cdrom/aopv105a.zip
 https://www.quake-info-pool.net/files/addons/aop/aopv105a.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/fatty/aopv105a.zip
 # aopv105b.zip
 ftp://ftp.barrysworld.com/Quake1/Mods/Aop/aopv105b.zip
 ftp://ftp.barrysworld.com/quake1/mods/aop/aopv105b.zip
@@ -326,6 +346,8 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/fatty/ao
 http://sunsite.org.uk/packages/idgames2/planetquake/fatty/aopv105b.zip
 http://www.planetquake.com/impel/cdrom/aopv105b.zip
 https://www.quake-info-pool.net/files/addons/aop/aopv105b.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/fatty/aopv105b.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/fatty/aopv105b.zip
 # aopv105c.zip
 ftp://ftp.barrysworld.com/Quake1/Mods/Aop/aopv105c.zip
 ftp://ftp.barrysworld.com/pub/games/quake/mods/aop/aopv105c.zip
@@ -338,6 +360,8 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/fatty/ao
 http://sunsite.org.uk/packages/idgames2/planetquake/fatty/aopv105c.zip
 http://www.planetquake.com/impel/cdrom/aopv105c.zip
 https://www.quake-info-pool.net/files/addons/aop/aopv105c.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/fatty/aopv105c.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/fatty/aopv105c.zip
 # aopv105d.zip
 ftp://ftp.cdrom.com/pub/planetquake/impel/aopv105d.zip
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/fatty/aopv105d.zip
@@ -347,6 +371,8 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/fatty/ao
 http://sunsite.org.uk/packages/idgames2/planetquake/fatty/aopv105d.zip
 http://www.planetquake.com/impel/cdrom/aopv105d.zip
 https://www.quake-info-pool.net/files/addons/aop/aopv105d.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/fatty/aopv105d.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/fatty/aopv105d.zip
 # psychoabyssdm.exe
 http://ftp.sunet.se/idgames2/planetquake/impel/psychoabyssdm.exe
 http://asp.planetquake.com/dl/dl.asp?impel/psychoabyssdm.exe
@@ -371,6 +397,8 @@ http://www.gamers.org/pub/idgames2/planetquake/impel/psychoabyssdm.exe
 http://www.gamers.org/pub/mirrors/ftp.planetquake.com/impel/psychoabyssdm.exe
 https://www.quaddicted.com/files/idgames2/planetquake/impel/psychoabyssdm.exe
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/impel/psychoabyssdm.exe
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/impel/psychoabyssdm.exe
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/impel/psychoabyssdm.exe
 # AOP%20-%20The%20Final%20Mission%20v2.0%20%20extended_20140623%20%20%2B%20source%20fixed.rar
 http://www.quaketastic.com/files/single_player/mods/AOP%20-%20The%20Final%20Mission%20v2.0%20%20extended_20140623%20%20%2B%20source%20fixed.rar
 https://www.quaddicted.com/webarchive/www.quaketastic.com/files/single_player/mods/AOP%20-%20The%20Final%20Mission%20v2.0%20%20extended_20140623%20%20%2B%20source%20fixed.rar

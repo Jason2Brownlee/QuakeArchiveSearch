@@ -1,0 +1,27 @@
+# super quake
+
+# homepage
+umr.edu/~nirving
+planetquake.com/warbird
+planetquake.gamespy.com/warbird
+hosted.planetquake.gamespy.com/warbird
+warbird.planetquake.gamespy.com
+quakeworld.com/warbird
+quakewiki.net/archives/warbird
+
+# mirrors
+freshmeat.netc.pt/pub/planetquake/warbird
+ftp.netc.pt/pub/planetquake/warbird
+ftp.planetquake.com/warbird
+ftp.sunet.se/idgames2/planetquake/warbird
+ftp.sunet.se/planetquake/warbird
+ftp.sunet.se/pub/games/PC/idgames2/planetquake/warbird
+ftp.task.gda.pl/pub/games/planetquake/warbird
+ftp.sunet.se/pub/pc/games/idgames2/planetquake/warbird
+
+# downloads
+dl.fileplanet.com/dl/dl.asp?warbird
+fileplanet.com/dl.aspx?warbird
+
+# 2008
+hosted.planetquake.gamespy.com/quake1/features/motw

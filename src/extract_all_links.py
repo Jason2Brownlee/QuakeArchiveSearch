@@ -64,8 +64,9 @@ import re
 # TARGET_URL = 'http://www.quake.etel.ru/banzaj/links.html'
 # TARGET_URL = 'http://faxnet.etel.ru/FBI/links.htm'
 # TARGET_URL = TARGET_URL = 'http://www.nsk.su/Links/game.html'
-TARGET_URL = 'http://jb.quake2.co.uk/links.html'
-
+# TARGET_URL = 'http://jb.quake2.co.uk/links.html'
+# TARGET_URL = 'http://action.telefragged.com/links.shtml'
+TARGET_URL = "https://tastyspleen.net/userpages.html"
 
 
 import requests

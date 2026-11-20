@@ -1,0 +1,4 @@
+# Good Night Out (GNO) wishlist
+# https://gist.github.com/Jason2Brownlee/41c408fe9cb9588910e81047ad4794fd
+
+gno.zip

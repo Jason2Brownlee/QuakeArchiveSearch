@@ -1,0 +1,22 @@
+# quake matrix wishlist urls
+# https://gist.github.com/Jason2Brownlee/c4542f6142813a2489e2506f2343229d
+
+
+# homepages
+planetquake.com/qmatrix
+qmatrix.planetquake.gamespy.com
+dynamic.gamespy.com/~qmatrix
+dynamic3.gamespy.com/~qmatrix
+dynamic4.gamespy.com/~qmatrix
+dynamic6.gamespy.com/~qmatrix
+quakewiki.net/archives/qmatrix
+
+# file locations
+ftp.edome.net/online/clientit
+quake-1.com/quakec-gallery
+quaddicted.com/files/mirrors/fileplanet/planetquake/qmatrix
+fileplanet.com/dl/dl.asp?/planetquake/qmatrix
+xfer2.fileplanet.com/planetquake/qmatrix
+
+# author homepages
+pages.infinit.net/quakemap

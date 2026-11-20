@@ -1,0 +1,29 @@
+# Super Quake Wishlist URLs
+# https://gist.github.com/Jason2Brownlee/52cbf76fcf628f705f44c627dfa80f49
+
+
+# sq_v10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake1/sq_v10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/sq_v10.zip
+http://www.fileplanet.com/dl.aspx?warbird/sq_v10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake/sq_v10.zip
+http://www.fileplanet.com/dl/dl.asp?warbird/sq_v10.zip
+# sq_v12.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake1/sq_v12.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake/sq_v12.zip
+http://www.fileplanet.com/dl/dl.asp?warbird/squake1/sq_v12.zip
+
+
+# sqsrcv10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake1/sqsrcv10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake/sqsrcv10.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/sqsrcv10.zip
+http://www.fileplanet.com/dl/dl.asp?warbird/sqsrcv10.zip
+# sqsrcv12.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake1/sqsrcv12.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake/sqsrcv12.zip
+http://www.fileplanet.com/dl/dl.asp?warbird/squake1/sqsrcv12.zip
+
+
+# progs.zip
+http://dl.fileplanet.com/dl/dl.asp?warbird/squake1/progs.zip

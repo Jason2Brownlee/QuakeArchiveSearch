@@ -82,6 +82,7 @@ https://www.quaddicted.com/files/idgames2/planetquake/thehuge/steve.zip
 https://www.quaddicted.com/files/mirrors/ftp.planetquake
 https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/thehuge/steve.zip
 http://privat.schlund.de/I/Intersurf5/steve.zip
+http://www.planetquake.com/dl/dl.asp?thehuge/steve.zip
 # SPELLING ERRORS IN URLS e.g. "blue" news
 # Quake-1_08_2.sit
 http://www.bluenews.com/files/macintosh/Quake-1_08_2.sit

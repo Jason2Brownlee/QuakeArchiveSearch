@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 """
 File Path Matcher - Find wanted files in file path lists
 """
@@ -9,31 +9,68 @@ from pathlib import Path
 # CONFIGURATION - Edit these paths
 WANTED_FILES_LIST = [
     # '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
-    # '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
-    # '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
+    '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
+    '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
+    '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
     # '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
     # '/Users/jasonb/Development/Quake/Quake2OfficialArchive/research/wishlist.txt',
     # '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
-    '/Users/jasonb/Development/Quake/Quake2BotArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/Quake2BotArchive/research/wishlist.txt',
+    '/Users/jasonb/Development/Quake/QuakeRallyArchive/research/wishlist.txt',
+    # '/Users/jasonb/Development/Quake/ActionQuake2Archive/research/wishlist.txt',
     # smaller
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/viktor_wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/aop_wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_fantasy_wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_matrix_wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/marco_ninja_wishlist.txt',
-    # '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/quaddicted_wishlist.txt',
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/aop_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/fantasy_quake_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/gno_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/humandebris_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/matrix_quake_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/ninja_quake_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/oxymoron5_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/quaddicted_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/stalker_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/super_quake_wishlist.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/viktor_wishlist.txt",
     # Add more wanted files txt files here
 ]
 
 FILE_PATHS_LIST = [
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-cheating-zip.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-killer-cds.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_fileplanet.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-cloud-file-crawl-2025.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_all_quake_cds.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_quaddicted.txt",
-    # Add more file paths txt files here
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-cheating-zip.txt",
+    # ## "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-killer-cds.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_fileplanet.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-cloud-file-crawl-2025.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_all_quake_cds.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_quaddicted.txt",
+
+    # custom internet archive
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/all_files.txt",
+    # tastyspleen
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_badbrent_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_barton_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cheaters_r_scum_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_deathstalker_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_gator_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_gouki_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_huwahumph_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_inhuman_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_jdolan_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_realistic_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_reflex_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_sofiene_tastyspleen_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_tastyspleen_net_quake_downloads.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_towlie_tastyspleen_net.txt",
+    # # archives
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_maddes_net_temp_jason_brownlee.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_aq2world_s3_amazonaws_com_index_html_files.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_clan_rum_org_files.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quaketastic_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_shub_hub_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_dukeworld_com.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
+    # # retro
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
+
+    # add more file lists here....
 ]
 
 #!/usr/bin/env python3
@@ -90,7 +127,7 @@ def process_filepath_file(filepath_file, wanted_files):
                     search_wanted = wanted_file.lower()
 
                     if search_wanted in search_line:
-                        print(f"HIT: '{wanted_file}' found in: {filepath}")
+                        print(f"\t'{wanted_file}' found in: {filepath}")
                         hits_found += 1
                         break  # Found a match, no need to check other wanted files for this line
 
@@ -119,12 +156,13 @@ def main():
     total_hits = 0
 
     for filepath_file in FILE_PATHS_LIST:
-        print(f"\nProcessing: {filepath_file}")
+        filename = os.path.basename(filepath_file)
+        print(f"\nProcessing: {filename}")
 
         hits = process_filepath_file(filepath_file, wanted_files)
         total_hits += hits
         
-        print(f"Found {hits} hit(s) in {filepath_file}")
+        # print(f"Found {hits} hit(s) in {filepath_file}")
     
     print("=" * 50)
     print(f"Total hits found: {total_hits}")

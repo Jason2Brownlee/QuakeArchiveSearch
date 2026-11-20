@@ -2772,12 +2772,72 @@
 # stomped.com
 # planetquake.com
 
-quakemecca.simplenet.com
-quakemania.com
-gamesmania.com/common/quake
-web.ukonline.co.uk/Members/jc.burton
-web.ukonline.co.uk/jc.burton
-quakehole.com
+# au stuff
+# dd.networx.net.au
+# 210.0.2.183
+# compsoc.cs.latrobe.edu.au/~shogun
+# games.iinet.net.au/quake
+# major.lit.tas.edu.au/~connora
+# quake.wantree.com.au
+# wisdom.psinet.net.au/~stokfam
+# aone.net.au/quake
+# atnet.net.au/quake
+# backmeup.net.au/~quake
+# bluestar.com.au/ryan
+# ca.com.au/~sunnyval
+# canweb.net/~b2
+# # chariot.net.au
+# cs.mu.oz.au/~trd
+# griffon.com.au/qn
+# home.aone.net.au/askegg
+# magna.com.au/~guvi
+# multiplay.com.au
+# nex.net.au/users/buddykin
+# ocean.com.au/quake
+# omen.com.au/~synic
+# ozemail.com.au/~forager
+# ozemail.com.au/~twitcher
+# quakecentral.com
+# qzone.nf
+# ram.net.au/quake
+# senet.com.au/quake
+# southcom.com.au/~porky
+# tiga.com.au/QUAKE-ON
+# vision.net.au/games2/quake
+# vision.net.au/~chuck
+# wantree.com.au/~lrdbyron
+# wantree.com.au/~sdobbs
+# wantree.com.au/~weird
+# webnet.com.au/projects/quake
+# webraven.com.au/games/quake
 
-meccaworld.com
-gamesmania.com
+# quakemecca.simplenet.com
+# quakemania.com
+# gamesmania.com/common/quake
+# web.ukonline.co.uk/Members/jc.burton
+# web.ukonline.co.uk/jc.burton
+# quakehole.com
+# fishnet.net/~chriscon
+
+# meccaworld.com
+# gamesmania.com
+
+# ocrana.de
+# mime.ablecommerce.com
+# time2quake.com
+# uow.edu.au/~wstubbs
+# levelab.darknet.net
+# quake.perfect.co.uk
+# deconstruct.terrafusion.com
+# geocities.com/stone_lance
+# q3rally.com
+# members.gotnet.net/chaz
+# spel.passagen.se/quake
+
+# quake.zipworld.com.au
+# zipworld.com.au/quake
+# ipa.net/~tjtaylor
+
+angelfire.com/jazz/loko
+moddb.com/mods/loko-bot-and-megamod
+loko13.proboards26.com

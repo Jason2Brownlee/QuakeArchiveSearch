@@ -1,0 +1,165 @@
+# quake matrix wishlist urls
+# https://gist.github.com/Jason2Brownlee/c4542f6142813a2489e2506f2343229d
+
+# Matrix01.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix01.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/qmatrix/Matrix01.zip
+# Matrix02.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix02.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/qmatrix/Matrix02.zip
+http://www.planetquake.com/qmatrix/matrix02.zip
+# Matrix03.zip
+http://dl.fileplanet.com/dl/dl.asp?qmatrix/Matrix03.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix03.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/qmatrix/Matrix03.zip
+http://xfer2.fileplanet.com/planetquake/qmatrix/matrix03.zip
+# Matrix04.zip
+http://dl.fileplanet.com/dl/dl.asp?qmatrix/Matrix04.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix04.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/qmatrix/Matrix04.zip
+http://www.planetquake.com/qmatrix/matrix04.zip
+# Matrix05C_SRC.zip
+http://quake-1.com/quakec-gallery/Matrix05C_SRC.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix05C_SRC.zip
+http://www.quake-1.com/quakec-gallery/Matrix05C_SRC.zip
+https://www.quaddicted.com/files/mirrors/fileplanet/planetquake/qmatrix/matrix05c_SRC.zip
+# Matrix05C_UPD.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix05C_UPD.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/qmatrix/Matrix05C_UPD.zip
+# Matrix05Source.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix05Source.zip
+https://www.quaddicted.com/files/mirrors/fileplanet/planetquake/qmatrix/matrix05source.zip
+# matrix05.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix05.zip
+# matrix05C_FULL.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/Matrix05C_FULL.zip
+https://www.quaddicted.com/files/mirrors/fileplanet/planetquake/qmatrix/matrix05C_FULL.zip
+# q1-matrix05.zip
+ftp://ftp.edome.net/online/clientit/q1-matrix05.zip
+# qmatrix_src.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/qmatrix_src.zip
+http://www.planetquake.com/qmatrix/qmatrix_src.zip
+# qmrun.zip
+http://www.fileplanet.com/dl/dl.asp?/planetquake/qmatrix/qmrun.zip
+http://www.planetquake.com/qmatrix/qmrun.zip
+https://www.quaddicted.com/files/mirrors/fileplanet/planetquake/qmatrix/qmrun.zip
+# 04_UPDATE.zip
+http://www.planetquake.com/qmatrix/04_UPDATE.zip
+# matrix.zip
+http://www.planetquake.com/qmatrix/matrix.zip
+# matrix0_9.exe
+http://www.planetquake.com/qmatrix/matrix0_9.exe
+# qmatrix-fteqw-progs-fix.zip
+https://archive.org/download/qmatrix/Fixes/qmatrix-fteqw-progs-fix.zip
+
+
+# Exclusions (false positives)
+# ----------------------------
+# Matrix01.zip
+http://cd.textfiles.com/cleanhpvac/MATRIX01.ZIP
+
+# Matrix04.zip
+http://cd.textfiles.com/640swstudio/CLANG/MATRIX04.ZIP
+http://ftp.epix.net/pub/simtelnet/msdos/c/matrix04.zip
+http://ftp.jussieu.fr/pub/simtelnet/msdos/c/matrix04.zip
+http://ftp.jussieu.fr/pub2/simtelnet/msdos/c/matrix04.zip
+http://ftp.jussieu.fr/pub5/simtelnet/msdos/c/matrix04.zip
+http://ftp.jussieu.fr/pub6/simtelnet/msdos/c/matrix04.zip
+http://sunsite.org.uk/packages/simtelnet/msdos/c/matrix04.zip
+http://www.cdrom.com/pub/asme/C_LANG/MATRIX04.ZIP
+
+# matrix.zip
+ftp://ftp.cdrom.com/pub/3dfiles/screensavers/matrix.zip
+ftp://ftp.pc.com.pl/pliki/uzytki/screensaver/matrix.zip
+http://cd.textfiles.com/carousel344/026/MATRIX.ZIP
+http://cd.textfiles.com/ems/emspro1/CLPUTIL/MATRIX.ZIP
+http://dukeworld.duke4.net/2001-current/buildgames/sw/maps/a-m/matrix.zip
+http://dyd.net2000.pl/zip/matrix.zip
+http://ftp.chg.ru/pub/games/freegames/action/matrix.zip
+http://ftp.jussieu.fr/pub10/atari/Falcon/Utilities/matrix.zip
+http://ftp.jussieu.fr/pub2/atari/Falcon/Utilities/matrix.zip
+http://ftp.luth.se/pub/misc/motorola/dsp56k/matrix.zip
+http://ftp.planetmirror.com/pub/idgames2/levels/deathmatch/m-o/matrix.zip
+http://ftp.sunet.se/idgames2/levels/deathmatch/m-o/matrix.zip
+http://ftp.sunet.se/planetquake/planetkingpin/westside/matrix.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/newstuff/matrix.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/planetstarsiege/tribes/scripting/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/EXPERT/ham-radio/ibm/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/EXPERT/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/EXPERT/ham-radio/ibm/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/ham-radio/ibm/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/EMAIL/ham-radio/ibm/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/TEXT/EXPERT/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/TEXT/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/TEXT/ham-radio/ibm/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://ftp.tu-clausthal.de/pub/ham-radio/dsp/dsp-tms320/bbs/TMS320.Applications.Library/matrix.zip
+http://gamers.org/pub/games/idgames/themes/terrywads/matrix.zip
+http://geocities.com/ahmed_shalaby012/matrix.zip
+http://geocities.com/ahomdok/matrix.zip
+http://geocities.com/albatrosmetrosu/albatsoft/matrix.zip
+http://hem.passagen.se/c64linus/games/matrix.zip
+http://lonestar.texas.net/pub/winamp/resources/MATRIX.zip
+http://lonestar.texas.net/pub/winamp/resources/Matrix.zip
+http://lonestar.texas.net/pub/winamp/resources/matrix.zip
+http://mdqnet.net/ftp/matrix.zip
+http://members.nbci.com/internetfart/matrix.zip
+http://mirrors.syringanetworks.net/idgames/themes/terrywads/matrix.zip
+http://mirrors.telepac.pt/pub/3dfiles/screensavers/matrix.zip
+http://q3arena.xzone.pl/pub/download/x86/quakeworld/q3/misc/matrix.zip
+http://quake.crimea.ua/files/config/quake3/Matrix.zip
+http://quakerepo.net/deathmatch/maps/matrix.zip
+http://tux.telefragged.com/doomworld/immoralconduct/matrix.zip
+http://wcarchive.cdrom.com/pub/simtelnet/win95/grafmisc/Matrix.zip
+http://www.3ddownloads.com/doomworld/immoralconduct/matrix.zip
+http://www.algonet.se/~lars_and/download/matrix.zip
+http://www.angelfire.com/games2/mfanatic12586/matrix.zip
+http://www.angelfire.com/games5/3sl/files/matrix.zip
+http://www.angelfire.com/mt2/deathmatrix/files/matrix.zip
+http://www.fileplanet.com/redir.asp?file=15759&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/planetkingpin/westside/matrix.zip
+http://www.fileplanet.com/redir.asp?file=15759&archive=26595&url=ftp://fileplanet.ngi.it/fileplanet2/planetkingpin/westside/matrix.zip
+http://www.fileplanet.com/redir.asp?file=30755&archive=22592&url=http://w1.164.telia.com/~u16403132/files/matrix.zip
+http://www.fileplanet.com/redir.asp?file=48715&archive=22269&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/skins/matrix.zip
+http://www.fileplanet.com/redir.asp?file=48715&archive=23112&url=ftp://fileplanet.ngi.it/fileplanet/action/quake3/skins/matrix.zip
+http://www.fileplanet.com/redir.asp?file=48715&archive=26479&url=http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/skins/matrix.zip
+http://www.fileplanet.com/redir.asp?file=48715&archive=26604&url=ftp://208.186.102.207/action/quake3/skins/matrix.zip
+http://www.fortunecity.com/underworld/croft/245/matrix.zip
+http://www.fortunecity.com/underworld/evil/299/MyFiles/matrix.zip
+http://www.fortunecity.com/underworld/spaceinvader/1108/MATRIX.zip
+http://www.fortunecity.de/lachsack/karrikatur/375/advanced/progs/matrix.zip
+http://www.fortunecity.de/wolkenkratzer/japan/823/matrix.zip
+http://www.gamers.org/pub/games/idgames2/levels/deathmatch/m-o/matrix.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/planetkingpin/westside/matrix.zip
+http://www.gamers.org/pub/games/sw/maps/a-m/matrix.zip
+http://www.gamers.org/pub/idgames2/levels/deathmatch/m-o/matrix.zip
+http://www.gamers.org/pub/idgames2/planetquake/planetkingpin/westside/matrix.zip
+http://www.geocities.com/gweedodogg69/matrix.zip
+http://www.inlink.com/~dafek/ti-files/archive/82/matrix.zip
+http://www.livewire.com.au/pub/demos/code/effects/floor/matrix.zip
+http://www.mdqnet.net/cgi-bin/getfile.shtml?matrix/matrix.zip
+http://www.mdqnet.net/ftp/matrix/matrix.zip
+http://www.multiplayer.it/itaprogaming/docs%26tuts/3d%26effetti/matrix.zip
+http://www.q3arena.org.pl/mapy/matrix.zip
+http://www.task.gda.pl/pub/games/3dfiles/screensavers/matrix.zip
+http://www.telefragged.com/ftp/matrix.zip
+http://www.time2quake.com/filez/levels/deathmatch/m-o/matrix.zip
+http://www.xs4all.nl/~ed/files/matrix.zip
+https://ftp.fu-berlin.de/pc/games/idgames/themes/terrywads/matrix.zip
+https://ftpmirror1.infania.net/pub/idgames/themes/terrywads/matrix.zip
+https://www.gamers.org/pub/idgames/themes/terrywads/matrix.zip
+https://www.mmnt.net/db/0/0/ftp.mpoli.fi/unpacked/skene/parties/w97/pc-demo/matrix.zip
+https://www.quaddicted.com/files/idgames/themes/terrywads/matrix.zip
+https://www.quaddicted.com/files/idgames2/levels/deathmatch/m-o/matrix.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planetkingpin/westside/matrix.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planetstarsiege/tribes/scripting/matrix.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planetunreal/nalicity/utother/matrix.zip
+https://www.quaddicted.com/files/maps/multiplayer/matrix.zip
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/a-m/matrix.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetkingpin/westside/matrix.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetstarsiege/tribes/scripting/matrix.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetunreal/nalicity/utother/matrix.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/totalaq/quake2/actionq2/maps/matrix.zip
+https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/matrix.zip
+https://youfailit.net/pub/idgames/themes/terrywads/matrix.zip
+

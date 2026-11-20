@@ -1,0 +1,238 @@
+# Human Debris Wishlist URLs
+# https://github.com/Jason2Brownlee/HumanDebrisArchive
+
+# 2kool.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/2kool.zip
+http://members.xoom.com/chopperland/maps/2kool.zip
+http://public.planetmirror.com/pub/gameaholic/games/action/quake3/levels/deathmatch/2kool.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/2kool.zip
+http://jason.brownlee05.googlepages.com/2kool.zip
+# FunName.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/java/FunName.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/software/FunName.zip
+http://jason.brownlee05.googlepages.com/FunName.zip
+# I-Love-Rockets[1.1].zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/I-Love-Rockets[1.1].zip
+# ServerBrowserTool.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/java/ServerBrowserTool.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/software/ServerBrowserTool.zip
+http://jason.brownlee05.googlepages.com/ServerBrowserTool.zip
+# ServerQueryTool.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/java/ServerQueryTool.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/software/ServerQueryTool.zip
+http://jason.brownlee05.googlepages.com/ServerQueryTool.zip
+# bdale.zip
+http://public.planetmirror.com/pub/gameaholic/games/action/quake3/levels/deathmatch/bdale.zip
+http://www.geocities.com/TimesSquare/Tower/8163/zips/bdale.zip
+# bdale_beta.zip
+http://members.xoom.com/chopperland/maps/bdale_beta.zip
+# bdaleq3.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/bdaleq3.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/bdaleq3.zip
+http://jason.brownlee05.googlepages.com/bdaleq3.zip
+# cyber1.zip
+http://www.fileplanet.com/dl/dl.asp?meanarena/cyber1.zip
+http://www.fileplanet.com/hosteddl.aspx?meanarena/cyber1.zip
+http://www.planetquake.com/dl/dl.asp?meanarena/cyber1.zip
+# dfa.zip
+http://www.geocities.com/TimesSquare/Tower/8163/zips/dfa.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/dfa.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/dfa.zip
+http://jason.brownlee05.googlepages.com/dfa.zip
+# cow
+http://www.geocities.com/TimesSquare/Tower/8163/zips/cow.zip
+# dnc.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/dnc.zip
+http://members.xoom.com/chopperland/maps/dnc.zip
+http://public.planetmirror.com/pub/gameaholic/games/action/quake3/levels/deathmatch/dnc.zip
+http://www.fileplanet.com/redir.asp?file=37002&archive=22269&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/levels/dm/dnc.zip
+http://www.fileplanet.com/redir.asp?file=37002&archive=23067&url=ftp://fileplanet.gil.com.au/action/quake3/levels/dm/dnc.zip
+http://www.fileplanet.com/redir.asp?file=37002&archive=23067&url=http://fileplanet.gil.com.au/action/quake3/levels/dm/dnc.zip
+http://www.fileplanet.com/redir.asp?file=37002&archive=23112&url=ftp://ftp.ngi.it/fileplanet/action/quake3/levels/dm/dnc.zip
+http://www.fileplanet.com/redir.asp?file=37002&archive=23205&url=ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/levels/dm/dnc.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/dnc.zip
+http://ftp1.gamespy.com/pub/fileplanet/action/quake3/levels/dm/dnc.zip
+ftp://fileplanet.gil.com.au/action/quake3/levels/dm/dnc.zip
+http://fileplanet.gil.com.au/action/quake3/levels/dm/dnc.zip
+ftp://ftp.ngi.it/fileplanet/action/quake3/levels/dm/dnc.zip
+ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/levels/dm/dnc.zip
+http://jason.brownlee05.googlepages.com/dnc.zip
+# elmo.zip
+http://www.geocities.com/TimesSquare/Tower/8163/zips/elmo.zip
+# led-platmaps.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/maps/led-platmaps.zip
+# osk[1.1].zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/osk[1.1].zip
+# q3-2d-dm1.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/maps/q3-2d-dm1.zip
+# q3pg[1.0].zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/q3pg[1.0].zip
+# railme.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/railme.zip
+http://members.xoom.com/chopperland/maps/railme.zip
+http://public.planetmirror.com/pub/gameaholic/games/action/quake3/levels/deathmatch/railme.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/railme.zip
+http://jason.brownlee05.googlepages.com/railme.zip
+# rocketme.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/maps/rocketme.zip
+http://members.xoom.com/chopperland/maps/rocketme.zip
+http://public.planetmirror.com/pub/gameaholic/games/action/quake3/levels/deathmatch/rocketme.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/maps/rocketme.zip
+http://jason.brownlee05.googlepages.com/rocketme.zip
+# sog[1.1].zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/sog[1.1].zip
+# telefrag.zip
+http://dl.fileplanet.com/dl/dl.asp?humandebris/mods/telefrag.zip
+http://jason.brownlee05.googlepages.com/telefrag.zip
+# ut2q3(betav0.4).zip
+ftp://fileplanet.ngi.it/fileplanet2/meanarena/ut2q3(betav0.4).zip
+ftp://files.gameloft.com/files/cdrom/meanarena/ut2q3(betav0.4).zip
+ftp://ftp.liquidextremes.com/pub/cdrom/meanarena/ut2q3(betav0.4).zip
+http://ftp2.gamespy.com/pub/cdrom/meanarena/ut2q3(betav0.4).zip
+http://www.fileplanet.com/dl/dl.asp?meanarena/ut2q3(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/meanarena/ut2q3(betav0.4).zip&filestring=meanarena/ut2q3(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/meanarena/ut2q3(betav0.4).zip&filestring=meanarena/ut2q3(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=26595&url=ftp://fileplanet.ngi.it/fileplanet2/meanarena/ut2q3(betav0.4).zip&filestring=meanarena/ut2q3(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=26600&url=ftp://files.gameloft.com/files/cdrom/meanarena/ut2q3(betav0.4).zip&filestring=meanarena/ut2q3(betav0.4).zip
+http://www.planetquake.com/dl/dl.asp?meanarena/ut2q3(betav0.4).zip
+# ut2q3-music(betav0.4).zip
+ftp://ftp.liquidextremes.com/pub/cdrom/meanarena/ut2q3-music(betav0.4).zip
+http://ftp2.gamespy.com/pub/cdrom/meanarena/ut2q3-music(betav0.4).zip
+http://www.fileplanet.com/dl/dl.asp?meanarena/ut2q3-music(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/meanarena/ut2q3-music(betav0.4).zip&filestring=meanarena/ut2q3-music(betav0.4).zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/meanarena/ut2q3-music(betav0.4).zip&filestring=meanarena/ut2q3-music(betav0.4).zip
+http://www.planetquake.com/dl/dl.asp?meanarena/ut2q3-music(betav0.4).zip
+# ut2q3_flareshader_fix.zip
+http://www.planetquake.com/dl/dl.asp?meanarena/ut2q3_flareshader_fix.zip
+# I-Love-Rockets1.1.zip
+http://jason.brownlee05.googlepages.com/I-Love-Rockets1.1.zip
+# osk1.1.zip
+http://jason.brownlee05.googlepages.com/osk1.1.zip
+# q3pg1.0.zip
+http://jason.brownlee05.googlepages.com/q3pg1.0.zip
+# sog1.1.zip
+http://jason.brownlee05.googlepages.com/sog1.1.zip
+
+# Exclusions
+# -----------
+
+
+# FunName.zip
+http://ftp.sunet.se/idgames2/planetquake/ra2io/cdrom/funname.zip
+http://ftp.sunet.se/idgames2/planetquake/ra2io/funname.zip
+http://ftp.sunet.se/planetquake/ra2io/cdrom/funname.zip
+http://ftp.sunet.se/planetquake/ra2io/funname.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ra2io/cdrom/funname.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ra2io/funname.zip
+http://planetquake.com/thebind/funname.zip
+http://rqa.df.ru/files/funname.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ra2io/cdrom/funname.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ra2io/funname.zip
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/ra2io/funname.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ra2io/cdrom/funname.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ra2io/funname.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ra2io/cdrom/funname.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ra2io/funname.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/ra2io/funname.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ra2io/cdrom/funname.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ra2io/funname.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/ra2io/funname.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/ra2io/cdrom/funname.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/ra2io/funname.zip
+http://www.gamers.org/pub/idgames2/planetquake/ra2io/cdrom/funname.zip
+http://www.gamers.org/pub/idgames2/planetquake/ra2io/funname.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/ra2io/funname.zip
+http://www.moneychair.demon.co.uk/quake3/funname.zip
+http://www.planetquake.com/ra2io/cdrom/funname.zip
+http://www.quake3.baltnet.ru/arhive/features/funname.zip
+https://www.quaddicted.com/files/idgames2/planetquake/ra2io/cdrom/funname.zip
+https://www.quaddicted.com/files/idgames2/planetquake/ra2io/funname.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/ra2io/cdrom/funname.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/ra2io/funname.zip
+
+# cow.zip
+http://dukeworld.duke4.net/2001-current/maps/a-e/cow.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/cow.zip
+http://ftp.sunet.se/planetquake/planethalflife/logos/cow.zip
+http://ftp.sunet.se/planetquake/planethalflife/radium/maps/cow.zip
+http://ftp.sunet.se/planetquake/qwf/Vifem/cow.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/qwf/Vifem/cow.zip
+http://lonestar.texas.net/pub/winamp/resources/Cow.zip
+http://members.nbci.com/Kaznova/music/cow.zip
+http://members.nbci.com/_XMCM/cobras_cla/cow.zip
+http://www.angelfire.com/games5/deathfile/maps/cow/cow.zip
+http://www.cdrom.com/pub/demos/alpha/1996/c/cow.zip
+http://www.fileplanet.com/dl/dl.asp?planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=2&url=ftp://ftp.cdrom.com/pub/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=22265&url=http://ftp1.gamespy.com/pub/cdrom/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=22400&url=ftp://ftp.gigabell.net/pub/Games/idgames/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=22614&url=ftp://mirror.aarnet.edu.au/pub/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=22614&url=http://mirror.aarnet.edu.au/pub/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=23&url=ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=23&url=http://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=67&url=ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fileplanet.com/dl/redir.asp?file=20228&archive=67&url=http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/planethalflife/logos/cow.zip&filestring=planethalflife/logos/cow.zip
+http://www.fortunecity.com/underworld/arcadia/1084/cow.zip
+http://www.fortunecity.com/underworld/sinbad/285/cow.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/planethalflife/logos/cow.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/qwf/Vifem/cow.zip
+http://www.gamers.org/pub/idgames2/planetquake/planethalflife/logos/cow.zip
+http://www.gamers.org/pub/idgames2/planetquake/qwf/Vifem/cow.zip
+http://www.gibbed.com/azz/cars27/cow.zip
+http://www.livewire.com.au/pub/demos/demos/1996/c/cow.zip
+http://www.snowcrest.net/cafemocha/Stationery%20Zipped/cow.zip
+http://www.snowcrest.net/cafemocha/Stationery%2BZipped/cow.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planethalflife/logos/cow.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planethalflife/radium/maps/cow.zip
+https://www.quaddicted.com/files/idgames2/planetquake/qwf/Vifem/cow.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planethalflife/logos/cow.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planethalflife/radium/maps/cow.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/qwf/Vifem/cow.zip
+
+# cyber1.zip
+http://crydee.sai.msu.ru/ftproot/pub/rec/games/idgames/levels/doom2/a-c/cyber1.zip
+http://mirrors.syringanetworks.net/idgames/levels/doom2/a-c/cyber1.zip
+http://www.gamers.org/pub/games/idgames/levels/doom2/a-c/cyber1.zip
+http://www.gamers.org/pub/idgames/levels/doom2/a-c/cyber1.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/a-c/cyber1.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/doom2/a-c/cyber1.zip
+https://www.quaddicted.com/files/idgames/levels/doom2/a-c/cyber1.zip
+https://youfailit.net/pub/idgames/levels/doom2/a-c/cyber1.zip
+
+# dfa.zip
+http://cd.textfiles.com/carousel344/012/DFA.ZIP
+http://cd.textfiles.com/originalsw/8/dfa.zip
+http://ftp.sunet.se/planetquake/planethalflife/burn/skins/dfa.zip
+http://www.fileplanet.com/redir.asp?file=9076&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/planethalflife/burn/skins/dfa.zip
+http://www.fileplanet.com/redir.asp?file=9076&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/planethalflife/burn/skins/dfa.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planethalflife/burn/skins/dfa.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planethalflife/burn/skins/dfa.zip
+
+# elmo.zip
+ftp://24.31.27.145/c%3A/alex/ftp/pub/quake3source/Skins/Visor/elmo.zip
+http://www.dragonfire.net/~SirLouie/HallOfFame/elmo.zip
+http://www.fortunecity.com/underworld/lylat/726/Elmo.zip
+http://www.snowcrest.net/cafemocha/Stationery%20Zipped/elmo.zip
+http://www.snowcrest.net/cafemocha/Stationery%2BZipped/elmo.zip
+
+# telefrag.zip
+http://gamers.org/pub/games/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+http://mirrors.syringanetworks.net/idgames/levels/doom/s-u/telefrag.zip
+http://mirrors.syringanetworks.net/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+http://www.gamers.org/pub/games/idgames/levels/doom/s-u/telefrag.zip
+http://www.gamers.org/pub/idgames/levels/doom/s-u/telefrag.zip
+http://www.gamers.org/pub/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+http://www.ict.swin.edu.au/personal/jbrownlee/other/games/mods/telefrag.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/doom/s-u/telefrag.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/doom/s-u/telefrag.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+https://www.quaddicted.com/files/idgames/levels/doom/s-u/telefrag.zip
+https://www.quaddicted.com/files/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+https://youfailit.net/pub/idgames/levels/doom/s-u/telefrag.zip
+https://youfailit.net/pub/idgames/levels/doom2/deathmatch/s-u/telefrag.zip
+
+
+

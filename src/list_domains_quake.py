@@ -5,7 +5,7 @@ import re
 from urllib.parse import urlparse
 
 DATABASE = '../data/quake_website.db'
-SEARCH_TERM = 'planetmirror.com'
+SEARCH_TERM = 'fileplanet.com'
 
 def connect_read_only(db_path):
     """Connect to the SQLite database in read-only mode."""

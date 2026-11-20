@@ -1,0 +1,96 @@
+# PPQuake (quake with 3dnow support)
+
+# homepages
+# pp666.cjb.net
+# blorp.com/~peter
+# members.fortunecity.com/pp666
+# geocities.com/pp_666
+# members.xoom.com/pp_666
+# 1014.org/~peter
+# pp666.homestead.com
+# user.polbox.pl/~piotrpw
+# free.polbox.pl/~piotrpw
+# free.polbox.pl/p/piotrpw
+
+# winamp community
+# mitiok.free.fr
+# saunalahti.fi/~cse
+# igor1st.narod.ru
+
+# 2005
+# public.asu.edu/~abarber2
+# homepage.ntlworld.com/jfe1205
+# evildildo.com
+
+# polish amd software sites
+# amd.strefa.com
+##amd3dnow.cavern.com.pl
+# pc.com.pl
+# amd.iq.pl
+
+# guess
+# free.polbox.pl/p
+
+# source port forums
+# clanjest.co.uk
+# ukcml.totalcarnage.co.uk
+# dynamic.gamespy.com/~qer/board
+# qsg.telefragged.com
+
+# (early) quake source ports
+# bebits.bebits.com/app/860
+# cocot.topcities.com
+# delfin.unideb.hu/~sj0002
+# devnull.owl.de/~frank
+# devolution.com/~slouken/SDL/projects/quake
+# dxquake.sourceforge.net
+# ecs.soton.ac.uk/~wvo96r/gfxengine/fisheyequake
+# elohim.ai.mit.edu/proquake
+# esatclear.ie/~mhiney
+# eyecandy.myhre.nu
+# flyingsaucepan.com/QMB
+# geocities.com/magoffinsb
+# heffoquake.quakesrc.org
+# icculus.org/twilight/darkplaces
+# mhquake.com
+# mhquake.quakesrc.org
+# mwill.hypermart.net
+# mwill.xoasis.com
+# netcomuk.co.uk/~sio2
+# openquartz.sourceforge.net
+# palevich.com/3d/d3dquake
+# planetkoolio.com
+# planetquake.com/gzone
+# planetquake.com/qer
+# planetquake.com/quake2000
+# porkrind.org/david/quake
+# qbism.planetquake.gamespy.com
+# qbism.telefragged.com
+# quake3stuff.com/glquake
+# quake3stuff.com/retroquake
+# ## quakeforge.net
+# quakelives.com
+# quakesrc.org
+# qwf.challenge-world.com
+# rsg-sneek.nl/natas
+# ssj4death.condemned.com
+# ssj4death.condemned.com/nglquake
+# telejano.berlios.de
+# tomaz.quakesrc.org
+# users.globalnet.co.uk/~yakko
+# users.pandora.be/hollemeersch/blackrose
+# w1.910.telia.com/~u91006136
+# web.ukonline.co.uk/james.dale
+
+# long shot
+# voodooextreme.com/3Fingers
+# telefragged.com/openquake
+# voodoofiles.com
+
+# very long shots
+# voodooextreme.com
+# 63.71.78.142
+fileplanet.com
+# 3dfxfiles.com
+
+

@@ -1,0 +1,194 @@
+# Oxymoron5 Maps Wishlist URLs
+# https://gist.github.com/Jason2Brownlee/76eb7674af2a4c0e5280562c1d02ec17
+
+# sg.zip
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/sg.zip
+http://ftp.sunet.se/idgames2/planetquake/oxymoron5/sg.zip
+http://ftp.sunet.se/planetquake/oxymoron5/sg.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/oxymoron5/sg.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/oxymoron5/sg.zip
+http://www.gamers.org/pub/idgames2/planetquake/oxymoron5/sg.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/oxymoron5/sg.zip
+https://www.quaddicted.com/files/idgames2/planetquake/oxymoron5/sg.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/oxymoron5/sg.zip
+# polka.zip
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/polka.zip
+http://dl.fileplanet.com/dl/dl.asp?qic/polka.zip
+http://ftp.sunet.se/idgames2/planetquake/oxymoron5/polka.zip
+http://ftp.sunet.se/idgames2/planetquake/qic/polka.zip
+http://ftp.sunet.se/planetquake/oxymoron5/polka.zip
+http://ftp.sunet.se/planetquake/qic/polka.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/oxymoron5/polka.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/qic/polka.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/qic/polka.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/qic/polka.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/qic/polka.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/qic/polka.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/qic/polka.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/qic/polka.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/qic/polka.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/oxymoron5/polka.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/qic/polka.zip
+http://www.gamers.org/pub/idgames2/planetquake/oxymoron5/polka.zip
+http://www.gamers.org/pub/idgames2/planetquake/qic/polka.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/oxymoron5/polka.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/qic/polka.zip
+https://www.quaddicted.com/files/idgames2/planetquake/oxymoron5/polka.zip
+https://www.quaddicted.com/files/idgames2/planetquake/qic/polka.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/oxymoron5/polka.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/qic/polka.zip
+# daze.zip
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/daze.zip
+http://ftp.sunet.se/idgames2/planetquake/oxymoron5/daze.zip
+http://ftp.sunet.se/planetquake/oxymoron5/daze.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/oxymoron5/daze.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/oxymoron5/daze.zip
+http://www.gamers.org/pub/idgames2/planetquake/oxymoron5/daze.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/oxymoron5/daze.zip
+https://www.quaddicted.com/files/idgames2/planetquake/oxymoron5/daze.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/oxymoron5/daze.zip
+# oxymoron.zip
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/oxymoron.zip
+http://ftp.sunet.se/idgames2/planetquake/oxymoron5/oxymoron.zip
+http://ftp.sunet.se/planetquake/oxymoron5/oxymoron.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/oxymoron5/oxymoron.zip
+http://spiele.freepage.de/cgi-bin/feets/freepage_ext/41030x030A/rewrite/oxymoron5/maps/oxymoron.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/oxymoron5/oxymoron.zip
+http://www.gamers.org/pub/idgames2/planetquake/oxymoron5/oxymoron.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/oxymoron5/oxymoron.zip
+https://www.quaddicted.com/files/idgames2/planetquake/oxymoron5/oxymoron.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/oxymoron5/oxymoron.zip
+http://dl.fileplanet.com/dl/dl.asp?qic/oxymoron.zip
+http://ftp.sunet.se/idgames2/planetquake/qic/oxymoron.zip
+http://ftp.sunet.se/planetquake/qic/oxymoron.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/qic/oxymoron.zip
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/qic/oxymoron.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/qic/oxymoron.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/qic/oxymoron.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/qic/oxymoron.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/qic/oxymoron.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/qic/oxymoron.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/qic/oxymoron.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/qic/oxymoron.zip
+http://www.gamers.org/pub/idgames2/planetquake/qic/oxymoron.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/qic/oxymoron.zip
+https://www.quaddicted.com/files/idgames2/planetquake/qic/oxymoron.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/qic/oxymoron.zip
+# wrath.zip
+http://www.fileplanet.com/index.asp?file=11932&download=1
+http://www.fileplanet.com:80/index.asp?section=107&&file=11932&download=1
+http://www.fileplanet.com/files/10000/11932.shtml
+https://www.quaddicted.com/files/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+https://www.gamers.org/pub/games/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+ftp://ftp.cdrom.com/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://ftp.sunet.se/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=22398&url=ftp://ftp.mirror.nl/pub/mirror/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=22399&url=ftp://ftp.gigabell.net/pub/Games/idgames/quake/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=22554&url=ftp://ftp.datacomm.ch/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=22626&url=ftp://mirror.aarnet.edu.au/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=32&url=ftp://ftp.cdrom.com/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=35&url=ftp://ftp.epix.net/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=37&url=ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=37&url=http://sunsite.doc.ic.ac.uk/packages/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=38&url=ftp://ftp.compulink.co.uk/pub/games/id/quake/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=39&url=ftp://ftp.sunet.se/pub/pc/games/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=41&url=ftp://ftp.sci.fi/pub/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=43&url=ftp://ftp.task.gda.pl/pub/games/idgames2/quake2/levels/deathmatch/v-z/wrath.zip
+http://www.fileplanet.com/redir.asp?file=11932&archive=45&url=ftp://ftp.iis.com.br/pub/mirror/Quake/quake2/levels/deathmatch/v-z/wrath.zip
+# firedm1.pk3
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/firedm1.pk3
+http://ftp.sunet.se/idgames2/planetquake/oxymoron5/firedm1.pk3
+http://ftp.sunet.se/planetquake/oxymoron5/firedm1.pk3
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/oxymoron5/firedm1.pk3
+http://www.gamers.org/pub/games/idgames2/planetquake/oxymoron5/firedm1.pk3
+http://www.gamers.org/pub/idgames2/planetquake/oxymoron5/firedm1.pk3
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/oxymoron5/firedm1.pk3
+https://www.quaddicted.com/files/idgames2/planetquake/oxymoron5/firedm1.pk3
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/oxymoron5/firedm1.pk3
+# ra3map1-map.zip
+http://www.planetquake.com/oxymoron5/stuff/ra3map1-map.zip
+# ra3fire2.zip
+http://dl.fileplanet.com/dl/dl.asp?oxymoron5/ra3fire2.zip
+http://www.fileplanet.com/dl/dl.asp?oxymoron5/ra3fire2.zip
+http://asp.planetquake.com/dl/dl.asp?mahq/ra3fire2.zip
+http://www.agqx.org/files/maps/ra3fire2.zip
+# newfire.zip
+ftp://fileplanet.ngi.it/fileplanet2/mahq/newfire.zip
+ftp://ftp.liquidextremes.com/pub/cdrom/mahq/newfire.zip
+http://asp.planetquake.com/dl/dl.asp?mahq/newfire.zip
+http://ftp2.gamespy.com/pub/cdrom/mahq/newfire.zip
+http://www.fileplanet.com/dl/dl.asp?mahq/newfire.zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=22265&url=http://ftp2.gamespy.com/pub/cdrom/mahq/newfire.zip&filestring=mahq/newfire.zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=23206&url=ftp://ftp.liquidextremes.com/pub/cdrom/mahq/newfire.zip&filestring=mahq/newfire.zip
+http://www.fileplanet.com/dl/redir.asp?file=0&archive=26595&url=ftp://fileplanet.ngi.it/fileplanet2/mahq/newfire.zip&filestring=mahq/newfire.zip
+https://www.gamers.org/pub/mirrors/ftp.planetquake.com/mahq/newfire.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/mahq/newfire.zip
+
+
+# Exclusions
+# -----------
+
+
+
+# newfire.zip
+https://www.quaddicted.com/files/idgames2/planetquake/3dactionplanet/gta/cars/newfire.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/3dactionplanet/gta/cars/newfire.zip
+# oxymoron.zip
+https://www.quaddicted.com/files/wads/oxymoron.zip
+# polka.zip
+http://cd.textfiles.com/powerpakgold/SOUNDR_A/POLKA.ZIP
+# sg.zip
+http://fileplanet.com/redir.asp?file=48803&archive=22269&url=http://ftp1.gamespy.com/pub/fileplanet/action/half-life/skins/sg.zip
+http://fileplanet.com/redir.asp?file=48803&archive=23112&url=ftp://ftp.ngi.it/fileplanet/action/half-life/skins/sg.zip
+http://fileplanet.com/redir.asp?file=48803&archive=26479&url=http://fileplanet1.speakeasy.net/pub/fileplanet/action/half-life/skins/sg.zip
+http://fileplanet.com/redir.asp?file=48803&archive=26480&url=http://fileplanet2.speakeasy.net/pub/fileplanet/action/half-life/skins/sg.zip
+http://ftp.jussieu.fr/pub2/games/pc/dos/arcade/sg.zip
+http://ftp.jussieu.fr/pub5/games/pc/dos/arcade/sg.zip
+http://ftp.jussieu.fr/pub9/games/pc/dos/arcade/sg.zip
+http://home.sol.no/~bhkleven/sg.zip
+http://home.sol.no/~marek/Midi/sg.zip
+http://lonestar.texas.net/pub/winamp/resources/sg.zip
+http://www.fortunecity.com/underworld/starcraft/471/sg.zip
+http://www.ign.com/ascii/download_files/stained/sg.zip
+http://www.ntua.gr/best/en/best_athens/surguide/sg.zip
+# wrath.zip
+ftp://mirrors.aol.com/pub/pc_games/gamehead/w/wrath.zip
+ftp://www.pht.com/pub/gamehead/w/wrath.zip
+http://3ddownloads.com/sports-gaming/utrrheaven/wrestlers/Wrath.zip
+http://dukeworld.duke4.net/2001-current/maps/u-z/WRATH.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/1996/Maps%20With%20Cons/WRATH.ZIP
+http://gamers.org/pub/games/idgames/levels/doom2/Ports/v-z/wrath.zip
+http://gamers.org/pub/games/idgames/levels/heretic/v-z/wrath.zip
+http://mirrors.syringanetworks.net/idgames/levels/doom2/Ports/v-z/wrath.zip
+http://mirrors.syringanetworks.net/idgames/levels/heretic/v-z/wrath.zip
+http://mirrors.syringanetworks.net/idgames/utils/exe_edit/patches/wrath.zip
+http://src.doc.ic.ac.uk/packages/idgames/utils/exe_edit/patches/wrath.zip
+http://thebox.telefragged.com/files/box/zipped/wrath.zip
+http://tux.telefragged.com/sports-gaming/utrrheaven/wrestlers/Wrath.zip
+http://www.gamers.org/pub/games/idgames/utils/exe_edit/patches/wrath.zip
+http://www.gamers.org/pub/idgames/levels/doom2/Ports/v-z/wrath.zip
+http://www.gamers.org/pub/idgames/levels/heretic/v-z/wrath.zip
+http://www.gamers.org/pub/idgames/utils/exe_edit/patches/wrath.zip
+http://www.gamesmania.com/cnc/missions/wrath.zip
+http://www.gamesmania.com/english/common/demos/wrath.zip
+http://www.gamesmania.com/english/knowbase/demo.idc?GameTitle=Battle%20Wrath&d1=ftp://www.pht.com/pub/gamehead/w/wrath.zip &d2=ftp://mirrors.aol.com/pub/pc_games/gamehead/w/wrath.zip
+http://www.gamesmania.com/english/knowbase/demo.idc?GameTitle=Battle%20Wrath&d1=ftp://www.pht.com/pub/gamehead/w/wrath.zip&d2=ftp://mirrors.aol.com/pub/pc_games/gamehead/w/wrath.zip
+http://www.gamesmania.com/german/common/demos/wrath.zip
+http://www.gamesmania.com/italian/common/demos/wrath.zip
+http://www.gamesmania.com/japanese/common/demos/wrath.zip
+http://www10.torget.se/temple/cyard/missions/nod/wrath.zip
+http://www10.torget.se/temple/cycard/missions/nod/wrath.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/Ports/v-z/wrath.zip
+https://ftp.fu-berlin.de/pc/games/idgames/levels/heretic/v-z/wrath.zip
+https://ftp.fu-berlin.de/pc/games/idgames/utils/exe_edit/patches/wrath.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/doom2/Ports/v-z/wrath.zip
+https://ftpmirror1.infania.net/pub/idgames/levels/heretic/v-z/wrath.zip
+https://ftpmirror1.infania.net/pub/idgames/utils/exe_edit/patches/wrath.zip
+https://www.quaddicted.com/files/idgames/levels/doom2/Ports/v-z/wrath.zip
+https://www.quaddicted.com/files/idgames/levels/heretic/v-z/wrath.zip
+https://www.quaddicted.com/files/idgames/utils/exe_edit/patches/wrath.zip
+https://youfailit.net/pub/idgames/levels/doom2/Ports/v-z/wrath.zip
+https://youfailit.net/pub/idgames/levels/heretic/v-z/wrath.zip
+https://youfailit.net/pub/idgames/utils/exe_edit/patches/wrath.zip
+
+

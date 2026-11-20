@@ -1,5 +1,5 @@
 # fantasy quake wishlist
-# mostly from the changes.txt file in fq091.zip
+# https://gist.github.com/Jason2Brownlee/549b3b553dd710419232d20f7ecfeb8e
 
 # 0.92, 22 Nov, 2000
 fqrotp92.zip
@@ -87,3 +87,12 @@ fqrotp15.zip
 pak2.zip
 rotp_ent.zip
 level_dev.zip
+
+fqextra1.zip
+fqextra2.zip
+fqextra3.zip
+fqextra4.zip
+
+fqmaps.zip
+
+

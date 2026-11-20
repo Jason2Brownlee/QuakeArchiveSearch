@@ -2,8 +2,15 @@
 
 # ignore mac files
 .DS_Store
+
 # ignore temp downloads
 data/wayback_downloads
+data/crawl_downloads
+# files is too big
+data/ia_cd_index
+
+# too big
+
 # ignore the whole index
 data/*.db
 data/*.sqlite

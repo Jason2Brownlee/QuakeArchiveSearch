@@ -1,0 +1,207 @@
+# fantasy quake wishlist urls
+# https://gist.github.com/Jason2Brownlee/549b3b553dd710419232d20f7ecfeb8e
+
+# fantasy.zip
+ftp://flinux.tu-graz.ac.at/pub/idsoftware2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.cdrom.com/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.cdrom.com/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.compulink.co.uk/pub/games/id/quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.compulink.co.uk/pub/games/id/quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.datacomm.ch/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.datacomm.ch/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.epix.net/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.epix.net/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.freesoftware.com/pub/quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.gamers.org/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.iis.com.br/pub/mirror/Quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.iis.com.br/pub/mirror/Quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.mirror.nl/pub/mirror/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.powerup.com.au/pub/games/quake/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.sci.fi/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.sci.fi/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.stomped.com/pub/fantasy/fantasy.zip
+ftp://ftp.stomped.com/pub/quake/fantasy/fantasy.zip
+ftp://ftp.sunet.se/pub/games/PC/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.task.gda.pl/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.task.gda.pl/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://ftp.telepac.pt/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://mirror.aarnet.edu.au/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://mirror.aarnet.edu.au/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fantasy.stomped.com/beta/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=22398&url=ftp://ftp.mirror.nl/pub/mirror/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=22554&url=ftp://ftp.datacomm.ch/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=22626&url=ftp://mirror.aarnet.edu.au/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=32&url=ftp://ftp.cdrom.com/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=35&url=ftp://ftp.epix.net/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=37&url=ftp://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=37&url=http://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=38&url=ftp://ftp.compulink.co.uk/pub/games/id/quake/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=39&url=ftp://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=41&url=ftp://ftp.sci.fi/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=43&url=ftp://ftp.task.gda.pl/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://fileplanet.com/redir.asp?file=6103&archive=45&url=ftp://ftp.iis.com.br/pub/mirror/Quake/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.gamers.org/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.mancubus.net/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.sunet.se/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.sunet.se/pub/games/PC/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.sunet.se/pub5/pc/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://ftp.telepac.pt/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/total_conversions/fantasy_quake/fantasy.zip
+http://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://sunsite.org.uk/packages/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://tux.telefragged.com/telefragged/quake/fantasy/fantasy.zip
+http://www.cdrom.com/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://www.cdrom.com/pub/quake/total_conversions/fantasy_quake/fantasy.zip
+http://www.gamers.org/pub/games/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://www.gamers.org/pub/idgames2/total_conversions/fantasy_quake/fantasy.zip
+http://www.quaddicted.com/fantasy.zip
+http://www.quaddicted.com/filebase/fantasy.zip
+http://www.quakefiles.com/files/download.php?filekey=q1fantasy1&d_url=ftp://flinux.tu-graz.ac.at/pub/idsoftware2/total_conversions/fantasy_quake/fantasy.zip
+http://www.quaketerminus.freeola.com/mods/fantasy.zip
+https://www.quaddicted.com/filebase/fantasy.zip
+https://www.quaddicted.com/files/by-sha256/50/503dc0b832ca6aea4ba31ac33b90186bada3697a3ce5feb31537e01821497fb6/fantasy.zip
+https://www.quaddicted.com/files/idgames2/total_conversions/fantasy_quake/fantasy.zip
+https://www.quaddicted.com/files/maps/singleplayer/fantasy.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/quake/fantasy/fantasy.zip
+# fq090a.zip
+http://www.slip.net/~ardianl/fq090a.zip
+# fq091.zip
+http://tux.telefragged.com/telefragged/quake/fantasy/fq091.zip
+http://ch.telefragged.com/fq/beta/fq091.zip
+http://fantasy.stomped.com/beta/fq091.zip
+http://fantasy.stomped.com/fq/beta/fq091.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/quake/fantasy/fq091.zip
+# fqrotp15.zip
+ftp://ftp.stomped.com/pub/fantasy/fqrotp15.zip
+http://www.abraxis.com/raven/fqrotp15.zip
+# fqrotp92.zip
+http://tux.telefragged.com/telefragged/quake/fantasy/fqrotp92.zip
+ftp://ftp.stomped.com/pub/fantasy/fqrotp92.zip
+ftp://ftp.stomped.com/pub/quake/fantasy/fqrotp92.zip
+http://www.quaddicted.com/filebase/fqrotp92.zip
+http://www.quaddicted.com/filebase/trash/fqrotp92.zip
+http://www.quaketerminus.com/mods/fqrotp92.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/quake/fantasy/fqrotp92.zip
+# level_dev.zip
+ftp://ftp.stomped.com/pub/fantasy/level_dev.zip
+ftp://ftp.stomped.com/pub/quake/fantasy/level_dev.zip
+http://fantasy.stomped.com/beta/level_dev.zip
+# pak2.zip
+ftp://ftp.stomped.com/pub/fantasy/pak2.zip
+ftp://ftp.stomped.com/pub/quake/fantasy/pak2.zip
+http://ch.telefragged.com/fq/pak2.zip
+http://fantasy.stomped.com/pak2.zip
+# rotp060.zip
+ftp://ftp.telefragged.com/pub/quake/tc/fantasy/rotp060.zip
+ftp://ftp.torget.se/quake/tc/fantasy/rotp060.zip
+ftp://ftp.chip.pl/Pub/Quake/Conversions/fantasy/rotp060.zip
+ftp://ftp.stomped.com/pub/fantasy/rotp060.zip
+# rotp060p.zip
+ftp://ftp.telefragged.com/pub/quake/tc/fantasy/rotp060p.zip
+ftp://ftp.torget.se/quake/tc/fantasy/rotp060p.zip
+http://fantasy.stomped.com/beta/rotp060p.zip
+ftp://ftp.stomped.com/pub/fantasy/rotp060p.zip
+# rotp0635
+ftp://ftp.torget.se/quake/tc/fantasy/rotp0635.zip
+# rotp0661.zip
+ftp://ftp.stomped.com/pub/fantasy/rotp0661.zip
+# rotp0664.zip
+http://www.abraxis.com/raven/rotp0664.zip
+# rotp0671.zip
+http://www.abraxis.com/raven/rotp0671.zip
+# rotp0673.zip
+ftp://ftp.stomped.com/pub/fantasy/rotp0673.zip
+http://fantasy.stomped.com/rotp0673.zip
+# rotp067s.zip
+ftp://ftp.stomped.com/pub/fantasy/rotp067s.zip
+http://www.abraxis.com/raven/rotp067s.zip
+# rotp092p.zip
+http://ch.telefragged.com/fq/beta/rotp092p.zip
+http://fantasy.stomped.com/fq/beta/rotp092p.zip
+# rotp_ent.zip
+http://ch.telefragged.com/fq/rotp_ent.zip
+http://fantasy.stomped.com/fq/rotp_ent.zip
+http://fantasy.stomped.com/rotp_ent.zip
+# fqextra1.zip
+ftp://ftp.stomped.com/pub/fantasy/fqextra1.zip
+http://www.abraxis.com/raven/fqextra1.zip
+# fqextra2.zip
+ftp://ftp.stomped.com/pub/fantasy/fqextra2.zip
+http://www.abraxis.com/raven/fqextra2.zip
+# fqextra3.zip
+ftp://ftp.stomped.com/pub/fantasy/fqextra3.zip
+http://ch.telefragged.com/fq/fqextra3.zip
+http://fantasy.stomped.com/fqextra3.zip
+http://www.abraxis.com/raven/fqextra3.zip
+# fqextra4.zip
+ftp://ftp.stomped.com/pub/fantasy/fqextra4.zip
+ftp://ftp.telefragged.com/pub/quake/fantasy/fqextra4.zip
+http://ch.telefragged.com/fq/fqextra4.zip
+http://fantasy.stomped.com/fqextra4.zip
+# fqmaps.zip
+ftp://ftp.chip.pl/Pub/Quake/Conversions/fantasy/fqmaps.zip
+ftp://ftp.telefragged.com/pub/quake/tc/fantasy/fqmaps.zip
+ftp://ftp.torget.se/quake/tc/fantasy/fqmaps.zip
+
+
+
+# Exclusions (false positives)
+# ------------------------------
+# fantasy.zip
+http://annex.retroarchive.org/cdrom/wildcat-gold-92/GRAPHICS/FANTASY.ZIP
+http://ftp.jussieu.fr/ftp/pub/amstrad/demos/FANTASY.ZIP
+http://ftp1.gamespy.com/pub/vault/arcaderoms/fantasy.zip
+http://ftp1.gamespy.com/pub/vault/smsroms/FANTASY.ZIP
+http://geocities.com/3465399/gas/skinfiles/fantasy.zip
+http://geocities.com/_2220/bms/4th/fantasy.zip
+http://geocities.com/ambridgeinlinehockey/fantasy.zip
+http://home.sol.no/~beorn/batman/fonts/fantasy.zip
+http://members.aol.com/bobyang/private/fantasy.zip
+http://public.planetmirror.com/pub/soccergaming/fifa99/Fantasy.ZIP
+http://www.fortunecity.com/underworld/3d/1153/ROMs/fantasy.zip
+http://www.fortunecity.com/underworld/darkforces/249/fantasy.zip
+http://www.fortunecity.com/underworld/wipeout/392/FANTASY.ZIP
+http://www.gamers.org/pub/games/duke3d/maps/f-j/fantasy.zip
+http://www.gamesmania.com/english/common/demos/fantasy.zip
+http://www.gamesmania.com/german/common/demos/fantasy.zip
+http://www.gamesmania.com/italian/common/demos/fantasy.zip
+http://www.gamesmania.com/japanese/common/demos/fantasy.zip
+http://www.geocities.com/TimesSquare/Lair/8572/fantasy.zip
+http://www.geocities.com/TimesSquare/Lair/8572/greyhawk/fantasy.zip
+http://www.powerup.com.au/~dpotter/mw/projects/fantasy.zip
+http://www.whiterock.com/kinglink/duke3d/fantasy.zip
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/duke3d/maps/f-j/fantasy.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/fantasy.zip
+http://dukeworld.duke4.net/classic%20dukeworld/maps/f-j/fantasy.zip
+http://www2.mpc.com.br/driveu/tna/games/FANTASY.ZIP
+
+# pak2.zip
+http://www.planetquake.com/frib/misc/pak2.zip
+http://ftp.sunet.se/idgames2/planetquake/phantasm/dc/PAK2.ZIP
+http://quad.gamersrevolt.com/images/news/news/screenshots/pak2.zip
+http://tux.telefragged.com/telefragged/tarot/tremor/pak2.zip
+http://asp.planetquake.com/dl/dl.asp?phantasm/dc/pak2.zip
+http://asp.planetquake.com/dl/dl.asp?phantasm/dc/PAK2.ZIP
+http://ftp.sunet.se/planetquake/phantasm/dc/pak2.zip
+http://www.quakewiki.net/archives/frib/misc/pak2.zip
+http://ftp.sunet.se/planetquake/phantasm/dc/PAK2.ZIP
+http://ftp.telepac.pt/pub/idgames2/planetquake/phantasm/dc/PAK2.ZIP
+http://qexpo.quakedev.com/uploaded/7/pak2.zip
+http://www.dragonfire.net/~Doug_n_Ken/ken/pak2.zip
+http://www.fortunecity.com/skyscraper/perl/436/files/pak2.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/phantasm/dc/PAK2.ZIP
+http://www.gamers.org/pub/idgames2/planetquake/phantasm/dc/PAK2.ZIP
+http://www.lockandload.com/someone/files/pak2.zip
+http://www.planetfortress.com/someone/files/pak2.zip
+http://www.quakeone.com/qrack/pak2.zip
+https://www.quaddicted.com/files/engines/pak2.zip
+https://www.quaddicted.com/files/idgames2/planetquake/phantasm/dc/PAK2.ZIP
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/phantasm/dc/PAK2.ZIP
+http://src.doc.ic.ac.uk/packages/quake/planetquake/phantasm/dc/pak2.zip
+
+

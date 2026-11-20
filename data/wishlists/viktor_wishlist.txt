@@ -24,4 +24,5 @@ jqbeta3.zip
 alteria.exe
 alteria1_0.exe
 alteria-1.0-x86.run
+alteria-1.0.src.tar.gz
 alteriaupdate.exe

@@ -1,0 +1,15 @@
+# Oxymoron5 Maps Wishlist
+# https://gist.github.com/Jason2Brownlee/76eb7674af2a4c0e5280562c1d02ec17
+
+# q2
+sg.zip
+polka.zip
+daze.zip
+oxymoron.zip
+wrath.zip
+newfire.zip
+
+# q3
+firedm1.pk3
+ra3map1-map.zip
+ra3fire2.zip

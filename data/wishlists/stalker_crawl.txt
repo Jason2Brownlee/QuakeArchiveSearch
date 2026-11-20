@@ -1,16 +1,5 @@
-# searching for serecky
-
-# GNO Good Night Out (2003)
-# -------------------
-
-# https://www.moddb.com/mods/good-night-out/news/ive-uploaded-a-zip-for-peeps-to-test
-# http://spike.corecodec.org/gno/gno.zip
-# https://web.archive.org/web/20031220131533/http://spike.corecodec.org/gno/
-
-spike.corecodec.org/gno
-spike.corecodec.org
-# corecodec.org
-
+# Stalker Quake Crawl
+# https://gist.github.com/Jason2Brownlee/b2b7559a661f18dbfa182434bf773e8b
 
 # Stalker (2007) cheapy (leileilol? na, he's a collector)
 # cheapalert@planetquake.com
@@ -58,9 +47,3 @@ geocities.com/magoffinsb
 mancubus.net/~cheapy
 planetgargoyle.com
 cheapy.deathmask.net
-
-
-
-
-
-

@@ -4,7 +4,7 @@ WEB=$(CURDIR)/web
 DATA=$(CURDIR)/data
 SRC=$(CURDIR)/src
 
-PYTHON=/usr/local/bin/python3
+PYTHON=/usr/local/bin/python3.12
 
 .PHONY: server backup check process_crawl process_list process_add clean
 
@@ -20,6 +20,11 @@ backup:
 check: backup
 	@clear
 	@cd ${SRC} && ${PYTHON} wishlist_url_checker_db.py
+
+# check manual indexes
+check_index:
+	@clear
+	@cd ${SRC} && ${PYTHON} check_wanted_in_file_lists.py
 
 # crawl a list of URLs in a file
 process_crawl:

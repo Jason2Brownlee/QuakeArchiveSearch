@@ -1,9 +1,8 @@
 # Quaddicted file wishlist
-# https://www.quaddicted.com/quaddicted.com/wanted_files
+# https://gist.github.com/Jason2Brownlee/c671b64e3f451273d9a7663af116823d
 
 # metslime
 trachea.zip
-
 trachea.bsp
 trachea.txt
 
@@ -24,6 +23,9 @@ crtyrd.zip
 sanctry.zip
 maxcarn.zip
 base13.zip
+pakker.zip
+super.zip
+rcktonly.zip
 
 crtyrd.txt
 sanctry.txt
@@ -55,19 +57,9 @@ agent_map.zip
 swk_map.zip
 lady_map.zip
 
-agent_map.bsp
-swk_map.bsp
-lady_map.bsp
-
-agent_map.txt
-swk_map.txt
-lady_map.txt
-
 # sodabob
 ravndngn.zip
-
 ravndngn.bsp
-
 ravndngn.txt
 
 # QER

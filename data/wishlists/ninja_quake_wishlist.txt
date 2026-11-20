@@ -1,0 +1,12 @@
+# ninja quake wishlist
+# https://gist.github.com/Jason2Brownlee/90924b0d46073127ac8b169b0d7f861d
+
+ninja01b.zip
+
+ninjaq1.zip
+ninja10.txt
+
+ninjaq11.zip
+
+ninjaq12.zip
+ninja.txt

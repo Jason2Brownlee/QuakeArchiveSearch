@@ -31,26 +31,7 @@ if __name__ == '__main__':
 
     # base domain to search
 
-    # base_domain = 'stomped.com'
-    # base_domain = 'planetquake.com'
-    # base_domain = 'telefragged.com'
-    # base_domain = 'frag.com'
-    # base_domain = 'bluesnews.com'
-    # base_domain = 'fragzone.se'
-    # base_domain = 'warzone.com'
-    # base_domain = 'planetquake.gamespy.com'
-    # base_domain = 'quakeintosh.com'
-    # base_domain = 'quakedev.com'
-    # base_domain = 'barrysworld.com'
-    # base_domain = 'tfdomain.com'
-    # base_domain = 'lockandload.com'
-    # base_domain = 'gamers.org'
-    # base_domain = 'minos.co.uk'
-    # base_domain = 'gameaholic.com'
-    # base_domain = 'idsoftware.com'
-    # base_domain = 'time2quake.com'
-    # base_domain = 'gamespy.com'
-    base_domain = 'macquakeinfinity.com'
+    base_domain = 'torget.se'
 
 
     # perform search

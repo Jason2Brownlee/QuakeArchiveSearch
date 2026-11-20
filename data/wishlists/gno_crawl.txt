@@ -1,0 +1,25 @@
+# good night out
+
+# homepages
+spike.corecodec.org
+moddb.com/mods/good-night-out
+cvs.corecodec.org/cgi-bin/cvsweb.cgi/spike
+corecodec.org/projects/spike
+
+fte.quakesrc.org
+besmella-quake.com/forum/viewforum.php?f=22
+fteqw.com
+fteqw.sf.net
+
+# other projects
+triptohell.info
+fte.triptohell.info
+fteqw.org
+quaddicted.com/interviews/spike
+sourceforge.net/projects/fteqw
+fteqw.svn.sourceforge.net
+prdownloads.sourceforge.net/fteqw
+
+corecodec.org.nyud.net
+cvs.corecodec.org
+##corecodec.org

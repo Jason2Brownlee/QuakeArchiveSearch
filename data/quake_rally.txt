@@ -171,43 +171,13 @@
 # frag.com/deconstruct
 # members.gotnet.net/chaz
 
-# au stuff
-dd.networx.net.au
-210.0.2.183
-compsoc.cs.latrobe.edu.au/~shogun
-games.iinet.net.au/quake
-major.lit.tas.edu.au/~connora
-quake.wantree.com.au
-wisdom.psinet.net.au/~stokfam
-aone.net.au/quake
-atnet.net.au/quake
-backmeup.net.au/~quake
-bluestar.com.au/ryan
-ca.com.au/~sunnyval
-canweb.net/~b2
-# chariot.net.au
-cs.mu.oz.au/~trd
-griffon.com.au/qn
-home.aone.net.au/askegg
-magna.com.au/~guvi
-multiplay.com.au
-nex.net.au/users/buddykin
-ocean.com.au/quake
-omen.com.au/~synic
-ozemail.com.au/~forager
-ozemail.com.au/~twitcher
-quakecentral.com
-qzone.nf
-ram.net.au/quake
-senet.com.au/quake
-southcom.com.au/~porky
-tiga.com.au/QUAKE-ON
-vision.net.au/games2/quake
-vision.net.au/~chuck
-wantree.com.au/~lrdbyron
-wantree.com.au/~sdobbs
-wantree.com.au/~weird
-webnet.com.au/projects/quake
-webraven.com.au/games/quake
-
+# mirrors
+donr.hbp.com/pub/qr
+ftp.brz.com.br/warlock
+ftp.frag.com
+ftp.stomped.com/pub
+ftp.torget.se/pub/games/quake
+mime.ablecommerce.com/quake
+iac.spb.ru/sam/archives
+rmplc.co.uk/eduweb/sites/mkent
 

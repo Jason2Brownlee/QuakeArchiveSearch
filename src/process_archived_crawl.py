@@ -9,57 +9,9 @@ import json
 import sqlite3
 
 
+quake_websites_file = '../data/wishlists/aq2_crawl.txt'
+year_cutoff = 2005
 
-quake_websites_file = '../data/quake_rally.txt'
-year_cutoff = 2001
-
-# quake_websites_file = '../data/quake2_bots.txt'
-# year_cutoff = 2001
-# year_cutoff = 2025
-
-# quake_websites_file = '../data/quake_team_fortress.txt'
-# year_cutoff = 2010
-
-# quake_websites_file = '../data/serecky_quake1.txt'
-# year_cutoff = 2020
-
-# quake_websites_file = '../data/quake_websites_crawl_all.txt'
-# year_cutoff = 2010
-
-# quake_websites_file = '../data/quake_websites_crawl.txt'
-# year_cutoff = 2010
-
-quake_websites_file = '../data/quake_websites_crawl_adhoc.txt'
-year_cutoff = 2001
-
-# quake_websites_file = '../data/navy_seals.txt'
-# year_cutoff = 2010
-
-# quake_websites_file = '../data/quake3.txt'
-# year_cutoff = 2000
-
-# quake_websites_file = '../data/ctf.txt'
-# year_cutoff = 2005
-
-# quake_websites_file = '../data/quake2.txt'
-# year_cutoff = 2000
-
-# quake_websites_file = '../data/quake3_all.txt'
-# year_cutoff = 2020
-
-# quake_websites_file = '../data/quake_websites_crawl_big.txt'
-# year_cutoff = 2000
-
-# quake_websites_file = '../data/quaddicted_crawl.txt'
-# year_cutoff = 2020
-
-# quake_websites_file = '../data/aop_crawl.txt'
-# year_cutoff = 2000
-
-# research for people
-
-# quake_websites_file = '../data/viktor_crawl.txt'
-# year_cutoff = 2010
 
 
 # other config
