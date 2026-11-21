@@ -3,6 +3,10 @@
 File Path Matcher - Find wanted files in file path lists
 """
 
+# update:
+# I prefer to import all of the urls and search the db  directly....
+
+
 import os
 from pathlib import Path
 

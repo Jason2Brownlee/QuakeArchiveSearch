@@ -1,9 +1,12 @@
-import sqlite3
+# read urls to process from temp table then download the full captured url list from wayback for each and store all urls in db
+# assumes urls were added via process_wayback_add_all.py
+# if there is a url that just won't download, delete it via process_wayback_delete_all.py and remove from the ingested text file
+
+from db import get_db_connection
 import requests
 from urllib.parse import urlparse, urlunparse, unquote, quote
 import time
 
-DATABASE = '../data/quake_website.db'
 SLEEP_TIME = 10
 REQUEST_TIMEOUT = 30  # how long to wait for a response
 
@@ -59,12 +62,15 @@ def insert_file_url(cursor, quake_website_id, file_url):
     Attempts to insert the file URL into the database.
     Returns True if inserted, False if skipped (e.g., already exists).
     """
-    try:
-        cursor.execute('INSERT INTO File_URL (file_url) VALUES (?)', (file_url,))
-        return True
-    except sqlite3.IntegrityError:
-        # This occurs when the URL is already in the database due to the UNIQUE constraint
+    if not file_url or '\x00' in file_url:
         return False
+
+    cursor.execute('''
+        INSERT INTO file_url (file_url) VALUES (%s)
+        ON CONFLICT DO NOTHING
+        RETURNING id
+    ''', (file_url,))
+    return cursor.fetchone() is not None
 
 def process_url_with_wayback(cursor, url, quake_website_id, processing_method_id):
     # Fetch all unique archived URLs from the Wayback Machine
@@ -84,36 +90,40 @@ def process_url_with_wayback(cursor, url, quake_website_id, processing_method_id
 
     # Mark the website as processed for this method
     cursor.execute('''
-        INSERT OR REPLACE INTO Website_Processing_Status
+        INSERT INTO website_processing_status
         (quake_website_id, processing_method_id, status, last_processed)
-        VALUES (?, ?, 'completed', CURRENT_TIMESTAMP)
+        VALUES (%s, %s, 'completed', CURRENT_TIMESTAMP)
+        ON CONFLICT (quake_website_id, processing_method_id)
+        DO UPDATE SET status = EXCLUDED.status,
+                      last_processed = EXCLUDED.last_processed
     ''', (quake_website_id, processing_method_id))
 
     # Return processing results for reporting
     return len(urls), inserted_count
 
 def main():
-    # Connect to the SQLite database
-    conn = sqlite3.connect(DATABASE)
+    # Connect using the shared PostgreSQL helper
+    conn = get_db_connection()
     cursor = conn.cursor()
 
     processing_method_name = "archive.org wayback machine list"
 
     # Fetch or insert the processing method into the Processing_Method table
-    cursor.execute('SELECT id FROM Processing_Method WHERE method_name = ?', (processing_method_name,))
+    cursor.execute('SELECT id FROM processing_method WHERE method_name = %s', (processing_method_name,))
     method = cursor.fetchone()
     if method is None:
-        cursor.execute('INSERT INTO Processing_Method (method_name, description) VALUES (?, ?)',
+        cursor.execute('INSERT INTO processing_method (method_name, description) VALUES (%s, %s) RETURNING id',
                        (processing_method_name, 'Retrieve archived URLs from the Wayback Machine'))
-        processing_method_id = cursor.lastrowid
+        processing_method_id = cursor.fetchone()['id']
+        conn.commit()
     else:
-        processing_method_id = method[0]
+        processing_method_id = method['id']
 
     # Retrieve all unprocessed quake websites
     cursor.execute('''
         SELECT qw.id, qw.base_url FROM Quake_Website qw
         LEFT JOIN Website_Processing_Status wps
-        ON qw.id = wps.quake_website_id AND wps.processing_method_id = ?
+        ON qw.id = wps.quake_website_id AND wps.processing_method_id = %s
         WHERE wps.status IS NULL OR wps.status != 'completed'
     ''', (processing_method_id,))
     unprocessed_websites = cursor.fetchall()
@@ -121,7 +131,8 @@ def main():
     print(f'Found {len(unprocessed_websites)} unprocessed urls')
 
     # Process each unprocessed website
-    for quake_website_id, base_url in unprocessed_websites:
+    for website in unprocessed_websites:
+        quake_website_id, base_url = website['id'], website['base_url']
         # print(base_url)
         # continue
 

@@ -1,3 +1,7 @@
+# crawl a directory and report all urls found in all files (html, text)
+# looks inside zip files for text content to parse for urls
+# urls reported to stdout, consider updating to report to file or ingest into db
+
 import os
 import re
 import zipfile
@@ -162,7 +166,7 @@ def process_zip_file(filepath):
     return urls
 
 # Function to scan a directory for .txt and .zip files and process them
-def scan_directory(dirs):
+def scan_directory(dirs, output_file):
     all_urls = set()
 
     for directory in dirs:
@@ -171,115 +175,70 @@ def scan_directory(dirs):
                 filepath = os.path.join(root, filename)
                 file_urls = set()
 
-# HACK, just open everything
-                file_urls = process_text_file(filepath)
+                if filename.endswith('.txt'):
+                    # print(f"Processing text file: {filepath}")
+                    file_urls = process_text_file(filepath)
+                elif filename.endswith(('.zip', '.exe', '.tar.gz', '.tgz')):
+                    # print(f"Processing zip file: {filepath}")
+                    file_urls = process_zip_file(filepath)
 
-                # if filename.endswith('.txt'):
-                #     # print(f"Processing text file: {filepath}")
-                #     file_urls = process_text_file(filepath)
-
-                # elif filename.endswith('.zip'):
-                #     # print(f"Processing zip file: {filepath}")
-                #     file_urls = process_zip_file(filepath)
-
-                # TODO support .tar.gz and .gz and .rpm
+# TODO support .exe, .tar.gz and .gz and .rpm
 
                 # clean the urls
                 clean_urls = set()
                 for url in file_urls:
                     try:
                         clean_url = standardize_url(url)
-# HACK, report raw URLs
-                        # clean_url = url
 
                         if clean_url:
                             clean_urls.add(clean_url)
                     except:
                         pass
 
-                # print(f"Found URLs in {filename}:")
-                # for url in clean_urls:
-                #     print(f" - {url}")
+                for url in clean_urls:
+                    print(f" - {url}")
 
                 all_urls.update(clean_urls)
 
-    # Print all unique URLs found
-    # print("All unique URLs found:")
-    for url in sorted(all_urls):
-        print(url)
+    # Write all unique URLs found to a file
+    with open(output_file, "w", encoding="utf-8") as f:
+        for url in sorted(all_urls):
+            print(url, file=f)
+    print(f"Wrote {len(all_urls)} unique URLs to {output_file}.")
+
 
 if __name__ == "__main__":
 
-    # quake bots
-    # dirs = ['/Users/jasonb/Development/Quake/QuakeBotArchive/bin/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/eliminator/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frikbot/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/frogbot/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mikebot/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/mystery/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/omicron/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/other/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/reaper/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/richmark/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/stoogebot/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/tedbot/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/bin/terminator/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/research/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/research/essays/',
-    #         '/Users/jasonb/Development/Quake/QuakeBotArchive/dev/'
-    #         ]
+    # q2bots (not complete, just a high level)
+    # OUTPUT_PATH = "../data/dir_targets/q2bot_urls.txt"
+    # DIRS = [
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/3zb2',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/ace',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/cgf',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/eraser',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/secant',
+    #     '/Users/jasonb/Development/Quake/Quake2BotArchive/bin/wf',
+    # ]
 
-    # official
-    # dirs = ['/Users/jasonb/Development/Quake/QuakeOfficialArchive/bin/',
-    #         '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/',
-    #         '/Users/jasonb/Development/Quake/QuakeOfficialArchive/dev/']
+    # tf
+    # OUTPUT_PATH = "../data/dir_targets/tf_urls.txt"
+    # DIRS = ['/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/bin']
 
-    # 3wavectf
-    # dirs = ['/Users/jasonb/Development/Quake/ThreeWaveCTF/bin']
-
-    # quakec mailing list
-    # dirs = ['/Users/jasonb/Games/QuakeFiles/QuakeCMailingList']
-
-    # newsgroups (to 1997)
-    # quakec
-    dirs = ['/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n00/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n01/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n02/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n03/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake_c/n04/',
-
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n00/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n01/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n02/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/misc/n03/',
-
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n00/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n01/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n02/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/playing/n03/',
-
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n00/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n01/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/quake/n02/',
-
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n00/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n01/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n02/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n03/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n04/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n05/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n06/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n07/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n08/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n09/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n10/',
-            '/Users/jasonb/Games/QuakeFiles/Qoole/Newsgrps/editing/n11/',
+    # qr
+    OUTPUT_PATH = "../data/dir_targets/qr_urls.txt"
+    DIRS = [
+        '/Users/jasonb/Development/Quake/QuakeRallyArchive/bin',
+        '/Users/jasonb/Development/Quake/QuakeRallyArchive/bin/extensions',
+        '/Users/jasonb/Development/Quake/QuakeRallyArchive/bin/other',
+        '/Users/jasonb/Development/Quake/QuakeRallyArchive/bin/maps',
     ]
 
+    # aq2
+    # OUTPUT_PATH = "../data/dir_targets/aq2_urls.txt"
+    # DIRS = ['/Users/jasonb/Development/Quake/ActionQuake2Archive/bin']
 
 
-
-
-    scan_directory(dirs)
+    scan_directory(DIRS, OUTPUT_PATH)
 
 

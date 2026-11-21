@@ -6,6 +6,8 @@ Dependencies: pip install requests beautifulsoup4
 """
 
 # ========================= SETTINGS =========================
+
+# https://archive.org/details/@kingshadow7
 UPLOADER = "kingshadow7"
 
 OUTPUT_DIR = "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index"       # All output, relative to this script (or absolute)
@@ -40,7 +42,7 @@ MAX_RETRIES = 5
 # These settings do NOT delete the cache. Successful refreshes replace the old
 # cached response for their category. Every run rebuilds all_files.txt from
 # scratch, regardless of refresh settings.
-REFRESH_SEARCH = False
+REFRESH_SEARCH = True
 REFRESH_METADATA = False
 REFRESH_LISTINGS = False
 IMAGE_EXTENSIONS = (".iso", ".img", ".bin", ".nrg", ".mdf", ".isz")

@@ -1,0 +1,7 @@
+ftp://ftp.cdrom.com/pub/idgames2/levels/team_fortress
+ftp://ftp.cdrom.com/pub/quake
+http://minyos.its.rmit.edu.au/~cookj
+http://www.inter.NL.net/users/L.J.Noordsij
+http://www.planetfortress.com/teamfortress
+http://www.planetquake.com/teamfortress
+http://yallara.cs.rmit.edu.au/~cookj

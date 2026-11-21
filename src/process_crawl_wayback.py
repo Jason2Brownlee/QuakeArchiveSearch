@@ -1,3 +1,4 @@
+# Crawl the wayback machine for all websites in a text file list
 import os
 import time
 import re
@@ -6,17 +7,20 @@ from urllib.parse import urljoin, urlparse, urlunparse, unquote, quote
 from bs4 import BeautifulSoup
 import hashlib
 import json
-import sqlite3
+from db import get_db_connection
 
 
-quake_websites_file = '../data/wishlists/aq2_crawl.txt'
-year_cutoff = 2005
+# background task, generic across all indexes
+# quake_websites_file = '../data/quake_websites_crawl_big.txt'
+# year_cutoff = 2000
 
+# add archive specific crawls here...
+quake_websites_file = '../data/quake2_bots.txt'
+year_cutoff = 2000
 
 
 # other config
 temp_dir = "../data/wayback_downloads"
-DATABASE = '../data/quake_website.db'
 delay_seconds = 30
 
 # api locations
@@ -249,19 +253,29 @@ def read_quake_websites(file_path):
         websites = [line.strip() for line in f if line.strip()]
     return websites
 
-
 def batch_insert_urls(extracted_urls):
-    # Connect to the SQLite database
-    conn = sqlite3.connect(DATABASE)
-    cursor = conn.cursor()
+    """Insert extracted URLs into PostgreSQL, ignoring duplicates."""
 
-    for url in extracted_urls:
-        try:
-            cursor.execute('INSERT OR IGNORE INTO File_URL (file_url) VALUES (?)', (url,))
-        except sqlite3.Error as e:
-            print(f"Failed to insert {url}: {e}")
-    conn.commit()
-    conn.close()
+    # Remove invalid URLs
+    urls = [
+        (url,)
+        for url in extracted_urls
+        if url and '\x00' not in url
+    ]
+
+    if not urls:
+        return
+
+    with get_db_connection() as conn:
+        with conn.cursor() as cursor:
+            cursor.executemany(
+                """
+                INSERT INTO file_url (file_url)
+                VALUES (%s)
+                ON CONFLICT DO NOTHING
+                """,
+                urls
+            )
 
 def sanitize_url_for_dirname(url):
     """

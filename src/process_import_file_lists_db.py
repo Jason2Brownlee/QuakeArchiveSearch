@@ -1,15 +1,19 @@
-# import all urls from text file into db
+# import all urls from text file into db, comment out as imported
 
 
-import sqlite3
+from db import get_db_connection
 from pathlib import Path
 
 # Configuration
-DB_PATH = '../data/quake_website.db'
 
 TXT_FILES = [
+    # crawl dirs
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/q2bot_urls.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/tf_urls.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/qr_urls.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/aq2_urls.txt",
     # # custom internet archive
-    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/all_files.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/all_files.txt",
     # # tastyspleen
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_badbrent_tastyspleen_net.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_barton_tastyspleen_net.txt",
@@ -34,9 +38,10 @@ TXT_FILES = [
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_dukeworld_com.txt",
 
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
-    # retro
-    ##"/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
+
+# ongoing
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
 ]
 
 BATCH_SIZE = 10000
@@ -48,36 +53,42 @@ def import_urls(conn, txt_path):
     txt_path = Path(txt_path)
     print(f"Processing: {txt_path}")
 
-    before = conn.total_changes
+    added = 0
     processed = 0
     batch = []
 
-    with txt_path.open("r", encoding="utf-8") as f:
+    with conn.cursor() as cursor, txt_path.open("r", encoding="utf-8") as f:
         for line in f:
             url = line.strip()
 
             if not url:
                 continue
 
+            # PostgreSQL TEXT cannot contain NUL bytes.
+            if "\x00" in url:
+                print(f"  Skipping URL containing NUL on line {processed + 1}")
+                continue
+
             batch.append((url,))
             processed += 1
 
             if len(batch) >= BATCH_SIZE:
-                conn.executemany(
-                    "INSERT OR IGNORE INTO File_URL (file_url) VALUES (?)",
+                cursor.executemany(
+                    "INSERT INTO file_url (file_url) VALUES (%s) ON CONFLICT DO NOTHING",
                     batch
                 )
+                added += cursor.rowcount
                 batch.clear()
 
         if batch:
-            conn.executemany(
-                "INSERT OR IGNORE INTO File_URL (file_url) VALUES (?)",
+            cursor.executemany(
+                "INSERT INTO file_url (file_url) VALUES (%s) ON CONFLICT DO NOTHING",
                 batch
             )
+            added += cursor.rowcount
 
     conn.commit()
 
-    added = conn.total_changes - before
     print(f"  Processed: {processed:,}")
     print(f"  Added:     {added:,}")
     print(f"  Skipped:   {processed - added:,}")
@@ -88,7 +99,7 @@ def import_urls(conn, txt_path):
 def main():
     total_added = 0
 
-    with sqlite3.connect(DB_PATH) as conn:
+    with get_db_connection() as conn:
         for txt_file in TXT_FILES:
             total_added += import_urls(conn, txt_file)
 

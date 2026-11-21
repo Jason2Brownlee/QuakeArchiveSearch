@@ -44,7 +44,7 @@ BASE_URLS = [
     # ftp
     # "https://dukeworld.com/",
     # "https://ftpmirror.infania.net/pub/",
-    "https://www.gamers.org/",
+    # "https://www.gamers.org/",
 ##    "https://www.quaddicted.com/files/",
 
     # generic retro
@@ -74,10 +74,20 @@ SKIP_PATTERNS = [        # URLs containing any of these are ignored entirely
     "/pub/turnkeylinux/",
     # gamers.org
     "/pub/archives/plans/",
-    "/pub/archives/doom/articles/1995/",
+    "/pub/archives/doom/articles/",
     "/pub/archives/quake/articles/",
     "/uwp-uml/romulus/hints/",
     "/pub/archives/idNews/",
+    "/pub/archives/cactus/falcon3",
+    "/pub/archives/cactus/falcon3/maillist/",
+    "/pub/archives/doom/periodic/",
+    # cd.textfiles.com
+    "/.name",
+    "/.size",
+    "/.subname",
+    "/.year",
+    "/.files",
+    "/.month",
 ]
 
 OUTPUT_DIR = "../data/crawl_downloads"  # cached pages go in OUTPUT_DIR/<domain>/<hash>

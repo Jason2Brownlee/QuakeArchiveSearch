@@ -2,21 +2,22 @@
 
 # ignore mac files
 .DS_Store
+# cache
+src/__pycache__
 
-# ignore temp downloads
+# ignore crawl temp data
 data/wayback_downloads
 data/crawl_downloads
-# files is too big
+# index in files.txt is too big to commit
 data/ia_cd_index
 
-# too big
-
-# ignore the whole index
+# ignore the old index
 data/*.db
 data/*.sqlite
+data/*.zip
 
-data/quake_website.db.zip
-data/quake_website_testing.db.zip
+# ignore backups
+data/backup
 
 # dev notes
 dev

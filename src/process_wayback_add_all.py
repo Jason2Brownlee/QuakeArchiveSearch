@@ -1,18 +1,12 @@
-import sqlite3
+# read a list of urls from text file and add to a temp db table for processing against the wayback machine
+# after this we use process_wayback_list_all.py
+
+from db import get_db_connection
 from urllib.parse import urlparse, urlunparse, unquote, quote
 import sys
 
-DATABASE = '../data/quake_website.db'
-
 URL_FILE = '../data/quake_websites.txt'
-# URL_FILE = '../data/quake_bot_websites.txt'
-# URL_FILE = '../data/quake_bot_research_websites2.txt'
-# URL_FILE = '../data/quake_official_websites.txt'
-# URL_FILE = '../data/quake_domains.txt'
-# URL_FILE = '../data/quake_quakec_mailing_list.txt'
-# URL_FILE = '../data/quake_usenet.txt'
-# URL_FILE = '../data/quake_name_domains.txt'
-# URL_FILE = '../data/aop_crawl.txt'
+
 
 def standardize_url(url):
     """
@@ -58,10 +52,6 @@ def load_quake_websites(filename):
     Loads quake websites from a text file into the database,
     after standardizing and checking for uniqueness.
     """
-    # Connect to the SQLite database
-    conn = sqlite3.connect(DATABASE)
-    cursor = conn.cursor()
-
     # Initialize counters
     total_urls = 0
     inserted_count = 0
@@ -70,44 +60,46 @@ def load_quake_websites(filename):
     error_urls = []
 
     try:
-        # Open the file and process each URL
         with open(filename, 'r', encoding='utf-8') as file:
-            for line in file:
-                # skip comments
-                if line and line.startswith('#'):
-                    continue
-                total_urls += 1
-                original_url = line.strip()
-                if not original_url:
-                    continue  # Skip empty lines
-                try:
-                    standardized_url = standardize_url(original_url)
-                    if standardized_url:
-                        # print(standardized_url)
-                        # Check if the URL is already in the database
-                        cursor.execute('SELECT id FROM Quake_Website WHERE base_url = ?', (standardized_url,))
-                        if cursor.fetchone() is None:
-                            # Insert the URL if it doesn't exist
-                            cursor.execute('INSERT INTO Quake_Website (base_url, original_url) VALUES (?, ?)', (standardized_url, original_url))
-                            inserted_count += 1
-                        else:
-                            # Skip the URL if it already exists
-                            skipped_count += 1
-                    else:
-                        error_count += 1
-                        error_urls.append(original_url)
-                except Exception as e:
-                    error_count += 1
-                    error_urls.append(original_url)
-                    print(f"Error processing URL '{original_url}': {e}", file=sys.stderr)
+            with get_db_connection() as conn:
+                with conn.cursor() as cursor:
+                    with conn.transaction():
+                        for line in file:
+                            # skip comments
+                            if line and line.startswith('#'):
+                                continue
+                            total_urls += 1
+                            original_url = line.strip()
+                            if not original_url:
+                                continue  # Skip empty lines
+
+                            try:
+                                standardized_url = standardize_url(original_url)
+                                if not standardized_url or '\x00' in standardized_url or '\x00' in original_url:
+                                    error_count += 1
+                                    error_urls.append(original_url)
+                                    continue
+
+                                # A savepoint lets a bad URL fail without aborting other inserts.
+                                with conn.transaction():
+                                    cursor.execute(
+                                        """INSERT INTO quake_website (base_url, original_url)
+                                           VALUES (%s, %s)
+                                           ON CONFLICT (base_url) DO NOTHING
+                                           RETURNING id""",
+                                        (standardized_url, original_url)
+                                    )
+                                    if cursor.fetchone() is not None:
+                                        inserted_count += 1
+                                    else:
+                                        skipped_count += 1
+                            except Exception as e:
+                                error_count += 1
+                                error_urls.append(original_url)
+                                print(f"Error processing URL '{original_url}': {e}", file=sys.stderr)
     except FileNotFoundError:
         print(f"Error: File '{filename}' not found.", file=sys.stderr)
-        conn.close()
         return
-
-    # Commit the changes and close the connection
-    conn.commit()
-    conn.close()
 
     # Report the results
     print(f"Processing complete.")
