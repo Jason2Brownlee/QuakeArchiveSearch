@@ -19,7 +19,7 @@ The Quake community has produced a vast amount of content over the years, includ
 
 ## Solution
 
-The Quake Archive Search project addresses this issue by providing a comprehensive database and search tool for Quake 1 file URLs. Key features include:
+The Quake Archive Search project addresses this issue by providing a comprehensive database and search tool for Quake file URLs. Key features include:
 
 - A centralized index of known Quake file URLs
 - Powerful search capabilities, including wildcard support
@@ -44,74 +44,44 @@ While the Internet Archive's Wayback Machine is an invaluable resource for acces
 
 By addressing these specific issues, the Quake Archive Search project complements the Wayback Machine, offering a more powerful and targeted solution for preserving and accessing the rich history of Quake content.
 
-## Usage
+## Setup
 
-### Create the database
+1. Install PostgreSQL and the Python dependencies. Follow the instructions in the comments at the top of `src/database_create_postgres.py`.
+2. Create the PostgreSQL database and tables:
 
-1. Create the database schema by running `src/database_create.py`.
+   ```bash
+   python3 src/database_create_postgres.py
+   ```
 
-This will result in a database file `data/quake_website.db`.
+3. Check the `PYTHON` setting in the `Makefile` (currently `/usr/local/bin/python3`) and adjust it if necessary. Configure input files and other options at the top of the relevant scripts in `src/`.
 
-### Add all archived URLs for known Quake websites
+Run the commands below from the project root.
 
-This will retrieve all URLs archived by the wayback machine for a specified list of Quake websites.
+## Common Tasks
 
-1. Create a list of all known quake websites in `data/quake_websites.txt`
-2. Add all known websites to the database `src/quake_websites_add_all.py`
-3. Retrieve all archived URLs for each added quake website `src/process_archived_list.py`
+| Command | What it does |
+| --- | --- |
+| `make server` | Start the Flask search interface at <http://127.0.0.1:5000/>. |
+| `make check_db` | Check wishlist filenames against URLs in PostgreSQL. |
+| `make check_files` | Check wishlist filenames against local text-file indexes. |
+| `make wayback_crawl` | Crawl archived Wayback Machine pages for URLs. |
+| `make web_crawl` | Crawl live websites for URLs. |
+| `make dir_crawl` | Scan local directories for URLs and write a report. |
+| `make cd_crawl` | Index files from a user's Internet Archive CD uploads. |
+| `make extract_links` | Extract links from a webpage. |
+| `make wayback_add` | Add website URLs from a text file to the Wayback processing database. |
+| `make wayback_list` | Retrieve archived URLs for websites not yet processed. |
+| `make wayback_delete` | Delete selected unprocessed website records; review the script before running. |
+| `make import_filelists` | Import URL lists from text files into PostgreSQL. |
+| `make db_health` | Refresh URL statistics and show table health and sizes. |
+| `make db-backup` | Create a compressed PostgreSQL backup in `data/backup/`. |
 
-Repeat for more lists of known Quake websites.
+## Typical Workflow
 
-For example, use `src/process_crawl_dir.py` to crawl local directories of Quake mods to locate more Quake websites. Store them in new lists and repeat steps 2 and 3 with these new lists.
+1. Add website URLs to the input file configured in `src/process_wayback_add_all.py`, then run `make wayback_add`.
+2. Run `make wayback_list` to retrieve URLs recorded by the Wayback Machine.
+3. Use the crawl and import targets to discover and add more URLs.
+4. Run `make db_health` after large imports and `make db-backup` to save a backup.
+5. Run `make server` to search the URL index.
 
-For example:
-
-* `data/quake_bot_research_websites.txt` all websites mentioned in the quake bot archive research directory.
-* `data/quake_bot_research_websites2.txt` more permissive version of all websites mentioned in the quake bot archive research directory.
-* `data/quake_bot_websites.txt` all websites mentioned in all .txt and all .zip files in the quake bot archive bin directory.
-* `data/quake_official_websites.txt` all websites mentioned in all .txt and all .zip files in the quake official archive bin directory.
-
-### Add crawled URLs for archived Quake websites
-
-1. Define a list of Quake websites to download and crawl in `data/quake_websites_crawl.txt`
-2. Run the crawl script in `src/process_archived_crawl.py`
-
-This will download all text and HTML files archived for each website in the text file and crawl them for URLs to add to the index.
-
-This is slow and may run for weeks.
-
-Add websites as needed.
-
-Increase the cutoff year for the archive retrieval as needed (e.g. from 2000 to 2010).
-
-### Run web interface for search
-
-1. Run `web/app.py` to run the Flask website interface.
-2. Access the site via <http://127.0.0.1:5000/>
-
-### Other
-
-* Search the index manually with `src/database_search.py`
-* Check on the number of archived websites and remaining websites to process with `src/database_status.py`
-* Output all known quake file URLs (why?) with `src/file_urls_list_all.py`
-* Output all processed quake websites (added via lists) with `src/process_list_all.py`
-* Output all quake websites (added via lists) with `src/quake_websites_list.py`
-* Report all quake file urls for wishlist files not in wishlist urls via `src/wishlist_url_checker.py`
-
-## Database
-
-The database (at the time of writing) is about 11 Gigabytes in size and is hosted privately (on my workstation).
-
-I may share ot publicly in the future.
-
-Until then, if you want me to search for a quake file for you, please email: Jason.Brownlee05@gmail.com
-
-## TODO
-
-* Store a hash of crawled URLs in the database to avoid re-downloading/re-crawling.
-* Add URLs discovered from a crawl of current Quake websites.
-* Add URLs discovered from a crawl of quake USENET archives.
-* Add URLs discovered from a crawl of quake mailing list archives.
-* Add Makefile and make targets for main tasks for the project.
-* Port the database to postgres/mysql/etc.
-* Host website publicly somewhere.
+Some crawling tasks can take a long time. The scripts control their own input paths, exclusions, and rate limits.
