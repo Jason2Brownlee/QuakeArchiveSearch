@@ -67,12 +67,13 @@ Run the commands below from the project root.
 | `make wayback_crawl` | Crawl archived Wayback Machine pages for URLs. |
 | `make web_crawl` | Crawl live websites for URLs. |
 | `make dir_crawl` | Scan local directories for URLs and write a report. |
-| `make cd_crawl` | Index files from a user's Internet Archive CD uploads. |
+| `make user_crawl` | Index files from a user's Internet Archive CD uploads. |
+| `make cd_crawl` | Index files multiple Internet Archive CD uploads. |
 | `make extract_links` | Extract links from a webpage. |
 | `make wayback_add` | Add website URLs from a text file to the Wayback processing database. |
 | `make wayback_list` | Retrieve archived URLs for websites not yet processed. |
 | `make wayback_delete` | Delete selected unprocessed website records; review the script before running. |
-| `make import_filelists` | Import URL lists from text files into PostgreSQL. |
+| `make import_lists` | Import URL lists from text files into PostgreSQL. |
 | `make db_health` | Refresh URL statistics and show table health and sizes. |
 | `make db-backup` | Create a compressed PostgreSQL backup in `data/backup/`. |
 

@@ -9,7 +9,7 @@ PYTHON=/usr/local/bin/python3
 
 .PHONY: server check_db check_files wayback_crawl web_crawl wayback_add \
 	wayback_list import_filelists cd_crawl extract_links db_health \
-	db-backup
+	db-backup user_crawl
 
 # web server
 server:
@@ -43,9 +43,14 @@ web_crawl:
 dir_crawl:
 	@cd ${SRC} && ${PYTHON} process_crawl_directory.py
 
-# crawl all cds uploaded for user on internet archive
+# crawl all listed cds on internet archive
 cd_crawl:
-	@cd ${SRC} && ${PYTHON} process_index_internet_archive_cds.py
+	@cd ${SRC} && ${PYTHON} process_index_ia_cds.py
+
+# crawl all cds uploaded for user on internet archive
+user_crawl:
+	@cd ${SRC} && ${PYTHON} process_index_ia_user.py
+
 
 # extract all links from a page
 extract_links:
@@ -70,7 +75,7 @@ wayback_delete:
 # =================
 
 # import urls in text files into db
-import_filelists:
+import_lists:
 	@cd ${SRC} && ${PYTHON} process_import_file_lists_db.py
 
 

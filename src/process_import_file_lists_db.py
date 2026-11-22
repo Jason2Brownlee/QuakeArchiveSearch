@@ -12,8 +12,11 @@ TXT_FILES = [
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/tf_urls.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/qr_urls.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/dir_targets/aq2_urls.txt",
+
     # # custom internet archive
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/all_files.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/user_all_file_urls.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/cds_all_file_urls.txt",
+
     # # tastyspleen
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_badbrent_tastyspleen_net.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_barton_tastyspleen_net.txt",
@@ -29,19 +32,22 @@ TXT_FILES = [
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_sofiene_tastyspleen_net.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_tastyspleen_net_quake_downloads.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_towlie_tastyspleen_net.txt",
-    # # # archives
+
+    # quake archives
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_maddes_net_temp_jason_brownlee.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_aq2world_s3_amazonaws_com_index_html_files.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_clan_rum_org_files.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quaketastic_com.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_shub_hub_com.txt",
-    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_dukeworld_com.txt",
 
+    # ftp mirrors
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_dukeworld_com.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
 
+    # retro
 # ongoing
-    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
 ]
 
 BATCH_SIZE = 10000

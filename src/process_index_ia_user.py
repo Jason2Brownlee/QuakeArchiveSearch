@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Index downloadable files inside Internet Archive CD images without downloading ISOs.
+    FOR A USER
 
 Edit the SETTINGS section, then run: python ia_cd_indexer_v4.py
 Dependencies: pip install requests beautifulsoup4
@@ -12,8 +13,8 @@ UPLOADER = "kingshadow7"
 
 OUTPUT_DIR = "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index"       # All output, relative to this script (or absolute)
 CACHE_DIR = "cache"                  # Cached HTTP response bodies under OUTPUT_DIR
-URLS_FILE = "all_files.txt"          # One fully qualified download URL per line
-ITEMS_FILE = "items.txt"
+URLS_FILE = "user_all_file_urls.txt"          # One fully qualified download URL per line
+ITEMS_FILE = "user_items.txt"
 MAX_ITEMS = 0                        # 0 = all; use 5 for a test
 REQUEST_DELAY_SECONDS = 2.0          # Delay between network requests
 REQUEST_TIMEOUT_SECONDS = 180

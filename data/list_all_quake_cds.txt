@@ -1,5 +1,3 @@
-# https://quakediscs.com/search/ 20261118
-
 abyss-of-pandemonium,Abyss of Pandemonium/AUTORUN.INF
 abyss-of-pandemonium,Abyss of Pandemonium/DEUTSCH.TXT
 abyss-of-pandemonium,Abyss of Pandemonium/ENGLISH.TXT
