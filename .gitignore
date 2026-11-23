@@ -8,6 +8,12 @@ src/__pycache__
 # ignore crawl temp data
 data/wayback_downloads
 data/crawl_downloads
+
+# too big
+data/crawl_targets/crawl_cd_textfiles_com.txt
+data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt
+data/crawl_targets/crawl_www_gamers_org.txt
+
 # index in files.txt is too big to commit
 data/ia_cd_index
 
