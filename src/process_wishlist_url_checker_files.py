@@ -42,11 +42,12 @@ FILE_PATHS_LIST = [
     # ## "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-killer-cds.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_fileplanet.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list-cloud-file-crawl-2025.txt",
-    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_all_quake_cds.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_all_quake_cds.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/list_quaddicted.txt",
 
     # custom internet archive
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/all_files.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/cds_all_file_urls.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/ia_cd_index/user_all_file_urls.txt",
     # tastyspleen
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_badbrent_tastyspleen_net.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_barton_tastyspleen_net.txt",
@@ -69,8 +70,14 @@ FILE_PATHS_LIST = [
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quaketastic_com.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_shub_hub_com.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_dukeworld_com.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
-    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
+    # quake
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_archives_aq2world_com.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quaketerminus_com.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_geocities_ws_oldquaker.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_randars_com_bots.txt",
+
     # # retro
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
 

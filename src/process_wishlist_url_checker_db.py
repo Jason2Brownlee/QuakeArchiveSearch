@@ -76,7 +76,7 @@ def main(pairs):
     conn.close()
 
 if __name__ == '__main__':
-    # default exclusions file
+    # generic/default exclusions file
     EXCLUSIONS = '/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/wishlists/exclusions.txt'
 
     pairs = [
@@ -133,7 +133,7 @@ if __name__ == '__main__':
             ['QuakeOfficialArchive',
              '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist_urls.txt',
              '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/wishlist.txt',
-              EXCLUSIONS],
+             '/Users/jasonb/Development/Quake/QuakeOfficialArchive/research/exclusions.txt'],
             ['QuakeNavySeals',
               '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/QuakeNavySeals/research/wishlist.txt',
@@ -141,15 +141,15 @@ if __name__ == '__main__':
             ['ThreeWaveCTF',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/wishlist.txt',
-              EXCLUSIONS],
+              '/Users/jasonb/Development/Quake/ThreeWaveCTF/research/exclusions.txt'],
             ['TeamFortressQuakeArchive',
               '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist_urls.txt',
               '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/wishlist.txt',
-              EXCLUSIONS],
+              '/Users/jasonb/Development/Quake/TeamFortressQuakeArchive/research/exclusions.txt'],
             ['QuakeBotArchive',
              '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist_urls.txt',
              '/Users/jasonb/Development/Quake/QuakeBotArchive/research/wishlist.txt',
-              EXCLUSIONS],
+              '/Users/jasonb/Development/Quake/QuakeBotArchive/research/exclusions.txt'],
             ['QuakeRallyArchive',
              '/Users/jasonb/Development/Quake/QuakeRallyArchive/research/wishlist_urls.txt',
              '/Users/jasonb/Development/Quake/QuakeRallyArchive/research/wishlist.txt',
@@ -178,11 +178,11 @@ if __name__ == '__main__':
              '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist_urls.txt',
              '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/wishlist.txt',
              '/Users/jasonb/Development/Quake/Quake3OfficialArchive/research/exclusions.txt'],
-            ['Q3TestAddons',
-             '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist_urls.txt',
-             '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist.txt',
-             '/Users/jasonb/Development/Quake/Q3TestAddons/research/exclusions.txt']
+            # ['Q3TestAddons',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist_urls.txt',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/wishlist.txt',
+            #  '/Users/jasonb/Development/Quake/Q3TestAddons/research/exclusions.txt']
 
-             ]
+]
 
     main(pairs)

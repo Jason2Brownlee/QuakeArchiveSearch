@@ -45,20 +45,28 @@ BASE_URLS = [
     # "https://dukeworld.com/",
     # "https://ftpmirror.infania.net/pub/",
     # "https://www.gamers.org/",
+
+    # we already have the ls -l
 ##    "https://www.quaddicted.com/files/",
+
+    # need to rework so it can visit http://annex.retroarchive.org/
+##    # "http://www.retroarchive.org/",
+
+    # general quake
+    # "https://archives.aq2world.com/",
+    # "https://www.quaketerminus.com/",
+    # "https://www.geocities.ws/oldquaker/",
+    # "https://www.randars.com/bots/",
+    # "https://easttown.co.uk/quake/",
+    # "http://www.quakecas.freeservers.com/",
+    # "https://graphics.stanford.edu/~kekoa/stoogebot/",
+    # "https://quake2.radiac.net/",
+    # "https://mrelusive.com/oldprojects/",
+# TODO
+    # "http://www.quake2.com/",
 
     # generic retro
     "http://cd.textfiles.com/",
-
-    # need to rework so it can visit http://annex.retroarchive.org/
-    # "http://www.retroarchive.org/",
-
-    # general quake
-    "https://archives.aq2world.com/",
-    "https://www.quaketerminus.com/",
-    "https://www.geocities.ws/oldquaker/",
-    "https://www.randars.com/bots/",
-
 ]
 
 SKIP_PATTERNS = [        # URLs containing any of these are ignored entirely
@@ -97,7 +105,7 @@ FORCE_REDOWNLOAD = False                # True = ignore cache and fetch everythi
 LIST_OUT_OF_SCOPE = True   # True = list every link found; crawling stays limited to the base
 
 DELAY_SECONDS = 5                      # pause after each network request
-TIMEOUT_SECONDS = 10
+TIMEOUT_SECONDS = 30
 
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
@@ -110,10 +118,17 @@ class LinkParser(HTMLParser):
         self.links = []
 
     def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+
         if tag == "a":
-            for name, value in attrs:
-                if name == "href" and value:
-                    self.links.append(value.strip())
+            url = attrs.get("href")
+        elif tag in ("frame", "iframe"):
+            url = attrs.get("src")
+        else:
+            return
+
+        if url:
+            self.links.append(url.strip())
 
 
 def normalize(url):
@@ -197,8 +212,14 @@ def crawl(base):
             continue
         final_url, html = page
 
+        # Update crawl scope if the initial URL redirected.
+        if page_url == base and final_url != base:
+            print(f"  redirected: {base} -> {final_url}")
+            base = normalize(final_url)
+
         parser = LinkParser()
         parser.feed(html)
+        print(f"  extracted links: {len(parser.links)}")
 
         for href in parser.links:
             if href.startswith(("mailto:", "javascript:", "#")):

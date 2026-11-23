@@ -790,123 +790,122 @@
 # ftp.idsoftware.com/idstuff/quake2/source
 # ftp.telefragged.com/pub/tsunami
 # Quake2.ngWorldStats.com/FAQ
-botepidemic.com/q2rfd
-clans.barrysworld.com/ncp
-frag.com/vanctf
-fragland.net/cicatrix
-fragland.net/ebs
-home.sol.no/~kvikkk
-home3.highway.ne.jp/Jason
-home7.swipnet.se/~w-71686
-homepage.esoterica.pt/~smashing
-homepage.esoterica.pt/~smashing/TourneyCE
-homepage.esoterica.pt/~smashing/tourneyce
-impact.frag.com/files
-kadath.res.cmu.edu
-kamensk.far.ru/files
-lanparty/tourney
-members.tripod.com/fubah
-members.tripod.com/~halflifebio
-members.xoom.com/panic_now
-my.voyager.net/shryqe/quake2
-phil.online-kdc.de
-phook.symix.com/hook
-planetquake.com/3
-planetquake.com/cdrom/ramshackle
-planetquake.com/crbot
-planetquake.com/emporium
-planetquake.com/ice
-planetquake.com/thecoven
-quake2.custard.org/spom
-rfhs8012.fh-regensburg.de/~saj39122/jfroehl/diplom
-templars.digiweb.com/q2s-faq
-users.jp.tri6.net/~ponpoko
-users.jp.tri6.net/~ponpoko/3zb2
-users.milliways.mg-net.de/fredmr/rfd
-choice.net/~raidr
-www-scf.usc.edu/~sfranke/glj
-3dfxworld.ml.org/hellsgates
-Geocities.com/SubCog
-NetGamesUSA.com/ngStats
-NetGamesUSA.com/ngStats/Quake2
-NetGamesUSA.com/ngTCS
-NetGamesUSA.com/ngWorldStats
-OrangeSmoothie.org/koth
-OrangeSmoothie.org/rocketo
-OrangeSmoothie.org/tourney
-altern.org/incubus
-angelfire.com/jazz/loko
-axionfx.com/ace
-botepidemic.com/aid/cgf
-botepidemic.com/gladiator
-botepidemic.com/q2rfd
-botepidemic/q2rfd
-btinternet.com/~AnthonyJ
-btinternet.com/~RsFHQ
-captured.com/assault
-captured.com/starctf
-captured.com/weaponsfactory
-cdrom.com/pub/infozip
-converted2.com/bmd
-cs.virginia.edu/~lcc-win32
-dnagames.net/bbc
-dol.net/~kaless
-emux.com/rambot
-eqclans.com/cgi-bin/forum
-fileplanet.com
-frag.com/deconstruct
-frag.com/quickstart
-fuzzysteve.co.uk/skunkworks
-geocities.com/SiliconValley/Lab/3733
-geocities.com/TelevisionCity/Set/1894
-geocities.com/TimesSquare/Bunker/8949
-geocities.com/TimesSquare/Labyrinth/8220
-geocities.com/~hafhead
-idsoftware.com/psteed
-iinet.net.au/~bilbe
-inside3d.com/sgm
-ittc.ukans.edu/~rhea
-mattcake.com/gladiator
-michaeljwolf.com/brian
-microsoft.com/windows95/info
-mmm.com/market/consumer/pms
-netgamesusa.com/ngLog
-netgamesusa.com/ngStats
-netgamesusa.com/ngStats/Quake2
-netgamesusa.com/ngTCS
-netgamesusa.com/ngWorldStats
-opt-sci.Arizona.EDU/Pandora
-people.cornell.edu/pages/dmf14/q2flog
-people.cornell.edu/pages/dmf14/qrc
-planetquake.com/3
-planetquake.com/arena
-planetquake.com/bball
-planetquake.com/bbqbot
-planetquake.com/bop
-planetquake.com/ce
-planetquake.com/chaos
-planetquake.com/chaotic
-planetquake.com/console
-planetquake.com/dmclassics
-planetquake.com/emporium
-planetquake.com/eqnews
-planetquake.com/expert
-planetquake.com/gibstats
-planetquake.com/gslogmod
-planetquake.com/holywars
-planetquake.com/jumps
-planetquake.com/keys2
-planetquake.com/maxtron/ltk
-planetquake.com/maxtron/michael
-planetquake.com/minion
-planetquake.com/niq
-planetquake.com/osp
-planetquake.com/osp/tourney
-planetquake.com/outpost
-planetquake.com/pro-rocket
-planetquake.com/q2pmp
-planetquake.com/qdevels
-planetquake.com/rail
+# botepidemic.com/q2rfd
+# clans.barrysworld.com/ncp
+# frag.com/vanctf
+# fragland.net/cicatrix
+# fragland.net/ebs
+# home.sol.no/~kvikkk
+# home3.highway.ne.jp/Jason
+# home7.swipnet.se/~w-71686
+# homepage.esoterica.pt/~smashing
+# homepage.esoterica.pt/~smashing/TourneyCE
+# homepage.esoterica.pt/~smashing/tourneyce
+# impact.frag.com/files
+# kadath.res.cmu.edu
+# kamensk.far.ru/files
+# lanparty/tourney
+# members.tripod.com/fubah
+# members.tripod.com/~halflifebio
+# members.xoom.com/panic_now
+# my.voyager.net/shryqe/quake2
+# phil.online-kdc.de
+# phook.symix.com/hook
+# planetquake.com/3
+# planetquake.com/cdrom/ramshackle
+# planetquake.com/crbot
+# planetquake.com/emporium
+# planetquake.com/ice
+# planetquake.com/thecoven
+# quake2.custard.org/spom
+# rfhs8012.fh-regensburg.de/~saj39122/jfroehl/diplom
+# templars.digiweb.com/q2s-faq
+# users.jp.tri6.net/~ponpoko
+# users.jp.tri6.net/~ponpoko/3zb2
+# users.milliways.mg-net.de/fredmr/rfd
+# choice.net/~raidr
+# www-scf.usc.edu/~sfranke/glj
+# 3dfxworld.ml.org/hellsgates
+# Geocities.com/SubCog
+# NetGamesUSA.com/ngStats
+# NetGamesUSA.com/ngStats/Quake2
+# NetGamesUSA.com/ngTCS
+# NetGamesUSA.com/ngWorldStats
+# OrangeSmoothie.org/koth
+# OrangeSmoothie.org/rocketo
+# OrangeSmoothie.org/tourney
+# altern.org/incubus
+# angelfire.com/jazz/loko
+# axionfx.com/ace
+# botepidemic.com/aid/cgf
+# botepidemic.com/gladiator
+# botepidemic.com/q2rfd
+# botepidemic/q2rfd
+# btinternet.com/~AnthonyJ
+# btinternet.com/~RsFHQ
+# captured.com/assault
+# captured.com/starctf
+# captured.com/weaponsfactory
+##cdrom.com/pub/infozip
+# converted2.com/bmd
+# cs.virginia.edu/~lcc-win32
+# dnagames.net/bbc
+# dol.net/~kaless
+# emux.com/rambot
+# eqclans.com/cgi-bin/forum
+# frag.com/deconstruct
+# frag.com/quickstart
+# fuzzysteve.co.uk/skunkworks
+# geocities.com/SiliconValley/Lab/3733
+# geocities.com/TelevisionCity/Set/1894
+# geocities.com/TimesSquare/Bunker/8949
+# geocities.com/TimesSquare/Labyrinth/8220
+# geocities.com/~hafhead
+# idsoftware.com/psteed
+# iinet.net.au/~bilbe
+# inside3d.com/sgm
+# ittc.ukans.edu/~rhea
+# mattcake.com/gladiator
+# michaeljwolf.com/brian
+# microsoft.com/windows95/info
+# mmm.com/market/consumer/pms
+# netgamesusa.com/ngLog
+# netgamesusa.com/ngStats
+# netgamesusa.com/ngStats/Quake2
+# netgamesusa.com/ngTCS
+# netgamesusa.com/ngWorldStats
+# opt-sci.Arizona.EDU/Pandora
+# people.cornell.edu/pages/dmf14/q2flog
+# people.cornell.edu/pages/dmf14/qrc
+# planetquake.com/3
+# planetquake.com/arena
+# planetquake.com/bball
+# planetquake.com/bbqbot
+# planetquake.com/bop
+# planetquake.com/ce
+# planetquake.com/chaos
+# planetquake.com/chaotic
+# planetquake.com/console
+# planetquake.com/dmclassics
+# planetquake.com/emporium
+# planetquake.com/eqnews
+# planetquake.com/expert
+# planetquake.com/gibstats
+# planetquake.com/gslogmod
+# planetquake.com/holywars
+# planetquake.com/jumps
+# planetquake.com/keys2
+# planetquake.com/maxtron/ltk
+# planetquake.com/maxtron/michael
+# planetquake.com/minion
+# planetquake.com/niq
+# planetquake.com/osp
+# planetquake.com/osp/tourney
+# planetquake.com/outpost
+# planetquake.com/pro-rocket
+# planetquake.com/q2pmp
+# planetquake.com/qdevels
+# planetquake.com/rail
 planetquake.com/ramshackle
 planetquake.com/redemption
 planetquake.com/tangential
@@ -935,3 +934,6 @@ terravista.pt/Ancora/2774
 activision.com/games/quake2mp1
 activision.com/games/quake2mp2
 
+
+members.xoom.com/quakefiles
+members.nbci.com/quake3bots

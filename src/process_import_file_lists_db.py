@@ -45,8 +45,21 @@ TXT_FILES = [
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_ftpmirror_infania_net_pub.txt",
     # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_gamers_org.txt",
 
-    # retro
+    # quake
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_archives_aq2world_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quaketerminus_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_geocities_ws_oldquaker.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_randars_com_bots.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_easttown_co_uk_quake.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quakecas_freeservers_com.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_graphics_stanford_edu_kekoa_stoogebot.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_quake2_radiac_net.txt",
+    # "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_mrelusive_com_oldprojects.txt",
+    "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_www_quake2_com.txt",
+
 # ongoing
+
+    # retro
     "/Users/jasonb/Development/Quake/QuakeArchiveSearch/data/crawl_targets/crawl_cd_textfiles_com.txt",
 ]
 
